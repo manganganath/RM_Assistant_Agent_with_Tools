@@ -8,4 +8,4 @@ env:
   - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
     value: "false"
   - name: SERVING_ENDPOINT
-    value: "agents_nuwan-rm_agent-rm_agent"
+    value: "agents_workspace-rm_agent-rm_agent"

@@ -16,12 +16,8 @@
 
 # COMMAND ----------
 
-# MAGIC %pip install -U -qqqq mlflow langchain langgraph==0.3.4 databricks-langchain pydantic databricks-agents unitycatalog-langchain[databricks] uv
+# MAGIC %pip install -U -qqqq mlflow-skinny[databricks] langgraph==0.3.4 databricks-langchain databricks-agents uv
 # MAGIC dbutils.library.restartPython()
-
-# COMMAND ----------
-
-# MAGIC %run ./config
 
 # COMMAND ----------
 
@@ -70,12 +66,7 @@
 # MAGIC LLM_ENDPOINT_NAME = "databricks-meta-llama-3-3-70b-instruct"
 # MAGIC llm = ChatDatabricks(endpoint=LLM_ENDPOINT_NAME)
 # MAGIC
-# MAGIC system_prompt = """You are a helpful assistant for Relationship Managers (RMs). Your task is to assist RMs with banking and investment queries related to their customers. You have access to several internal tools that can help you:
-# MAGIC             - **Currency Conversion:** Convert any given currency amount to USD.
-# MAGIC             - **Customer Information:** Retrieve metadata about a customer when provided with their name.
-# MAGIC             - **Unit Trust Listings:** Get a list of unit trusts that fall under a specified risk rating.
-# MAGIC             - **Unit Trust Details:** Obtain detailed information about a particular unit trust based on the query.
-# MAGIC             When responding, make sure to use the appropriate tool for each task and provide a coherent, informative answer without mentioning these internal tools to the customer. If a question isn't related to banking, customer information, currency conversion, or unit trusts, kindly let the RM know that you’re sorry but you can’t answer that query."""
+# MAGIC system_prompt = """You are a helpful assistant for Relationship Managers (RMs). Your task is to assist RMs with banking and investment queries related to their customers. You have access to several internal tools that can help you. When responding, make sure to use the appropriate tool for each task and provide a coherent, informative answer without mentioning these internal tools to the user. If a question is not related to banking, customer information, currency conversion, or unit trusts, kindly let the user know that you are sorry but you cannot answer that query."""
 # MAGIC
 # MAGIC ###############################################################################
 # MAGIC ## Define tools for your agent, enabling it to retrieve data or take actions
@@ -86,7 +77,7 @@
 # MAGIC tools = []
 # MAGIC
 # MAGIC # You can use UDFs in Unity Catalog as agent tools
-# MAGIC uc_tool_names = ["nuwan.rm_agent.*"]
+# MAGIC uc_tool_names = ["workspace.rm_agent.*"]
 # MAGIC uc_toolkit = UCFunctionToolkit(function_names=uc_tool_names)
 # MAGIC tools.extend(uc_toolkit.tools)
 # MAGIC
@@ -214,6 +205,10 @@
 
 # COMMAND ----------
 
+dbutils.library.restartPython()
+
+# COMMAND ----------
+
 from agent import AGENT
 
 AGENT.predict({"messages": [{"role": "user", "content": "Hello!"}]})
@@ -230,7 +225,7 @@ for event in AGENT.predict_stream(
 # MAGIC %md
 # MAGIC ### Log the `agent` as an MLflow model
 # MAGIC Determine Databricks resources to specify for automatic auth passthrough at deployment time
-# MAGIC - **TODO**: If your Unity Catalog tool queries a [vector search index](https://docs.databricks.com/generative-ai/agent-framework/unstructured-retrieval-tools.html) or leverages [external functions](https://docs.databricks.com/generative-ai/agent-framework/external-connection-tools.html), you need to include the dependent vector search index and UC connection objects, respectively, as resources. See [docs](https://docs.databricks.com/generative-ai/agent-framework/log-agent.html#specify-resources-for-automatic-authentication-passthrough) for more details.
+# MAGIC - **TODO**: If your Unity Catalog Function queries a [vector search index](https://docs.databricks.com/generative-ai/agent-framework/unstructured-retrieval-tools.html) or leverages [external functions](https://docs.databricks.com/generative-ai/agent-framework/external-connection-tools.html), you need to include the dependent vector search index and UC connection objects, respectively, as resources. See [docs](https://docs.databricks.com/generative-ai/agent-framework/log-agent.html#specify-resources-for-automatic-authentication-passthrough) for more details.
 # MAGIC
 # MAGIC Log the agent as code from the `agent.py` file. See [MLflow - Models from Code](https://mlflow.org/docs/latest/models.html#models-from-code).
 
@@ -238,48 +233,50 @@ for event in AGENT.predict_stream(
 
 # Determine Databricks resources to specify for automatic auth passthrough at deployment time
 import mlflow
-from agent import tools, LLM_ENDPOINT_NAME
+from agent import LLM_ENDPOINT_NAME, tools
 from databricks_langchain import VectorSearchRetrieverTool
 from mlflow.models.resources import *
+from pkg_resources import get_distribution
 from unitycatalog.ai.langchain.toolkit import UnityCatalogTool
 
-# TODO: Manually include underlying resources if needed. See the TODO in the markdown above for more information.
+
 resources = [
-    DatabricksVectorSearchIndex(index_name="nuwan.rm_agent.ut_pdf_docs_vs_index"),
+    DatabricksVectorSearchIndex(index_name="workspace.rm_agent.ut_pdf_docs_vs_index"),
     DatabricksServingEndpoint(endpoint_name=LLM_ENDPOINT_NAME),
     DatabricksServingEndpoint(endpoint_name="databricks-gte-large-en"),
-    DatabricksFunction(function_name="nuwan.rm_agent.unit_trust_vector_search"),
-    DatabricksFunction(function_name="nuwan.rm_agent.convert_to_usd"),
-    DatabricksFunction(function_name="nuwan.rm_agent.lookup_customer_info"),
-    DatabricksFunction(function_name="nuwan.rm_agent.lookup_ut_info"),
-    DatabricksTable(table_name="nuwan.rm_agent.customer_profile"),
-    DatabricksTable(table_name="nuwan.rm_agent.unit_trust"),
+    DatabricksTable(table_name="workspace.rm_agent.customer_profile"),
+    DatabricksTable(table_name="workspace.rm_agent.unit_trust"),
 ]
 
 for tool in tools:
     if isinstance(tool, VectorSearchRetrieverTool):
         resources.extend(tool.resources)
     elif isinstance(tool, UnityCatalogTool):
+        # TODO: If the UC function includes dependencies like external connection or vector search, please include them manually.
+        # See the TODO in the markdown above for more information.
         resources.append(DatabricksFunction(function_name=tool.uc_function_name))
 
 input_example = {
     "messages": [
         {
             "role": "user",
-            "content": "What is a Unit Trust?"
+            "content": "What are the unit trust recommended for a customer with risk rating of 1?"
         }
     ]
 }
 
 with mlflow.start_run():
     logged_agent_info = mlflow.pyfunc.log_model(
-        artifact_path="agent",
+        name="agent",
         python_model="agent.py",
         input_example=input_example,
         resources=resources,
-        extra_pip_requirements=[
-            "databricks-connect"
-        ]
+        pip_requirements=[
+            f"databricks-connect=={get_distribution('databricks-connect').version}",
+            f"mlflow=={get_distribution('mlflow').version}",
+            f"databricks-langchain=={get_distribution('databricks-langchain').version}",
+            f"langgraph=={get_distribution('langgraph').version}",
+        ],
     )
 
 # COMMAND ----------
@@ -307,7 +304,11 @@ mlflow.models.predict(
 
 mlflow.set_registry_uri("databricks-uc")
 
-UC_MODEL_NAME = "nuwan.rm_agent.rm_agent"
+# TODO: define the catalog, schema, and model name for your UC model
+catalog = "workspace"
+schema = "rm_agent"
+model_name = "rm_agent"
+UC_MODEL_NAME = f"{catalog}.{schema}.{model_name}"
 
 # register the model to UC
 uc_registered_model_info = mlflow.register_model(
@@ -322,8 +323,16 @@ uc_registered_model_info = mlflow.register_model(
 # COMMAND ----------
 
 from databricks import agents
-agents.deploy(UC_MODEL_NAME, uc_registered_model_info.version, tags = {"endpointSource": "playground"})
+
+agents.deploy(
+    model_name=UC_MODEL_NAME, 
+    model_version=uc_registered_model_info.version, 
+    workload_size="Small",
+    scale_to_zero=True)
 
 # COMMAND ----------
 
-
+# MAGIC %md
+# MAGIC ## Next steps
+# MAGIC
+# MAGIC After your agent is deployed, you can chat with it in AI playground to perform additional checks, share it with SMEs in your organization for feedback, or embed it in a production application. See [docs](https://docs.databricks.com/generative-ai/deploy-agent.html) for details

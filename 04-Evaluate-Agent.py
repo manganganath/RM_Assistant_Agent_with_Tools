@@ -68,7 +68,8 @@ import ast
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType
 
 db_token = dbutils.secrets.get(scope="nuwan_hf", key="petco")
-url = 'https://e2-demo-field-eng.cloud.databricks.com/serving-endpoints/agents_nuwan-rm_agent-rm_agent/invocations'
+
+url = 'https://dbc-5c83b309-9456.cloud.databricks.com/serving-endpoints/agents_workspace-rm_agent-rm_agent/invocations'
 headers = {'Authorization': f'Bearer {db_token}', 'Content-Type': 'application/json'}
 
 @mlflow.trace

@@ -9,8 +9,8 @@
 
 # COMMAND ----------
 
-VECTOR_SEARCH_ENDPOINT_NAME="one-env-shared-endpoint-15"
+VECTOR_SEARCH_ENDPOINT_NAME="vs_endpoint"
 LLM_ENDPOINT_NAME = "databricks-meta-llama-3-3-70b-instruct"
 
-catalog = "nuwan"
-dbName = db = schema = "rm_agent_v2"
+catalog = "workspace"
+dbName = db = schema = "rm_agent"

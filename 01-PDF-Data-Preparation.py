@@ -4,11 +4,6 @@
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC Use DBR 16.4 ML or above
-
-# COMMAND ----------
-
 # MAGIC %pip install databricks-vectorsearch==0.56
 # MAGIC
 # MAGIC dbutils.library.restartPython()
@@ -133,9 +128,15 @@ processed_df = combined_df.withColumn("combined_info", concat_ws("\n",
     concat_ws(": ", lit("Summary"), col("summary"))
 ))
 
-processed_df.write.mode('overwrite').saveAsTable(f"{catalog}.{schema}.ut_pdf_docs")
-
 display(processed_df)
+
+# COMMAND ----------
+
+processed_df.select("id", "pdf_content", "ut_id", "summary", "combined_info")\
+    .write\
+    .option("overwriteSchema", "true")\
+    .mode('overwrite')\
+    .saveAsTable(f"{catalog}.{schema}.ut_pdf_docs")
 
 # COMMAND ----------
 
@@ -144,6 +145,7 @@ spark.sql(f"ALTER TABLE {catalog}.{schema}.ut_pdf_docs SET TBLPROPERTIES (delta.
 
 # COMMAND ----------
 
+# DBTITLE 1,Create the managed vector search using our endpoint
 from databricks.vector_search.client import VectorSearchClient
 from databricks.sdk import WorkspaceClient
 import databricks.sdk.service.catalog as c
@@ -155,41 +157,15 @@ source_table_fullname = f"{catalog}.{schema}.ut_pdf_docs"
 # Where we want to store our index
 vs_index_fullname = f"{catalog}.{schema}.ut_pdf_docs_vs_index"
 
-# COMMAND ----------
-
-# DBTITLE 1,Creating the Vector Search endpoint
-if not endpoint_exists(vsc, VECTOR_SEARCH_ENDPOINT_NAME):
-    vsc.create_endpoint(name=VECTOR_SEARCH_ENDPOINT_NAME, endpoint_type="STANDARD")
-
-wait_for_vs_endpoint_to_be_ready(vsc, VECTOR_SEARCH_ENDPOINT_NAME)
-print(f"Endpoint named {VECTOR_SEARCH_ENDPOINT_NAME} is ready.")
-
-# COMMAND ----------
-
-# DBTITLE 1,Create the managed vector search using our endpoint
-if not index_exists(vsc, VECTOR_SEARCH_ENDPOINT_NAME, vs_index_fullname):
-  print(f"Creating index {vs_index_fullname} on endpoint {VECTOR_SEARCH_ENDPOINT_NAME}...")
-  try:
-    vsc.create_delta_sync_index(
-      endpoint_name=VECTOR_SEARCH_ENDPOINT_NAME,
-      index_name=vs_index_fullname,
-      source_table_name=source_table_fullname,
-      pipeline_type="TRIGGERED",
-      primary_key="id",
-      embedding_source_column='combined_info', #The column containing our text
-      embedding_model_endpoint_name='databricks-gte-large-en' #The embedding endpoint used to create the embeddings
-    )
-  except Exception as e:
-    display_quota_error(e, VECTOR_SEARCH_ENDPOINT_NAME)
-    raise e
-  #Let's wait for the index to be ready and all our embeddings to be created and indexed
-  wait_for_index_to_be_ready(vsc, VECTOR_SEARCH_ENDPOINT_NAME, vs_index_fullname)
-else:
-  #Trigger a sync to update our vs content with the new data saved in the table
-  wait_for_index_to_be_ready(vsc, VECTOR_SEARCH_ENDPOINT_NAME, vs_index_fullname)
-  vsc.get_index(VECTOR_SEARCH_ENDPOINT_NAME, vs_index_fullname).sync()
-
-print(f"index {vs_index_fullname} on table {source_table_fullname} is ready")
+vsc.create_delta_sync_index_and_wait(
+  endpoint_name=VECTOR_SEARCH_ENDPOINT_NAME,
+  index_name=vs_index_fullname,
+  source_table_name=source_table_fullname,
+  pipeline_type="TRIGGERED",
+  primary_key="id",
+  embedding_source_column='combined_info', #The column containing our text
+  embedding_model_endpoint_name='databricks-gte-large-en' #The embedding endpoint used to create the embeddings
+)
 
 # COMMAND ----------
 

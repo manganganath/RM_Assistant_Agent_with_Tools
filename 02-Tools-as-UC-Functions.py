@@ -4,7 +4,33 @@
 
 # COMMAND ----------
 
-# MAGIC %run ./_resources/00-init $reset_all=false
+# MAGIC %run ./config
+
+# COMMAND ----------
+
+spark.sql(f"USE CATALOG {catalog}");
+spark.sql(f"USE SCHEMA {schema}");
+
+# COMMAND ----------
+
+# DBTITLE 1,Tool for retrieving details on a give unit trust vector search
+# MAGIC %sql
+# MAGIC
+# MAGIC CREATE OR REPLACE FUNCTION unit_trust_vector_search (
+# MAGIC   input_query STRING
+# MAGIC   COMMENT 'The query string for searching Unit Trust documentation.'
+# MAGIC ) RETURNS TABLE (summary STRING, ut_id STRING)
+# MAGIC LANGUAGE SQL
+# MAGIC COMMENT 'Retrive the information related to the the unit trust indicated in the input query.'
+# MAGIC RETURN
+# MAGIC   SELECT
+# MAGIC     summary, ut_id
+# MAGIC   FROM
+# MAGIC     VECTOR_SEARCH(
+# MAGIC       index => 'workspace.rm_agent.ut_pdf_docs_vs_index',
+# MAGIC       query_text => input_query,
+# MAGIC       num_results => 1
+# MAGIC     );
 
 # COMMAND ----------
 
@@ -34,7 +60,7 @@
 # MAGIC   LIMIT 1;
 # MAGIC
 # MAGIC -- let's test our function:
-# MAGIC SELECT lookup_customer_info('John West') as linda_carter_info;
+# MAGIC SELECT lookup_customer_info('Brian Long') as cust__info;
 
 # COMMAND ----------
 
@@ -55,6 +81,7 @@
 # MAGIC     SELECT ProductID, ProductName, RiskRating, Currency, TotalAssets from unit_trust
 # MAGIC     where RiskRating<= risk_rating ORDER BY RiskRating;
 # MAGIC
+# MAGIC -- let's test our function:
 # MAGIC SELECT * FROM lookup_ut_info(3);
 
 # COMMAND ----------
@@ -86,27 +113,6 @@
 
 # COMMAND ----------
 
-# DBTITLE 1,Tool for retrieving details on a give unit trust vector search
-# MAGIC %sql
-# MAGIC
-# MAGIC CREATE OR REPLACE FUNCTION unit_trust_vector_search (
-# MAGIC   input_query STRING
-# MAGIC   COMMENT 'The query string for searching Unit Trust documentation.'
-# MAGIC ) RETURNS TABLE (summary STRING, ut_id STRING)
-# MAGIC LANGUAGE SQL
-# MAGIC COMMENT 'Retrive the information related to the the unit trust indicated in the input query.'
-# MAGIC RETURN
-# MAGIC   SELECT
-# MAGIC     summary, ut_id
-# MAGIC   FROM
-# MAGIC     VECTOR_SEARCH(
-# MAGIC       index => 'nuwan.rm_agent_v2.ut_pdf_docs_vs_index',
-# MAGIC       query_text => input_query,
-# MAGIC       num_results => 1
-# MAGIC     );
-
-# COMMAND ----------
-
 # MAGIC %md-sandbox
 # MAGIC ## Using Databricks Playground to test our functions
 # MAGIC
@@ -115,9 +121,14 @@
 # MAGIC
 # MAGIC <img src="https://github.com/databricks-demos/dbdemos-resources/blob/main/images/product/llm-tools-functions/llm-tools-functions-playground.gif?raw=true" style="float: right; margin-left: 10px; margin-bottom: 10px;">
 # MAGIC
-# MAGIC To try out our functions with playground:
-# MAGIC - Open the [Playground](/ml/playground) 
-# MAGIC - Select a model supporting tools (like Llama3.1)
-# MAGIC - Add the functions you want your model to leverage (`catalog.schema.function_name`)
-# MAGIC - Ask a question (for example to convert inch to cm), and playground will do the magic for you!
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ## Next Steps
 # MAGIC
+# MAGIC - Go to Playgound
+# MAGIC - Add a model endpoint with tool-calling capability
+# MAGIC - Add all the tools created
+# MAGIC - Add the provided system prompt
+# MAGIC - Get the code for deploying as the agent
