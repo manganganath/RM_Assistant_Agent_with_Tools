@@ -1,0 +1,21 @@
+ProductID,ProductName,FundManager,InceptionDate,ExpenseRatio,NetAssetValue,ProductCategory,Currency,TotalAssets,RiskRating
+UT01,Global Growth Fund,Joshua Weeks,31/8/18,1.49,88.87,Equity,USD,15022271.29,5
+UT02,Income Opportunity Fund,Michael Davis,15/10/12,0.99,23.76,Balanced,GBP,70702922.52,3
+UT03,Balanced Advantage Fund,Tara Davis,31/8/05,0.55,39.11,Balanced,GBP,77145486.99,3
+UT04,Equity Income Fund,James Williams,22/5/03,1.01,101.2,Bond,GBP,91793398.72,2
+UT05,Global Bond Fund,Crystal Chavez,10/5/05,0.54,39.67,Bond,AUD,1674909.2,2
+UT06,Emerging Markets Fund,Gregory Wilcox,21/7/12,1.54,132.98,Balanced,USD,1431719.27,3
+UT07,Capital Preservation Fund,Gregory Mitchell,3/4/06,1.43,55.07,Bond,EUR,43121531.97,2
+UT08,High Yield Fund,Mr. Randy Adams,22/2/10,0.61,20.28,Equity,EUR,17710921.3,5
+UT09,Sustainable Growth Fund,Misty Cunningham,14/2/22,1.57,45.55,Bond,EUR,30574719.8,2
+UT10,Dynamic Asset Fund,Benjamin Moore,16/10/21,0.21,188.03,Balanced,GBP,37574852.97,3
+UT11,International Equity Fund,Bobby Anderson,16/8/13,0.62,170.28,Bond,USD,42749482.39,2
+UT12,Real Estate Income Fund,Christopher Santiago,26/12/07,0.88,196.75,Bond,EUR,9447988.38,2
+UT13,Technology Leaders Fund,John Chavez,24/7/03,0.65,165.06,Equity,EUR,41151723.76,5
+UT14,Dividend Growth Fund,John Ward,11/5/20,1.71,75.87,Money Market,GBP,50548995.35,1
+UT15,Small Cap Growth Fund,Nicole Pena,24/6/08,0.75,137.45,Equity,USD,3969540.28,5
+UT16,Large Cap Value Fund,Amanda Hall,1/2/10,1.24,126.51,Bond,AUD,80882555.52,2
+UT17,Fixed Income Fund,Amanda Davis,5/3/08,0.16,160.59,Bond,USD,71855542.03,2
+UT18,Multi-Asset Income Fund,Cassandra King,28/8/11,1.39,119.63,Money Market,USD,78698554.49,1
+UT19,Total Return Fund,Laura Gonzalez,13/3/15,0.61,133.83,Equity,USD,2205219.8,5
+UT20,Global Macro Fund,Jean Miller DDS,10/12/03,0.71,137.59,Money Market,AUD,99319347.35,1

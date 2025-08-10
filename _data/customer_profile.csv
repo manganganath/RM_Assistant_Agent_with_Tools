@@ -1,0 +1,1001 @@
+CustomerID,Name,Gender,DateOfBirth,Address,City,State,ZipCode,RiskRating,Email,CustomerSince,AccountBalance
+CUST0001,Connie Morris,Male,1999-09-24,52707 Brown Locks Suite 382,Stevensbury,Iowa,06292,5,blewis@example.org,2020-04-09,78707.49
+CUST0002,Amber Flores,Male,1955-10-10,05155 Amanda Hills,Lake Luis,Connecticut,57090,2,xrobinson@example.net,2015-08-04,49172.48
+CUST0003,Manuel Garcia,Female,1947-02-08,2136 Salinas Landing Apt. 183,North Garrett,Oregon,95702,2,jacobwest@example.net,2018-01-21,78638.48
+CUST0004,Gary Brady,Male,1953-10-25,244 Pace Villages,Pettyshire,South Carolina,98342,2,robertsawyer@example.net,2007-04-28,76444.24
+CUST0005,George Jimenez,Female,1993-03-31,7097 Allen Rue Apt. 148,Michellehaven,Texas,35768,5,ufaulkner@example.org,2021-05-11,48113.67
+CUST0006,Brian Long,Female,1971-10-22,794 Green Throughway Apt. 607,New Phillipmouth,Idaho,09792,3,berrylori@example.org,2020-03-24,9104.05
+CUST0007,Cassandra Bryant,Male,1946-08-30,9241 Powell Plaza,South Jasonborough,Wyoming,24262,3,garciajohnny@example.net,2011-05-20,11506.09
+CUST0008,Jeremiah Ochoa,Male,1986-01-17,1678 Mary Spurs,Port Loretta,Texas,11619,2,nhensley@example.org,2017-01-14,1908.06
+CUST0009,Haley Hardy,Female,1954-05-04,19452 Amy Vista Suite 343,West Charles,North Dakota,86455,5,millerjames@example.org,2025-01-20,89039.01
+CUST0010,Kenneth Chapman,Male,1942-03-13,75913 Francisco Mission Apt. 874,Port Marissa,Nevada,78213,2,smoore@example.org,2011-09-04,44205.08
+CUST0011,Tammie Wilson,Male,1954-06-19,10555 Thomas Ways Apt. 048,South Roberthaven,Georgia,28300,5,lesliesanchez@example.net,2019-02-01,36422.05
+CUST0012,William Higgins,Female,1966-06-22,3854 King Lock Suite 477,Lake Brittanyport,Delaware,44073,2,penningtonmartin@example.org,2006-06-22,78293.64
+CUST0013,Natalie Conley,Male,1979-12-07,24622 Meagan Inlet,Andersonview,Arkansas,70750,4,johnny71@example.org,2011-10-20,96978.79
+CUST0014,Charlotte Smith,Female,1943-06-29,95382 Bray Union Suite 431,Wilkinsonstad,Connecticut,49806,5,sarahdavis@example.net,2010-12-17,6083.52
+CUST0015,David Hunter,Female,1994-09-18,1202 Kevin Union,Crystalland,North Carolina,45897,1,castillowilliam@example.org,2011-04-22,79735.49
+CUST0016,Diana Silva,Female,1938-10-25,6243 Porter Courts Apt. 143,Gonzalezberg,Kansas,91291,5,perryamy@example.com,2018-12-30,47327.58
+CUST0017,Heather Foster,Female,1950-03-21,19672 Miller Mall Suite 352,North Jennifer,Virginia,15440,3,brooksjason@example.com,2022-11-16,26703.59
+CUST0018,Craig Ramirez,Male,1958-06-04,4746 Rachel Circles,Cunninghambury,Nebraska,56500,4,melissa51@example.com,2014-04-22,44358.21
+CUST0019,Sarah Williams,Female,1940-05-05,170 Robinson Mountain Apt. 225,East Michael,Vermont,98604,4,louiswalters@example.org,2024-07-22,87116.3
+CUST0020,John Harrison,Male,1967-02-10,5764 Martinez Valley Apt. 213,Carrollfort,Arkansas,83288,2,bethanyclark@example.com,2012-05-01,28154.52
+CUST0021,David Jensen,Male,1979-03-22,9663 Sherry Forest,West Jennifer,Colorado,49246,3,ronald07@example.org,2017-10-06,37664.72
+CUST0022,Annette Williams,Male,1943-06-13,13047 Mcdowell Mountain Apt. 250,West Gloria,Wisconsin,57819,2,tdavidson@example.net,2016-03-17,88401.24
+CUST0023,Eric Gordon,Male,1999-01-07,020 Marshall Fort Suite 851,Michaelton,North Dakota,76162,3,james84@example.org,2024-07-21,86938.4
+CUST0024,Janet Williams,Female,1951-01-20,00166 Day Mission,West Steve,Minnesota,87790,2,scottdennis@example.org,2012-06-27,7510.51
+CUST0025,Benjamin Norris,Female,1955-02-25,9417 Rodriguez Forges Apt. 945,Austinshire,Tennessee,86930,2,victorbrown@example.net,2013-11-08,12897.67
+CUST0026,Christopher Cox,Male,1963-02-11,86159 Dennis Mission Apt. 445,Gutierrezmouth,Virginia,04071,1,dakotahughes@example.net,2023-05-16,60983.84
+CUST0027,Barbara Russell,Male,1997-09-19,478 Davis Mountains Suite 464,Torreshaven,North Carolina,91329,2,iwalker@example.org,2022-02-21,86343.35
+CUST0028,Linda Ross,Male,1996-08-20,80529 Ball Circle,West Earl,Montana,84608,2,yatesjesus@example.com,2005-07-21,21102.82
+CUST0029,Gregory Evans,Female,1990-09-13,28838 Snyder Manor,Russellport,Maryland,83545,1,thompsonteresa@example.net,2008-02-18,26845.11
+CUST0030,Jennifer Kramer,Male,1960-06-03,6479 Jeffery Road,Kyleport,Delaware,83508,1,adamtravis@example.org,2012-08-28,75674.82
+CUST0031,Patricia Stewart,Female,1950-01-11,4043 Jackson Harbor,Shannonland,Missouri,08029,4,wilsonkathy@example.net,2022-12-29,92873.23
+CUST0032,Sara Lee,Male,1936-04-20,55586 Cheryl Trail,West Evanbury,Alaska,19435,3,rodriguezdebra@example.net,2017-03-27,50141.72
+CUST0033,Daniel Moody,Female,1993-04-02,6022 Wallace Mountains Apt. 722,Lauraport,Maine,54851,2,alee@example.com,2013-06-01,29153.74
+CUST0034,Eric Garcia,Male,1994-07-16,19872 Nicholas Parkways,West Kevinview,Indiana,29179,1,samanthawebb@example.net,2022-05-04,53543.24
+CUST0035,Lisa Sanchez,Male,1963-10-13,70341 Jennifer Expressway Suite 914,Barbarafort,Vermont,18892,5,elizabethshaffer@example.org,2019-08-09,73020.54
+CUST0036,Christine Martinez,Female,1991-09-22,634 Fuller Brook,South Tiffanybury,Maryland,63350,5,catherine59@example.com,2022-01-14,51208.49
+CUST0037,Carol Harrington,Female,1947-11-11,84647 Carrillo Radial Apt. 259,East Katherinemouth,Nevada,63725,5,porterana@example.net,2017-08-16,85084.83
+CUST0038,Renee Bell,Female,1942-12-03,61685 Jon Prairie Apt. 828,Port Jessica,Maryland,99617,1,irichardson@example.net,2022-04-21,27045.6
+CUST0039,Sara Gibbs,Male,1993-06-29,73896 Cox Orchard,Smithfort,Louisiana,22102,1,howard27@example.net,2007-03-16,7803.47
+CUST0040,Gabriela Jones,Female,1938-07-12,9512 Anderson Extensions,Lake Garrett,Montana,27082,1,jameshensley@example.com,2024-01-11,34888.36
+CUST0041,Nicole Hester,Female,1988-08-28,146 Osborne Inlet Suite 266,Amberport,Oklahoma,50405,1,briancole@example.com,2008-08-21,99591.52
+CUST0042,Mario Dalton,Male,1994-11-21,1913 Campbell Falls,Kimberlychester,Virginia,94895,5,gomezcrystal@example.com,2019-03-09,50910.39
+CUST0043,Deborah Chandler,Male,1949-04-19,518 Wagner Skyway,Jeremyburgh,Arizona,09778,5,patricia24@example.org,2006-12-07,35470.36
+CUST0044,Patricia Ward,Male,2004-05-24,312 Robbins Pines,Lake Lisa,Massachusetts,75466,5,mtaylor@example.net,2021-07-25,85882.26
+CUST0045,Austin Cole,Male,1940-11-09,389 Pamela Pass,Andersonmouth,North Dakota,75100,3,kgill@example.org,2016-12-09,77137.66
+CUST0046,Lisa Allen,Female,1934-11-09,838 Thomas Mountains,South Joshua,Louisiana,81681,4,aliciawilson@example.org,2022-09-16,45569.7
+CUST0047,Heather Castro,Female,1939-08-15,985 Bradley Walks,West Sarah,Ohio,98560,1,terryjenkins@example.org,2020-08-02,23652.93
+CUST0048,Greg Wilcox,Male,1953-05-06,5378 Martinez Pine,Justinchester,Washington,25037,5,robertflynn@example.net,2022-08-26,48888.89
+CUST0049,Mark Maldonado,Male,1947-11-03,75749 Morgan Keys Suite 288,Andersonchester,Arizona,43991,3,dfoster@example.com,2017-06-16,9372.78
+CUST0050,Natalie Hamilton,Female,1968-03-27,7388 Mary Shoals,Pattersonmouth,South Dakota,05457,4,nancyholloway@example.com,2023-11-22,41183.63
+CUST0051,Nathan Mcintyre,Male,1976-05-08,7278 Taylor Land Apt. 608,Roberthaven,Georgia,58469,1,dramsey@example.net,2011-05-17,46741.65
+CUST0052,Charles Rodriguez,Male,1965-08-30,544 Benson Mountain Apt. 169,Port Mark,New Mexico,34156,3,brendahammond@example.com,2006-07-04,80322.86
+CUST0053,Lisa Hendricks,Male,1977-12-13,41922 Paula Fork,Millershire,Idaho,10506,3,scottcindy@example.org,2019-03-10,72582.14
+CUST0054,Jennifer Fitzgerald,Female,1940-07-09,324 Marie Row Suite 553,Davismouth,Michigan,53116,3,williamrodriguez@example.org,2018-04-22,78570.38
+CUST0055,Stephen Wheeler,Male,1937-04-18,6307 Jennifer Dale Suite 533,Ericmouth,Arizona,51118,2,piercejason@example.com,2012-07-19,95687.09
+CUST0056,James Martinez,Female,2003-05-26,064 Campbell Island Suite 035,North Theresaborough,New Jersey,97331,1,pattybarnes@example.org,2014-10-22,97599.9
+CUST0057,Cody Love,Male,1983-12-16,7847 Ramirez Neck Apt. 464,Christopherview,North Carolina,42393,3,amy75@example.net,2019-03-23,47760.64
+CUST0058,Megan Griffin,Male,1956-10-31,8086 Smith Fork,Donnaside,Montana,58894,4,kimdaniel@example.org,2012-01-11,82663.98
+CUST0059,Katherine Smith,Female,2004-02-22,75336 Thompson Avenue Apt. 092,Carlsonstad,Georgia,33555,2,mharris@example.com,2018-09-28,38918.86
+CUST0060,Joel Manning,Female,1961-08-03,838 Lisa Neck,North Jamesville,Massachusetts,38217,2,jamesalexander@example.net,2021-03-02,90743.13
+CUST0061,Sally Silva,Male,1974-03-05,47344 Daniel Prairie,West Rachel,Georgia,29531,3,tannermckinney@example.org,2015-01-31,29595.8
+CUST0062,Savannah Baker,Male,1985-06-26,7749 Andrews Corner Apt. 552,Justinstad,Virginia,92731,5,lisa93@example.net,2008-08-11,30959.18
+CUST0063,Lindsey Phillips,Female,2001-10-15,782 Douglas Greens,Kellyview,Vermont,72029,1,robinquinn@example.net,2015-01-21,77888.55
+CUST0064,Sharon Fischer,Female,1962-04-03,78656 Brian Hills Suite 516,New Jonathanport,Rhode Island,68894,3,misty23@example.org,2017-01-21,82212.91
+CUST0065,Joshua Jefferson,Male,1975-04-23,1248 Johnny Stream,Taraton,Arizona,40604,1,richardclark@example.com,2018-11-24,99066.27
+CUST0066,Rodney Moreno,Female,1958-09-24,533 Robbins Vista,South Rhonda,Ohio,34331,2,wrightkristi@example.net,2016-04-17,20537.5
+CUST0067,Alejandro Roberts,Female,1967-09-20,0904 Allen Meadow Suite 097,North Judychester,Pennsylvania,58937,3,norrischristine@example.net,2023-09-14,93802.52
+CUST0068,Sarah Thornton,Male,1935-06-16,272 Stephens Union,Jonesmouth,Virginia,34635,1,david39@example.net,2012-08-01,36422.63
+CUST0069,Samantha Woods,Male,1985-03-01,494 Brown Lane Suite 350,South Kennethbury,Nebraska,42626,2,josephgarcia@example.org,2018-05-05,46838.63
+CUST0070,Yolanda Martin,Male,1982-10-27,26403 Caitlin Junction Suite 382,West Haley,Kansas,90590,5,charlesramirez@example.org,2007-09-12,58849.27
+CUST0071,Edward Peters,Male,1975-01-29,67828 Alexis Freeway,Virginiaport,Tennessee,80309,4,odomjimmy@example.com,2015-03-30,62596.02
+CUST0072,Alicia Barnett,Female,1964-04-10,7832 Emily Landing,West Scottport,Texas,82988,4,lori23@example.com,2020-09-24,34074.43
+CUST0073,Robert Cox,Female,1997-11-09,24655 Mariah Forges,East Mollyberg,Arkansas,32132,1,lewishannah@example.net,2018-10-20,75958.55
+CUST0074,Christine Hammond,Female,1985-10-01,35245 Parsons Heights Apt. 908,Lake Jacqueline,Delaware,58303,5,jacquelineharrison@example.org,2013-07-30,57172.73
+CUST0075,Stacey Fowler,Male,1958-05-11,8256 Arnold Harbors Suite 376,Hillshire,Maine,63101,3,pturner@example.com,2024-02-21,95728.98
+CUST0076,Samuel Murillo,Female,1970-05-01,425 Graham Corner Apt. 201,Lake Michaelshire,Delaware,27129,2,rhayes@example.com,2006-04-09,95299.74
+CUST0077,John Goodwin,Female,1939-08-23,09961 Robert Pass Suite 065,Santosview,California,61621,1,csmith@example.net,2018-09-01,92278.38
+CUST0078,Jacqueline Bradley,Male,1996-09-23,441 Burgess Brook,East William,Illinois,06896,4,marymiller@example.net,2015-09-03,83724.38
+CUST0079,Caitlin Cisneros,Female,1970-05-30,30530 Gonzalez Shoals,South Valerieton,Kansas,75982,2,juan78@example.org,2011-10-10,52959.66
+CUST0080,Jennifer Brown,Female,1945-12-03,8482 Joseph Street,Kramerbury,Colorado,84176,2,ubradley@example.org,2020-07-26,88284.29
+CUST0081,Adam Greene,Female,1974-09-18,2156 Vaughn Terrace Apt. 143,East Luke,New Jersey,08128,2,eli@example.net,2019-11-20,74788.39
+CUST0082,Kimberly Phelps,Female,1976-05-07,9651 Cain Fort,Ericfort,Florida,84454,3,stephenmiller@example.net,2025-02-28,43041.31
+CUST0083,Daniel Cobb,Female,1979-11-30,976 Zachary Hills Apt. 519,Karenborough,Michigan,95839,2,austin43@example.com,2020-09-06,10468.52
+CUST0084,Katherine Thompson,Female,1993-07-21,75646 Amy Isle,Johnborough,South Dakota,48993,3,christopherwood@example.net,2012-07-06,62423.79
+CUST0085,Derrick Ho,Male,1985-03-12,894 Cory Bridge,Timothyshire,Nevada,52923,5,luismorrison@example.org,2017-03-11,41598.79
+CUST0086,Hailey Gardner,Male,1938-09-10,462 Caitlyn Trafficway,East Logan,Ohio,28816,4,alexandersteven@example.com,2015-01-14,70574.03
+CUST0087,Ryan Harris,Male,1977-08-15,708 Teresa Trace,East Tammyfort,South Carolina,91455,5,tuckerlisa@example.org,2015-10-13,6282.86
+CUST0088,David Jones,Female,1935-06-25,245 Martinez Glen,Jamesmouth,Vermont,69038,4,cindy89@example.com,2010-12-14,58809.77
+CUST0089,Amy Richards,Male,1946-11-29,1681 Ronald Point,East Richard,Illinois,81417,1,vegamatthew@example.net,2013-02-02,1332.71
+CUST0090,Kristen Hernandez,Female,1947-06-29,1897 Elijah Hollow Suite 983,Davisbury,Florida,53131,3,gcooper@example.net,2006-10-08,30723.74
+CUST0091,Gina Bernard,Female,1956-10-24,3541 Garrett Streets Suite 714,North Stephanie,Missouri,05909,5,eclark@example.org,2020-11-10,86386.04
+CUST0092,Monica Ryan,Male,1988-03-02,407 Anne Port,West Shaunland,Nebraska,91470,4,yjohnson@example.com,2018-09-13,40435.78
+CUST0093,Destiny Le,Male,1974-07-31,0180 Johnston Corner,Sabrinashire,Alabama,62241,1,lli@example.com,2013-05-14,94702.36
+CUST0094,Monica Ayers,Female,1971-12-04,30346 Thomas Forest Suite 184,Annachester,New Mexico,73229,2,qsolomon@example.com,2021-10-20,53913.28
+CUST0095,Patricia Campbell,Female,1942-07-10,50293 Snyder Walk Apt. 373,Ramirezfurt,South Dakota,37218,1,millerlaura@example.net,2024-04-12,56267.79
+CUST0096,Aaron Blackburn,Female,1954-10-20,172 Russell Curve,Joneshaven,North Dakota,61009,2,williamsadrian@example.org,2012-06-02,90040.47
+CUST0097,Colleen Mora,Male,1973-05-25,7351 James Light,Dawnfurt,Oregon,35548,3,paulbenjamin@example.org,2017-02-10,5363.81
+CUST0098,Alicia Briggs,Male,1967-10-25,00491 Tara Garden Apt. 426,New Edwardville,Washington,15911,5,zgarrison@example.net,2010-10-06,60643.81
+CUST0099,Linda Reilly,Male,1945-09-03,1196 Walls Ramp Apt. 454,New Stevenstad,Mississippi,11182,2,doris36@example.org,2008-06-22,50211.57
+CUST0100,Mark Newton,Female,2001-02-19,11573 Joseph Canyon,Allenview,Wyoming,78410,2,omorgan@example.net,2012-10-01,47553.26
+CUST0101,William Moore,Male,1937-10-01,183 Juan Club,Rojasberg,Kansas,37476,3,davidreed@example.com,2007-08-24,27747.2
+CUST0102,Alexis Garner,Female,1984-05-12,796 Richard Fort,West Robinland,Washington,25079,4,stacey64@example.net,2018-03-06,22920.25
+CUST0103,Yesenia Cortez,Female,1960-09-18,5877 Cheryl Lakes,Browningport,Kansas,56667,1,kennethsmith@example.org,2013-06-06,71915.15
+CUST0104,Kelly Burgess,Female,1961-06-24,8441 Nathan Groves Suite 747,Colemanstad,Indiana,32000,3,danielswilliam@example.com,2023-07-16,79152.52
+CUST0105,Donald Collins,Female,1953-10-27,0327 Stephens Mission,Herreraport,Alaska,79309,5,mary18@example.net,2024-03-10,4252.36
+CUST0106,Gary Lin,Female,1998-06-23,93574 Sandy Port,New David,Kentucky,26055,3,xhess@example.net,2020-06-10,79838.87
+CUST0107,Matthew Lewis,Male,1990-11-06,15241 Graham Point,West Amyborough,Maine,38744,2,yreyes@example.net,2012-12-15,7651.6
+CUST0108,Paula Ward,Female,1988-08-25,7317 Brewer Locks,Troyshire,Connecticut,82658,5,kristen58@example.com,2012-10-25,28311.45
+CUST0109,Gloria Lewis,Female,2006-09-27,06938 Frances Brook,Brianburgh,North Dakota,16787,3,stewartgabriel@example.org,2018-07-04,52626.35
+CUST0110,Matthew Lee,Male,2000-05-15,7126 Gonzales Knoll Suite 544,East Norman,Mississippi,09963,4,mooremaurice@example.org,2007-06-21,53856.8
+CUST0111,Ashley Simmons,Female,1986-03-18,1266 Patricia Burg,Julietown,Indiana,39676,4,timothyjones@example.net,2013-08-28,65331.11
+CUST0112,Robert Robinson,Male,1943-12-08,8868 Jamie Gardens Suite 760,Shannonmouth,Maine,11351,1,wendywarren@example.com,2008-08-13,86217.45
+CUST0113,Bruce Weiss,Male,1985-02-13,0046 Andrews Manors Suite 104,Lake Thomastown,Oregon,36236,3,katherine39@example.com,2006-11-12,12489.56
+CUST0114,Mark Merritt,Female,1941-07-02,9869 Rogers Harbors Suite 030,North Ashley,Colorado,44627,1,davidhampton@example.net,2008-08-23,56325.01
+CUST0115,John Trujillo,Male,1968-01-27,429 Bill View Apt. 996,Matthewshire,Iowa,28587,3,lambertmichael@example.com,2013-02-27,91532.26
+CUST0116,Shane Powell,Male,1939-04-20,64720 Shaw Garden,West Glennbury,Texas,16062,1,katherine17@example.org,2023-12-17,30147.62
+CUST0117,Steven Bradshaw,Female,1951-11-03,27334 Mcconnell Ramp Apt. 061,East Hollyhaven,Oregon,65706,1,susanandrews@example.org,2023-07-31,3101.42
+CUST0118,Alexis Key,Female,1999-01-12,4477 Kristen Land,Matthewmouth,New Jersey,00729,2,lisa45@example.com,2023-05-11,76395.51
+CUST0119,Sandra Larson,Male,1942-09-17,6576 Bowman Creek,Tarastad,New York,32332,4,gloria95@example.com,2023-03-02,92646.93
+CUST0120,Ryan Watkins,Male,1962-05-06,70536 Taylor Plain,West Feliciaview,Illinois,71470,1,haleykim@example.net,2022-08-11,61463.67
+CUST0121,Wesley Vega,Male,1959-06-10,7669 Pratt Causeway Apt. 598,Sherryfort,Mississippi,52685,2,myerspatricia@example.com,2011-01-12,62225.4
+CUST0122,Jeffrey Alexander,Male,1984-11-26,9230 Vaughn Crossroad Suite 073,North Donna,Vermont,27450,5,fletcherjared@example.org,2016-09-29,13941.74
+CUST0123,Danielle Shelton,Female,1997-03-28,1683 Adam Junction,Port Donna,Georgia,69485,3,steven07@example.org,2006-11-28,88624.23
+CUST0124,Larry Griffith,Female,1959-06-20,36399 Wendy Locks Apt. 054,East Cameron,Connecticut,95944,4,pgilbert@example.net,2010-11-02,38422.65
+CUST0125,Joseph Horton,Female,1962-03-28,561 Jacob Stravenue Suite 116,Castillostad,Nevada,03706,4,contrerasbrandi@example.org,2019-11-08,98439.58
+CUST0126,Sean Higgins,Female,1934-04-15,6111 Harris Turnpike Apt. 613,Fordborough,South Carolina,00605,1,morenojulie@example.org,2013-02-19,96056.94
+CUST0127,Sarah Rivera,Male,1939-08-25,84195 David Fork,Lake Kimberly,Ohio,62822,3,taylorandrew@example.com,2014-07-05,62957.5
+CUST0128,Lauren Nelson,Male,1979-09-15,6228 Joshua Road,Hopkinsfurt,Wisconsin,33183,1,utate@example.com,2008-08-31,20867.65
+CUST0129,Terri Murray,Female,2005-01-07,76532 Douglas Points,Floydburgh,New York,80403,3,colemanhannah@example.org,2015-12-29,62510.38
+CUST0130,Bruce Sharp,Female,1969-05-15,3220 Nicole Landing,Berryville,Arizona,86361,5,craig16@example.com,2020-03-23,67159.95
+CUST0131,Amanda Coffey,Female,1981-06-28,895 Avila Curve,West Scott,New York,05241,1,stewartjoshua@example.com,2009-07-23,43597.57
+CUST0132,Justin Lopez,Female,2003-05-02,124 Williamson Overpass,Lorifort,Texas,70938,3,toddmcdowell@example.net,2021-09-19,10738.53
+CUST0133,Gregory Woodward,Male,1953-01-30,4824 Moore Brooks,New Ernestmouth,California,82929,4,nancy17@example.org,2014-04-08,90505.53
+CUST0134,Mark Bautista,Female,1950-01-05,292 Kathy Burgs Apt. 249,Christinafurt,New Mexico,41817,4,lbruce@example.net,2017-07-21,99348.08
+CUST0135,Nicholas Olson,Female,2000-10-25,0509 Jimenez Turnpike,Port Christopherhaven,Colorado,35173,3,florestimothy@example.com,2022-08-25,90657.86
+CUST0136,Cheryl Garcia,Male,1960-02-01,1226 Love Mission Suite 619,South Christophershire,Louisiana,37275,3,beckeralbert@example.com,2012-07-15,24204.1
+CUST0137,Jenna Rivera,Female,1987-07-08,90859 Nancy Alley Apt. 367,Leonardmouth,Louisiana,50537,2,crystalmurray@example.com,2020-01-24,54174.97
+CUST0138,Anna Wilson,Female,1980-07-31,5717 Lee Gateway,Port Debbieborough,California,00555,1,zacharypalmer@example.org,2023-01-13,73934.73
+CUST0139,Judy Rodriguez,Female,1938-02-03,2649 Massey Corners,East Barry,Arizona,36683,1,jmartinez@example.com,2018-07-22,50543.92
+CUST0140,Amanda Garcia,Female,1960-05-25,500 Rangel Tunnel,Jamesstad,West Virginia,13775,3,mark38@example.com,2012-04-08,24956.95
+CUST0141,John Wilson,Male,1996-01-11,1374 Maria Lock,South Robertborough,Kansas,84694,2,thomaslopez@example.net,2019-05-24,31597.94
+CUST0142,Kathryn Golden,Male,1948-12-16,72307 Robin Key Apt. 204,Mccoyhaven,South Carolina,20555,4,wfoster@example.net,2020-09-17,38822.58
+CUST0143,Lauren Hill,Male,1968-01-10,094 Douglas Ferry Suite 821,Justinbury,Texas,97064,2,morrisonmargaret@example.com,2019-08-23,89679.04
+CUST0144,Amanda Hernandez,Male,1983-04-20,21086 Michael Trafficway,Danielmouth,North Carolina,15587,2,michaelperry@example.net,2019-04-24,52968.47
+CUST0145,Christopher Rodriguez,Male,1995-12-30,1038 David Harbors,West Yvonne,Oklahoma,84930,1,qmichael@example.net,2005-07-03,97870.73
+CUST0146,Sandra Wyatt,Female,1975-08-07,0144 Johnson Underpass Suite 504,Valdezbury,South Dakota,21513,4,rvega@example.com,2006-11-14,80655.18
+CUST0147,Michael Perez,Male,2001-02-14,657 Jonathan Branch Suite 604,Braunshire,Maryland,52007,2,perryjanice@example.org,2024-02-11,36866.82
+CUST0148,Alfred Ramirez,Female,1977-07-01,4604 Deborah Court Suite 343,Port Matthewborough,Kentucky,39049,2,sandrahenderson@example.net,2006-03-10,39318.95
+CUST0149,David Aguilar,Female,2002-11-19,2199 White Forge Suite 590,South Stephanie,Montana,45071,5,vshepard@example.com,2021-10-30,10078.62
+CUST0150,Debra Moran,Male,1965-10-29,41332 Maxwell Underpass,East Jennifer,Iowa,30445,5,ellen56@example.com,2013-04-24,20382.91
+CUST0151,Edward Patterson,Male,1961-03-13,183 Donna Wells,Jenniferport,Rhode Island,44135,2,nathan29@example.org,2012-02-07,82261.38
+CUST0152,Steven Hall,Male,1986-11-03,8388 Joe Key,Nguyenbury,Wisconsin,14851,3,leah05@example.net,2023-06-30,81275.57
+CUST0153,Kelly Lawson,Male,1961-08-05,78089 Dylan Underpass Apt. 077,New Mario,Arkansas,07881,1,thompsonrobert@example.com,2008-03-20,78881.49
+CUST0154,Kathryn Moran,Female,1979-08-21,6802 Sherry Station,South Michaelside,Montana,74916,4,elizabethtownsend@example.org,2013-08-22,13732.15
+CUST0155,Erika Martinez,Male,1967-04-27,082 Fernandez Stream Suite 894,North Jeremyland,Wyoming,84865,3,twood@example.net,2022-08-11,20375.47
+CUST0156,Stephen Blevins,Male,1981-04-29,432 Patrick Causeway Suite 221,South Deborah,Utah,46939,4,ostewart@example.com,2017-04-01,67850.03
+CUST0157,Steve Booker,Male,1989-04-17,536 Mindy Wells Apt. 639,East Sharonmouth,Maryland,53640,2,cooperjoshua@example.net,2017-11-24,52028.24
+CUST0158,James Boyd,Male,1995-05-12,7758 Nicholas Junctions Apt. 780,Harveytown,Wisconsin,45572,1,mturner@example.com,2013-07-21,93331.16
+CUST0159,Joshua Medina,Male,1949-11-27,6815 Patel Creek Apt. 746,Michellehaven,Vermont,59029,5,millertiffany@example.net,2008-02-25,77554.21
+CUST0160,Nathan Turner,Female,2000-11-30,91607 Ryan Gardens Apt. 166,Moyermouth,Nevada,32811,3,doylemark@example.net,2020-02-13,10185.9
+CUST0161,Gregory Romero,Female,1968-10-07,2336 Thomas Valleys Suite 408,West Kellychester,Indiana,01847,2,wrightmelissa@example.net,2018-02-20,61999.75
+CUST0162,Loretta Morrison,Female,2006-04-02,516 Laura Alley Apt. 875,Lydiabury,North Dakota,82429,5,ywong@example.net,2023-11-08,64395.57
+CUST0163,Amy Martinez,Female,1948-08-12,731 Wright Alley,Davidhaven,Illinois,40565,1,andre75@example.org,2012-04-15,10277.89
+CUST0164,Willie Duarte,Male,1965-09-29,5327 Rodriguez Crest Apt. 854,Joshuafurt,Delaware,97192,5,paul18@example.com,2012-06-20,63883.32
+CUST0165,Jesus Greer,Male,1988-05-04,659 Hernandez Walk Suite 104,East Rhonda,Delaware,42643,4,joeljohnson@example.org,2013-04-08,62805.43
+CUST0166,Jermaine West,Female,1970-03-26,16058 Bailey Field,Perezport,Hawaii,78526,3,fgrant@example.net,2007-06-05,15526.39
+CUST0167,Jacob Jackson,Male,2006-03-21,3806 Meza Port,Lake Steven,Idaho,30827,1,toni44@example.net,2022-11-25,9619.79
+CUST0168,Michael Henry,Female,1986-11-02,02717 Michael Fort,Garyborough,Maine,63115,1,wbrowning@example.org,2010-11-13,95033.55
+CUST0169,Joseph Winters,Male,1939-03-03,75847 Daniel Village Apt. 554,Keithberg,Idaho,63842,1,mjimenez@example.com,2009-07-03,77529.83
+CUST0170,Jennifer Harris,Male,1975-08-06,28902 Travis Avenue,South William,Pennsylvania,99109,4,emilysmith@example.org,2010-02-13,13257.64
+CUST0171,Anthony Smith,Male,1971-08-12,869 Aguilar Glen Apt. 590,Priceburgh,Washington,95832,3,robinsonchris@example.com,2015-07-31,24375.67
+CUST0172,Christopher Brooks,Male,1973-03-13,826 Kennedy Dale Suite 344,South Kellyland,Vermont,97841,3,jeffery50@example.net,2019-09-15,71989.77
+CUST0173,Jose Gray,Female,1947-08-28,3149 Herrera Bypass Apt. 653,East Jacobfurt,Wyoming,52504,4,eatonjohnny@example.org,2009-10-25,39886.67
+CUST0174,Tiffany Walter,Female,1986-10-12,6658 Katherine Islands,Andrewfurt,North Carolina,37675,4,yolanda77@example.com,2012-12-24,83906.25
+CUST0175,Kaitlin Harding,Male,1946-05-10,913 Khan Isle Suite 194,North Taylorview,Montana,45536,1,martingina@example.net,2010-01-08,66346.97
+CUST0176,Matthew Tyler,Male,1977-03-16,3551 Antonio Curve Apt. 603,Danielshire,Georgia,16194,2,erinrogers@example.org,2016-05-28,28345.51
+CUST0177,Joseph Collins,Male,1979-05-03,9866 Rebecca Circle Apt. 168,East Tammyberg,Ohio,18012,4,charlene12@example.com,2007-10-27,46719.78
+CUST0178,Shawn Fuller,Male,1937-04-20,00508 Walls Neck Apt. 005,Lake Matthew,Michigan,06615,1,william57@example.net,2011-10-01,52617.78
+CUST0179,Lynn Burke,Male,1974-10-07,84225 Amy Light Apt. 096,Lake Aaronport,Alaska,74882,4,abriggs@example.net,2008-03-01,97060.98
+CUST0180,Natalie Scott,Male,1975-10-26,8368 Johnson Skyway Apt. 894,Smithland,Nebraska,13200,4,danieladams@example.org,2014-03-18,64851.14
+CUST0181,Shawn Roman,Male,1985-03-20,31976 Cynthia Stream Suite 102,Harrisonmouth,Texas,29332,4,phillip45@example.org,2013-09-13,92664.68
+CUST0182,Christina Terrell,Male,1997-04-03,150 Silva Knolls,Alexanderchester,Nevada,23920,1,paynejames@example.net,2024-04-18,47491.69
+CUST0183,Tristan Knight,Female,1959-07-26,823 Martin Radial,Lake Devinhaven,Florida,48068,4,gonzalezbeverly@example.org,2024-05-18,87163.39
+CUST0184,William Bell,Male,1973-10-09,75184 Wagner Garden,South Jameston,Minnesota,40766,1,perrykenneth@example.net,2023-11-18,92328.82
+CUST0185,Stephanie Johnston,Male,1974-02-04,3935 Gonzales Terrace,East Greg,Tennessee,83214,2,garyhansen@example.net,2017-06-03,80099.54
+CUST0186,Kyle Diaz,Female,1935-09-28,3434 Carter Ramp Suite 353,Port Marc,West Virginia,88631,1,courtney27@example.net,2006-11-11,77099.55
+CUST0187,Erika Allen,Male,1962-08-01,20115 Davis Centers,West Matthew,Kentucky,89206,5,ilamb@example.org,2025-02-05,6827.03
+CUST0188,Alison Shea,Female,1961-01-29,8724 Stevens Mall,South Stephanie,Arizona,95507,1,rileyandrea@example.org,2013-05-12,96873.48
+CUST0189,Jessica Evans,Male,2003-06-12,9852 Anderson Isle Apt. 046,Jonathanton,Washington,04607,5,hnelson@example.com,2011-12-19,48968.78
+CUST0190,Martin Watson,Female,1979-01-12,29431 Green Forges,West Craigfurt,Louisiana,78427,2,sandersbernard@example.net,2022-04-13,36714.05
+CUST0191,Tammy Hampton,Female,1937-12-21,424 Webb Points Apt. 694,Taylorfort,Michigan,65771,3,michaelmclaughlin@example.org,2008-01-04,22113.33
+CUST0192,Brittany Medina,Male,1936-01-24,3156 Gonzales Landing,Richardchester,Ohio,15355,3,moorejeffrey@example.com,2012-03-22,75574.53
+CUST0193,Mary Romero,Female,1976-04-16,9310 Kathleen Burgs Apt. 813,Crystalhaven,Texas,13076,3,rushmichael@example.org,2022-08-22,77111.99
+CUST0194,Shawn Guerra,Male,1997-11-14,742 Michael Trail,Thompsonhaven,Wisconsin,67464,3,hhernandez@example.org,2019-04-20,15276.92
+CUST0195,Mike Bell,Female,1971-04-19,36973 Cody Loaf,Lake Amanda,Connecticut,11188,3,alexanderewing@example.net,2007-10-01,54913.61
+CUST0196,Marcia Schneider,Female,1974-07-18,5962 Sarah Overpass,West Linda,Rhode Island,55185,1,nduarte@example.com,2005-11-17,54493.44
+CUST0197,Carolyn Strong,Female,1970-03-07,90947 Amber Falls,Barreraberg,Wyoming,14160,4,emilyhorton@example.net,2019-11-19,8026.65
+CUST0198,David Zamora,Female,1964-05-07,85710 Lindsey Summit Suite 226,Romeroview,Indiana,50931,3,jonathan80@example.com,2020-12-04,98560.59
+CUST0199,Megan Chapman,Male,1999-11-28,480 Thompson Square,Conleyfurt,Pennsylvania,08945,1,nwilliams@example.net,2019-01-04,3960.5
+CUST0200,Sean Knight,Female,1955-05-21,6565 Diaz Corner Suite 983,Lake Andrew,North Dakota,89769,5,zrose@example.com,2008-01-14,33225.61
+CUST0201,Toni Chavez,Female,2000-11-19,890 Lambert Trafficway Suite 241,Nicoletown,Texas,65963,3,alexis43@example.net,2019-02-07,29986.85
+CUST0202,Joshua Rosales,Female,1961-11-01,15102 Natalie Summit Apt. 299,Port Anthonystad,Vermont,94728,3,zacharysmith@example.com,2016-07-23,20202.35
+CUST0203,Christina Mckinney,Female,1936-01-07,66714 Renee Junction,North Chadmouth,Arizona,33315,2,jhumphrey@example.org,2012-03-09,59672.15
+CUST0204,Melissa Johnson,Male,1961-12-17,3278 Tammy Burg Suite 656,Amandaville,Washington,86171,1,jonathan90@example.com,2008-10-17,89346.35
+CUST0205,Danny Chen,Male,1969-04-19,1546 Carolyn Street Apt. 912,West Gregorystad,Nevada,68101,1,gregory78@example.org,2013-10-14,32935.56
+CUST0206,Bobby Crawford,Male,1962-07-26,336 Richard Mews,Sonyabury,Delaware,26944,4,mayoconnor@example.org,2020-08-04,33946.12
+CUST0207,Valerie King,Male,1999-05-08,71349 Colleen Ferry,Estradaside,Pennsylvania,18543,3,nicole30@example.org,2024-07-01,77341.81
+CUST0208,April Lewis,Male,1989-04-10,0576 Espinoza Village,Lawrencemouth,New Jersey,40175,3,ellisjennifer@example.net,2019-10-12,69826.71
+CUST0209,Peggy Long,Female,1953-08-13,99445 Smith Viaduct,Nicholehaven,Idaho,56143,1,patriciasimpson@example.com,2017-07-28,27019.38
+CUST0210,Michael Galloway,Male,1936-12-24,814 Joseph Point,Melissaview,New York,10632,5,dawn05@example.com,2016-09-01,98119.65
+CUST0211,Christy Gray,Male,1975-02-24,1691 Cassandra Ridge Apt. 146,Amyfort,Texas,68535,5,kendralewis@example.net,2015-11-04,17131.85
+CUST0212,Sheryl Willis,Male,1934-12-14,8660 Sanchez Island,North Ronaldton,New York,79235,5,michael75@example.net,2017-07-30,86009.91
+CUST0213,Ruth Brock,Female,1969-07-24,326 Smith Lane Suite 458,Watkinstown,Hawaii,13548,5,wellsaudrey@example.com,2020-03-11,42917.22
+CUST0214,Melissa Herrera,Female,1946-02-02,2808 Bowman Road Apt. 291,Brandontown,Florida,73964,5,ocasey@example.net,2010-04-05,41376.48
+CUST0215,Gregory Rodriguez,Male,2004-07-29,564 Johnson Prairie Apt. 650,West Kimberg,Wyoming,97479,1,emilybrown@example.net,2018-09-22,67867.11
+CUST0216,Jennifer Johnson,Female,1978-02-20,019 Deborah Crossing Suite 926,New Michaelstad,Alaska,35458,4,stevencooper@example.org,2008-05-10,92247.92
+CUST0217,Carl Estrada,Female,1963-11-22,347 Peter Cape,Pollardland,Massachusetts,77338,4,matthew29@example.org,2023-01-18,38539.05
+CUST0218,Michael Stuart,Male,1965-03-21,51806 Holmes Shoal,Sethland,Iowa,39972,5,eric97@example.org,2016-09-17,85851.95
+CUST0219,Rachel Chan,Female,1963-11-04,6540 Smith Radial,Robertshire,Montana,93362,4,paulrussell@example.net,2022-02-01,13862.61
+CUST0220,Chad Williamson,Female,1946-05-01,0422 Bobby Passage Suite 483,Brianborough,Idaho,56651,2,michaeljones@example.com,2012-07-06,43508.4
+CUST0221,Sharon Martinez,Male,2003-07-21,3842 Holmes Avenue,Port Joshualand,Maine,27108,2,kimberly34@example.net,2016-07-09,75796.17
+CUST0222,Nathaniel Goodwin,Male,1958-09-14,176 Nathan Junctions,Mcmahonberg,Kentucky,20677,1,karen17@example.net,2013-03-31,79539.67
+CUST0223,Steve Stuart,Male,1984-01-04,985 Huff Land,New Samuelbury,West Virginia,81524,1,millerthomas@example.com,2005-09-28,43256.25
+CUST0224,Wendy Diaz,Female,1948-10-17,00130 Melissa Ranch,East Julie,Arizona,83875,3,rhodeskelly@example.net,2024-08-26,33869.29
+CUST0225,Michael Rodriguez,Male,1961-08-13,3630 Daniel Knolls,North Denise,Rhode Island,93952,1,fbernard@example.org,2007-09-28,82324.0
+CUST0226,Christopher Gonzales,Male,1965-09-29,06135 Bruce Lodge Suite 598,Gallegosberg,Georgia,35330,4,michael34@example.com,2021-10-10,96010.04
+CUST0227,Ashley Jensen,Male,1950-04-08,7786 Guerrero Unions Apt. 318,Taylorside,Vermont,09629,2,umoran@example.net,2008-01-22,67778.47
+CUST0228,Peter Sanford,Female,1965-12-23,0912 Ryan Alley,West Jimmy,Illinois,76036,4,scottcarter@example.com,2021-01-10,65230.92
+CUST0229,Debra Goodman,Male,1935-10-06,360 Hess Wells Apt. 559,East Kimberlychester,Kentucky,60983,5,lopeztheresa@example.net,2024-04-14,64895.03
+CUST0230,Regina Williams,Male,1972-05-18,807 Hoffman Green,Smithmouth,Illinois,19377,5,obray@example.com,2016-12-19,4290.74
+CUST0231,Julian Johnson,Male,1970-03-31,07438 Campbell Turnpike Apt. 376,Lindseyberg,Wisconsin,98955,5,michael77@example.net,2020-11-17,92437.84
+CUST0232,Pamela Soto,Male,1963-08-17,7521 Villanueva Via Apt. 451,West Saratown,Maryland,37975,2,jrogers@example.org,2009-12-24,80158.78
+CUST0233,Valerie Burch,Male,1991-08-02,22879 Joshua Crest,Michellemouth,Texas,34520,5,cervantessarah@example.net,2013-10-22,36578.52
+CUST0234,Jillian Thomas,Female,1951-08-18,6309 Wallace Groves,East Mackenzie,Indiana,74680,1,mariaterry@example.org,2023-06-29,48060.18
+CUST0235,Daniel Carter,Female,1950-08-06,651 Miller Plains Suite 071,Salazarton,Mississippi,11675,3,sjames@example.org,2024-09-26,65476.55
+CUST0236,Traci Gardner,Female,1998-04-20,31058 Fernandez Hollow Apt. 075,New Mary,Iowa,96378,3,alester@example.org,2015-12-07,65020.83
+CUST0237,John Kennedy,Male,1944-09-25,927 Kim Terrace,Whiteton,Iowa,70453,4,wporter@example.com,2006-01-23,35187.41
+CUST0238,Brian Jensen,Female,1937-10-31,39365 Boyd Stream,North Leonardview,Oklahoma,69219,4,ianrobinson@example.org,2015-03-29,72513.52
+CUST0239,Lacey Collins,Male,1948-03-15,9421 Roberts Springs Apt. 093,North Ronald,Washington,67237,1,michaeljones@example.net,2012-10-19,16975.95
+CUST0240,Oscar Rodriguez,Female,1993-02-06,19512 Cobb Station,New Garyfort,Kansas,38965,2,whitney27@example.org,2023-05-07,59645.7
+CUST0241,Rita Rodriguez,Female,1960-03-17,9807 Joshua Harbors Apt. 672,South Richardchester,Rhode Island,64541,2,angela07@example.org,2020-05-28,62285.07
+CUST0242,Nathaniel Curtis,Male,1982-08-31,268 Jackson Lock,Michaelside,Wisconsin,11044,4,whitejohn@example.org,2007-09-19,57315.9
+CUST0243,Elizabeth Wilson,Male,1989-04-24,9814 Kiara Shores,Justinport,Alabama,20402,1,marcus85@example.com,2016-06-17,92026.79
+CUST0244,Michael Garcia,Male,1954-03-11,1462 Joseph Road Suite 447,Jermaineshire,Tennessee,30064,1,patrick22@example.com,2009-11-24,97976.15
+CUST0245,Ruben Solomon,Female,1976-04-22,3151 Fischer Walks,Port Reginaport,Virginia,94140,4,melissa88@example.com,2011-11-13,40924.22
+CUST0246,Anthony Foster,Male,2006-12-28,52926 Angela Glens,North Patrickview,Missouri,04643,3,anitaanderson@example.com,2008-01-25,25878.31
+CUST0247,Jeffrey Martinez,Female,1946-09-11,2301 Justin Curve,Ashleyhaven,Nevada,98278,4,kirkjonathon@example.org,2023-07-27,60860.28
+CUST0248,Colin Novak,Male,1947-06-29,755 David Circle,Cynthiaview,Utah,90283,1,mackenzie03@example.com,2019-07-07,92081.61
+CUST0249,Shelly Williams,Female,1946-05-04,86006 Norman Village,North Kristenfort,Hawaii,25358,2,carolynramos@example.net,2006-04-26,2003.17
+CUST0250,Brittany Mccoy,Female,1994-01-03,42853 Joy Vista,Lake Kathryn,South Carolina,03495,2,johnsontravis@example.org,2006-07-22,97618.49
+CUST0251,Katie Roy,Female,1962-09-04,29462 Roger Lakes Apt. 288,Port Jenniferside,Maine,48660,1,cisneroswilliam@example.com,2011-12-07,44829.42
+CUST0252,Kimberly Sawyer,Female,1960-07-04,2101 Lyons Via Apt. 784,West Shawnmouth,Connecticut,05796,5,stewartjohn@example.com,2020-09-02,90255.13
+CUST0253,Kimberly Kerr,Male,1949-04-01,558 Hughes Keys Apt. 722,Port Christopher,Wisconsin,83403,2,bennettcarly@example.com,2009-10-12,70362.63
+CUST0254,Gina Adams,Male,1957-01-06,687 Douglas Keys,North Luis,New Hampshire,71942,2,jasonevans@example.org,2016-03-19,48129.0
+CUST0255,Jonathan Nash,Male,1941-12-25,36234 Farmer Fork Apt. 124,Donaldsonland,New York,15103,2,dawnlawrence@example.com,2022-07-06,11749.94
+CUST0256,Sarah Simmons,Female,1988-03-19,602 Renee Mills,West Gabrielstad,California,92261,1,melinda09@example.com,2012-03-20,62705.46
+CUST0257,Jasmine Stevens,Male,1967-08-30,95520 Nathan Highway Suite 534,Shelleybury,Connecticut,86805,5,ehall@example.com,2005-05-15,61617.67
+CUST0258,Alexandra Stewart,Female,1960-10-29,464 Joan Lane Apt. 898,South Clintonside,Washington,98278,1,andrewsmith@example.net,2022-08-16,86199.39
+CUST0259,Pamela James,Male,1960-12-17,86289 Joshua Common,West Frank,Mississippi,08304,5,claytonheather@example.com,2012-02-21,90554.07
+CUST0260,Robert Garcia,Female,1971-09-29,513 Jones Grove,East Kathleen,New York,45025,3,jenniferthompson@example.net,2010-10-08,94234.19
+CUST0261,Kelsey Jones,Male,1994-11-22,1736 Clay Glens,Jeffreyfort,Delaware,03624,3,johnthomas@example.org,2016-03-10,76512.83
+CUST0262,Danielle Hughes,Male,1980-06-04,509 Stephanie Circles,Jonathanview,New Mexico,24736,1,matthewsmith@example.com,2013-11-25,94768.86
+CUST0263,Brenda Robles,Female,1982-09-21,320 Jordan Union Suite 151,Bryantland,Connecticut,11737,3,zpearson@example.org,2010-12-07,13667.16
+CUST0264,Candice Harrison,Female,1949-01-21,8412 Stephanie Brooks Suite 288,Lucasstad,Mississippi,25084,4,gutierrezjean@example.com,2007-04-06,1617.73
+CUST0265,Travis Camacho,Male,1978-10-16,967 Elizabeth Tunnel,East Jayshire,Texas,41629,5,wrightmarissa@example.org,2005-05-11,86609.7
+CUST0266,Steve Reyes,Female,1941-04-29,56419 Wendy Route Suite 143,West William,Maine,34425,2,iperry@example.org,2023-10-07,8562.66
+CUST0267,John Barnes,Female,1981-04-21,89734 Nielsen Vista Suite 852,East Shawnville,Wisconsin,04262,1,curtis95@example.org,2012-02-01,52512.05
+CUST0268,Shelby Miller,Female,1964-12-17,6829 Stephanie Path Suite 290,North Michaelview,Utah,10988,4,johnsonmelvin@example.org,2006-05-08,88683.95
+CUST0269,Sherri Weeks,Male,1976-03-29,5563 Robinson Causeway,South Nicholasfort,Oklahoma,68866,3,nknox@example.net,2008-06-03,99863.02
+CUST0270,Charles Stewart,Male,1955-08-20,025 Andre Squares Suite 505,West Elizabeth,South Dakota,81213,4,timothylee@example.net,2018-01-04,62022.33
+CUST0271,Jillian Burnett,Female,2001-12-30,26908 Allen Estates Suite 762,East Lisa,Oregon,49333,2,qreed@example.org,2006-04-13,91285.36
+CUST0272,Alexis Dawson,Male,1951-04-02,33043 Lawrence Pass Apt. 700,South James,Georgia,24912,5,martincynthia@example.com,2009-07-25,81724.6
+CUST0273,Cynthia Gonzales,Male,1977-09-12,4371 Madden Radial,East Matthewburgh,Montana,84332,4,meyercrystal@example.net,2021-08-30,84148.49
+CUST0274,Jennifer Foster,Female,1953-01-06,482 Hall Parkway,Lake Ashleybury,Massachusetts,00904,4,davidhernandez@example.org,2006-08-06,67900.65
+CUST0275,Brent Newton,Female,1944-01-08,7460 Megan Lake Apt. 265,Port Robinville,Indiana,01280,4,christinagomez@example.net,2018-08-30,76976.12
+CUST0276,Danielle Young,Male,1976-11-28,2569 Garner Island,Youngtown,Michigan,63261,3,russellvalerie@example.com,2017-03-07,90864.58
+CUST0277,Michelle Hancock,Male,1976-08-17,999 Schmidt Forges,New Eric,West Virginia,61463,1,xpreston@example.com,2022-09-26,8093.77
+CUST0278,Nathan Stevens,Female,1967-02-05,85242 James Corner,East Brandichester,Kentucky,00979,4,mayerbenjamin@example.com,2008-09-17,98277.51
+CUST0279,Brad Roy,Female,1996-02-17,4827 Joel Road Apt. 443,South Ashleyton,New Mexico,54683,3,donald54@example.com,2008-01-17,3504.2
+CUST0280,Steven Norton,Female,1981-12-02,029 Smith Rapid,Lake Joshua,Maine,15008,5,pamela13@example.com,2009-07-03,54272.85
+CUST0281,Kaitlyn Floyd,Male,1999-07-26,002 Robert Glens Apt. 578,Aaronchester,Georgia,31126,4,pwallace@example.com,2008-02-22,93720.12
+CUST0282,Kathryn Fletcher,Male,1959-07-07,31114 Curtis Summit Apt. 313,Larryfurt,Tennessee,23094,5,romerostephen@example.net,2013-05-14,6166.06
+CUST0283,Margaret Garcia,Female,1969-02-25,940 West Point Suite 849,New Sarahtown,Hawaii,91471,2,ocoleman@example.com,2018-07-25,4119.64
+CUST0284,Kylie Taylor,Male,1937-09-10,62935 Smith Wells Suite 973,Crystalfort,California,44858,3,susanbrown@example.net,2012-04-04,27030.41
+CUST0285,Sandra Cantu,Female,1993-10-26,74798 Kelly Manor,East Williehaven,Delaware,60078,2,josephperez@example.com,2025-03-06,51988.79
+CUST0286,Michelle Hamilton,Female,1983-11-15,38293 Jacob Mountain Apt. 395,Kirkfurt,California,99941,5,coxjustin@example.com,2012-06-21,52658.17
+CUST0287,Frederick Johnson,Female,1949-01-05,178 Fleming Turnpike Suite 989,Taylorshire,Georgia,81028,3,pamelasanders@example.com,2022-12-17,61307.19
+CUST0288,Danielle Kelly,Female,1992-07-18,52556 Madison Squares Suite 254,Smithfort,Oklahoma,94283,5,david29@example.org,2005-08-27,40416.42
+CUST0289,Erica White,Male,1970-12-21,2169 Allen Divide,Jamesburgh,West Virginia,81595,2,timothyfigueroa@example.org,2016-12-31,68863.48
+CUST0290,Danielle Carr,Male,1947-10-15,99777 Geoffrey Ramp,Katieberg,Louisiana,44550,5,priceanthony@example.com,2011-01-28,82169.66
+CUST0291,Joseph Parks,Female,1940-06-22,0995 Michael Square,Hernandezport,Connecticut,59512,2,richardjames@example.org,2008-05-28,91857.86
+CUST0292,Steven Wolfe,Male,1999-11-19,0447 Phillips Track,Port Jean,Idaho,71685,3,melissa76@example.org,2018-08-29,26914.81
+CUST0293,Alexander King,Female,1991-07-20,4099 Perry Cliffs Apt. 306,Ortegafurt,Connecticut,71082,4,thomasray@example.net,2017-05-22,89461.76
+CUST0294,Betty Terrell,Male,1943-10-26,9074 Smith Camp Suite 331,Kathleenfort,Florida,96714,4,gvazquez@example.org,2023-12-31,33449.36
+CUST0295,Brittney Jones,Male,1998-04-15,04252 Emily Summit Apt. 565,Andrewmouth,Texas,30148,5,jarnold@example.net,2011-11-06,96321.28
+CUST0296,Scott Mcfarland,Female,1999-01-05,80791 Shawn Coves,Leechester,New York,91735,4,laura80@example.org,2012-12-09,89895.35
+CUST0297,Shannon Macias,Male,1958-04-15,0389 Cindy Union,Johnathanfort,Colorado,57920,1,timothy03@example.org,2010-11-18,54881.15
+CUST0298,Jennifer Hicks,Female,1944-06-16,59835 Tracy Ville Apt. 992,Lake Gabrielleview,Rhode Island,32389,4,tammyking@example.net,2015-05-01,98471.83
+CUST0299,Thomas Cohen,Male,1978-09-01,1960 Alicia Estate Apt. 171,Kathleenside,Illinois,45331,2,keith11@example.com,2024-05-01,42812.19
+CUST0300,James Clark,Male,1966-04-21,66513 Carter Way Suite 154,East Anthony,Alaska,77994,3,lisa60@example.net,2007-05-30,60252.69
+CUST0301,Sarah Medina,Female,1942-12-25,704 Bell Ville Suite 991,Christopherstad,Oklahoma,14049,4,brandonmitchell@example.net,2007-07-26,28482.24
+CUST0302,Lawrence Mack,Female,1957-06-05,34263 White Course Apt. 730,North Moniqueland,Montana,77408,4,paulgallagher@example.org,2022-06-01,33002.63
+CUST0303,Charles Pierce,Male,1935-07-08,504 Franklin Drives Suite 747,New Stevenmouth,Rhode Island,10942,5,fmcgee@example.net,2018-01-24,56221.01
+CUST0304,Aaron Graham,Male,1954-09-26,63487 Simon Groves,New Stevenchester,Rhode Island,21910,3,brianrichardson@example.org,2018-08-27,25122.12
+CUST0305,Yvonne Brown,Male,1952-09-25,9178 Justin Lake Suite 080,South Cassandra,Connecticut,47193,2,larsentyler@example.com,2020-09-02,19281.8
+CUST0306,Brittany Acevedo,Male,1950-05-02,00654 Arnold Fields,Pecktown,Virginia,22018,4,davidsonpatrick@example.net,2020-06-04,86834.81
+CUST0307,Melinda Morris,Male,1967-12-26,050 Adam Causeway,Mooreshire,Louisiana,99357,5,blake63@example.com,2021-03-19,81107.94
+CUST0308,Eric Foster,Female,1983-09-11,34469 Danny Valley,Thomastown,Missouri,56668,1,rachel81@example.net,2021-10-11,93484.79
+CUST0309,William Stevens,Female,1961-04-19,8793 Ann Shores,Ramosport,Wyoming,10052,3,ywagner@example.org,2015-01-18,74109.39
+CUST0310,Kathy Thomas,Female,2001-06-24,9869 Cynthia Inlet Suite 983,Port Melissa,Arkansas,86103,1,christopher24@example.net,2016-03-16,78578.25
+CUST0311,Pamela Hughes,Female,1985-05-30,130 Stanley Port Apt. 644,North John,Rhode Island,58781,5,julie86@example.net,2022-04-25,44127.79
+CUST0312,Brandon Smith,Female,1952-03-10,5372 Daniel Rapids Suite 569,Danielberg,California,46516,1,shellyfowler@example.net,2011-04-02,13798.41
+CUST0313,Emily Flynn,Male,1965-11-29,54267 Richard Drives,Kristamouth,Oregon,86506,4,goodmanheather@example.org,2014-02-10,97771.45
+CUST0314,Margaret Martin,Male,1981-07-31,3866 Santos Way,Michaelview,Iowa,60425,3,ericatkins@example.net,2022-12-02,79097.37
+CUST0315,Brittany Rodriguez,Male,1966-04-20,25287 Anderson Mission Suite 528,Port Michaelmouth,Rhode Island,30271,5,amybrown@example.net,2011-10-02,93095.41
+CUST0316,Robert Coleman,Female,1976-08-14,499 Wayne Course,Saraville,South Carolina,60682,5,jamesbrown@example.com,2014-05-15,51690.7
+CUST0317,Megan Byrd,Female,1942-12-14,870 Cooper Pass Apt. 268,North Frank,Ohio,60697,3,bjackson@example.net,2019-04-25,82956.62
+CUST0318,Jacob Mcpherson,Female,1990-09-20,31187 Sue Station,Kevinborough,Alaska,18055,3,michaelrussell@example.com,2013-03-15,39390.07
+CUST0319,Cassandra Vega,Male,1958-02-03,96107 Moyer Brooks,New Victoriaside,Kansas,70370,5,ocastillo@example.com,2007-01-14,78106.89
+CUST0320,Anthony Floyd,Male,1945-05-23,261 Bryant Rapid Apt. 743,New Christina,Florida,04476,3,dixonvincent@example.net,2020-04-24,71832.75
+CUST0321,Michael White,Male,1959-03-21,565 Paula Parkway Suite 998,Lake Paulmouth,Arizona,90789,5,kristin78@example.net,2010-01-21,64005.95
+CUST0322,Michael Lopez,Female,1992-04-19,5790 Sheryl Parkway,Lake Taylor,Kansas,75640,5,paula79@example.com,2013-10-25,57496.03
+CUST0323,Laura Thomas,Male,1962-08-21,71936 Pugh Divide,Jacquelinestad,Minnesota,79738,5,taylortammy@example.net,2022-02-27,95674.19
+CUST0324,Jacqueline Brown,Female,1959-04-21,610 James Plains Apt. 926,Brianport,Arizona,68805,2,kristaelliott@example.net,2024-04-22,96928.11
+CUST0325,John Price,Female,1965-05-11,81369 Fitzgerald Rue,Port Reginaldmouth,Washington,55616,5,combschristopher@example.net,2018-05-22,89905.04
+CUST0326,Michelle Russell,Female,2006-11-16,2299 Karen Canyon,Tinaburgh,Texas,80449,5,matthew93@example.org,2006-05-07,72178.34
+CUST0327,David Lewis,Male,1967-10-15,193 Simpson Drive Apt. 205,New Shirleyhaven,Hawaii,26153,3,fbrewer@example.com,2025-02-04,16318.24
+CUST0328,Laura Webb,Female,2007-01-08,1979 Serrano Trail Suite 717,New Pamela,Kansas,25343,2,timhall@example.com,2024-04-04,29978.72
+CUST0329,Kaitlyn Schmitt,Female,2004-05-20,829 Erickson Cliffs Apt. 800,Carlsonbury,Idaho,41087,2,kimberlytorres@example.com,2013-08-29,78354.81
+CUST0330,Carolyn Cabrera,Male,1980-10-07,33670 Olsen Crossroad Suite 832,Laurieside,Kentucky,14172,5,gardnerrachel@example.org,2017-07-04,50720.29
+CUST0331,Tyler Cortez,Male,1953-03-15,4581 Vazquez Bridge,West Mitchell,Pennsylvania,22434,5,brianna30@example.com,2007-10-07,26539.35
+CUST0332,Justin Jones,Female,1983-12-11,749 Margaret Crossroad,Brennanberg,Georgia,94628,2,moralesantonio@example.org,2008-05-05,43865.26
+CUST0333,Dennis King,Male,1938-05-02,069 Johnson Trail,Thomaston,Indiana,59570,1,mariamyers@example.org,2023-01-30,88318.72
+CUST0334,Kenneth Jones,Female,1959-01-25,90049 Novak Brook,South Cindytown,Oregon,18910,3,fking@example.org,2006-08-03,86622.72
+CUST0335,Elizabeth Johnson,Male,1948-01-20,0048 Seth Prairie,Lake Carolineburgh,Tennessee,93030,1,emily35@example.com,2020-07-03,84604.0
+CUST0336,Nathan Faulkner,Male,1935-07-31,137 Kim Mall,Port Kaylee,Maine,05259,2,rosscarlos@example.net,2010-04-01,60752.81
+CUST0337,Gina Campbell,Female,1982-06-08,8549 Susan Views Suite 401,Staceyborough,Washington,79395,1,jamie76@example.org,2015-08-27,40502.94
+CUST0338,Janet Ortega,Female,1992-11-07,317 Mcdonald Plains,Port James,Delaware,28585,4,dominguezjordan@example.org,2021-12-17,24686.46
+CUST0339,Whitney Baker,Female,2002-09-16,5082 Guerrero Walk Suite 249,West Tamara,Connecticut,28388,5,larryalvarez@example.net,2024-12-23,23525.64
+CUST0340,Scott Crawford,Male,1995-01-23,27172 Janet Loaf,Clarkstad,Missouri,51650,5,etorres@example.net,2017-11-18,15408.97
+CUST0341,Brenda Woodard,Female,2006-12-24,4885 Cynthia Fork Apt. 827,Monicaport,Ohio,95567,2,dnorris@example.com,2015-05-18,1846.94
+CUST0342,Stephanie Armstrong,Male,1976-04-09,79155 Jeremy Burg Suite 391,Myersbury,Michigan,66667,2,sarasmith@example.org,2020-03-14,64841.21
+CUST0343,Nicholas Saunders,Male,2005-06-25,014 Nguyen Crest,North Meghanbury,Virginia,34337,2,geneperez@example.net,2015-02-04,41472.41
+CUST0344,Jonathan Turner,Female,1940-05-10,03653 Hodge Islands Suite 242,West Feliciachester,Arkansas,08892,4,snunez@example.org,2006-07-05,34614.62
+CUST0345,Christopher Coleman,Female,1982-12-01,75415 Lewis Drives,North Nicholebury,Indiana,56906,4,melissahernandez@example.net,2013-09-02,18857.31
+CUST0346,Hannah Cooper,Female,1945-02-10,512 Terry Ridge,East Sheila,West Virginia,13060,3,gilbertmelissa@example.net,2014-02-03,48237.58
+CUST0347,Stephen Meyers,Male,1968-12-19,578 Koch Rue Apt. 618,Whitefort,Massachusetts,13707,2,ayang@example.org,2019-03-05,74376.94
+CUST0348,Christopher Hill,Male,1974-08-27,63453 Maria Square,Port Waynetown,Arizona,45043,1,raykristy@example.org,2019-10-28,40783.1
+CUST0349,Sandra Wu,Male,1953-11-09,7328 Andrea Estates,Candaceland,New Jersey,18823,2,jessica69@example.net,2023-04-09,55565.44
+CUST0350,Heather King,Female,1999-12-02,472 Bryant Spring,Thomasport,New York,72732,3,victorberger@example.com,2014-05-26,53346.66
+CUST0351,Sara Russell,Female,1964-03-09,8838 Scott Creek,Gonzalesstad,Michigan,66110,1,karen17@example.net,2023-04-19,5735.33
+CUST0352,David Gilmore,Male,1959-08-13,000 Benjamin Roads,Ashleyburgh,Arizona,96465,2,nlewis@example.com,2013-11-01,97004.57
+CUST0353,Eric Hernandez,Male,1977-12-06,5467 Smith Village,Zacharyville,Alaska,74743,1,robinsoncynthia@example.org,2024-06-06,47441.59
+CUST0354,Brian Walker,Male,1941-01-18,56226 Smith Street Apt. 281,West Susanmouth,California,02517,1,vgonzalez@example.org,2007-03-17,90462.0
+CUST0355,David Gonzalez,Female,1939-07-22,935 Lisa River Suite 195,Charlesfurt,Idaho,56265,2,serranoelizabeth@example.net,2018-10-23,44941.33
+CUST0356,Stacy Smith,Female,1944-08-10,547 Coleman Center,Port Sandrabury,New Jersey,94849,1,aaron46@example.com,2018-02-13,91556.32
+CUST0357,Nicole Reed,Female,1959-01-24,913 Knight Shoals Suite 486,East Loriport,New Mexico,20206,3,matthewwilliams@example.com,2017-11-09,20111.35
+CUST0358,Edward Gardner,Male,1968-03-27,2777 Fletcher Trail Suite 636,New Jeffrey,Indiana,65033,3,owright@example.com,2010-10-17,39318.5
+CUST0359,Brian Edwards,Male,1954-10-27,347 Jade Circles,South Donnaport,Arkansas,52382,1,anthony48@example.com,2015-11-13,54751.49
+CUST0360,Stephanie Gaines,Female,1987-10-10,956 Ingram Estates,Timothyport,Montana,17081,1,debraalexander@example.net,2022-06-28,39762.12
+CUST0361,Jennifer Campbell,Female,1949-01-16,714 Andrea Dam Apt. 657,East Francisco,Delaware,94834,4,charles63@example.net,2010-07-06,79688.57
+CUST0362,Patrick Miller,Male,1950-10-10,924 Lynn Lock,Scottborough,Oklahoma,53449,3,rosejones@example.net,2016-03-11,16290.34
+CUST0363,Kristina Fields,Female,1955-05-06,260 Peter Walk,Alisonbury,Hawaii,26967,4,steven54@example.net,2005-06-06,56168.48
+CUST0364,Margaret Ballard,Female,1957-08-04,3066 Ryan Path,Port Douglasstad,Kentucky,24358,5,maryharris@example.net,2020-06-06,14297.07
+CUST0365,Joseph Jacobson,Female,1944-06-14,981 Janet Camp Apt. 177,Annatown,West Virginia,32130,2,nparker@example.org,2011-03-10,3174.21
+CUST0366,Mary Williams,Female,2002-04-27,5712 Miles Cove Apt. 325,Port Williamville,Illinois,38241,1,richardsonjeffrey@example.com,2008-05-19,83455.77
+CUST0367,Laura Becker,Female,1995-04-26,7426 Jennifer Springs,Billstad,Illinois,25454,5,melissa45@example.net,2006-03-25,78828.81
+CUST0368,Roy Jackson,Male,1949-01-15,4061 Thompson Lock,South Eric,Arkansas,90565,1,prattnicole@example.com,2011-01-14,96863.29
+CUST0369,Julie Norman,Male,1977-10-17,605 Mary Rest,Perkinsburgh,Colorado,90351,4,bowmancynthia@example.net,2022-09-18,13777.95
+CUST0370,Cody Ellis,Female,1973-05-16,468 Sanders Throughway Suite 095,Keithshire,Louisiana,15141,1,howelllisa@example.net,2012-04-24,11543.88
+CUST0371,Nathaniel Caldwell,Female,1964-08-16,74880 Tracy Pike,Chasebury,Delaware,01099,5,kmay@example.org,2008-06-25,44072.87
+CUST0372,Heather Allen,Male,1978-12-12,589 Jill Island Suite 597,New Chadborough,Missouri,88341,2,mossmelissa@example.org,2008-12-17,69534.05
+CUST0373,Christopher Flores,Male,1966-04-10,7581 Trevor Valleys,New Daniellestad,Illinois,21472,2,donna29@example.net,2014-08-12,59770.02
+CUST0374,Maria Smith,Female,1951-10-10,08369 Spencer Radial,West Raymondchester,Maine,46182,1,thorntonkayla@example.com,2020-05-04,78435.14
+CUST0375,Cathy Rogers,Female,1981-10-02,952 Christina Stream,East Marvin,Massachusetts,28194,3,stevenpalmer@example.com,2012-06-07,76493.64
+CUST0376,Kyle Murray,Female,1944-07-04,52544 Keller Junctions Suite 783,South Nancyberg,Hawaii,80148,1,gatesregina@example.net,2007-04-24,96697.05
+CUST0377,Raymond Burke,Male,1959-03-17,6093 Fields Bypass,Dianeview,Vermont,56207,3,crossmckenzie@example.net,2008-12-01,92337.15
+CUST0378,Diane Bennett,Male,2005-06-17,66130 Shea Bridge Suite 113,South David,Connecticut,83629,4,charles69@example.com,2024-10-06,89931.32
+CUST0379,Kevin Small,Male,1982-07-17,67751 Carol Parkway,Taramouth,Indiana,04390,5,charlesmoran@example.com,2010-09-13,33976.56
+CUST0380,Tyler Dixon,Male,1951-12-30,9391 Garcia Ramp,Walkerville,Wyoming,02854,1,wscott@example.com,2014-12-31,41745.82
+CUST0381,Nina Clark,Male,1956-11-25,9640 Schmidt Mission,Sandratown,Maine,44860,1,gainesryan@example.org,2025-02-07,7283.69
+CUST0382,Jesse Cowan,Female,1974-01-20,20611 Wheeler Union Apt. 978,New Anita,Utah,87392,1,murraykatherine@example.org,2020-02-04,56320.55
+CUST0383,Tyler Solis,Female,1956-12-20,515 Thompson Harbors Suite 353,North Jamie,Missouri,94704,5,elliottrebecca@example.com,2010-01-25,70137.19
+CUST0384,Rachel Hill,Male,1998-09-06,4600 Reynolds Freeway,West Timothy,Michigan,61102,3,pamelabailey@example.net,2023-11-23,15314.68
+CUST0385,Alex Wood,Male,1964-07-31,083 Boyer Key Apt. 837,Melaniemouth,Georgia,38240,2,michellebrown@example.net,2010-09-04,91434.84
+CUST0386,Krista Howard,Male,1986-03-15,1109 Ruiz Stream,South Teresa,Minnesota,62094,2,jacob08@example.com,2010-01-27,63063.98
+CUST0387,Sean Foley,Female,1936-05-27,62184 Whitney Ramp Suite 929,Lake Courtneyville,Michigan,37632,2,kathyphillips@example.org,2016-11-20,37314.76
+CUST0388,Eddie Jackson,Female,1938-01-03,782 Julia Valleys Suite 750,Laceytown,Nevada,70356,5,scottarnold@example.org,2006-08-15,78627.58
+CUST0389,Trevor Hernandez,Male,1988-08-04,3060 Tamara Fields,Lozanoborough,New Hampshire,78562,1,pwhite@example.org,2021-05-29,29956.38
+CUST0390,Susan Mata,Male,1980-12-05,3642 Nelson Haven,Johnmouth,Alaska,59944,2,ebrown@example.com,2019-09-25,27247.23
+CUST0391,James Todd,Male,1982-04-21,58694 Flores Brook,West Tonyaland,Florida,24941,3,yolandaharrison@example.com,2008-01-22,21794.18
+CUST0392,Alexis Richardson,Male,2004-10-10,7371 Samantha Summit Suite 973,Mendozaburgh,Florida,42602,4,bsanchez@example.net,2014-04-03,16854.6
+CUST0393,Traci Smith,Male,1997-09-15,410 Connie Parkway,Port Brandonton,Wyoming,24429,3,elliottbrian@example.com,2018-01-04,56476.63
+CUST0394,Tara Neal,Female,1957-12-10,6159 Wang Mill Suite 128,Taylorside,Indiana,79780,2,lbailey@example.org,2010-09-15,21689.19
+CUST0395,Nicolas Taylor,Female,1948-08-21,049 Alexandra Crossing,Vangton,Ohio,82185,5,wagnercharlene@example.org,2021-01-13,52069.66
+CUST0396,Stephen Roth,Male,1939-11-24,33970 Lewis Creek,West Timothytown,South Dakota,60688,4,joneskelly@example.net,2019-06-30,79073.28
+CUST0397,Selena Duncan,Male,2006-10-21,287 Guzman Green,Mccormickside,Oregon,27649,5,aclark@example.org,2020-07-05,27399.18
+CUST0398,Eric Best,Female,1960-12-13,2609 Davis Burg Suite 032,South Rachel,Utah,91418,3,careyhayley@example.com,2022-05-04,96409.34
+CUST0399,Robin Gilmore,Female,1962-01-02,52304 Jones Meadows,Jeffreybury,Michigan,81523,5,laraemily@example.com,2016-04-11,19360.35
+CUST0400,Ryan Lopez,Male,1996-11-24,3492 Mark Manor,Port Joshuaview,Illinois,93317,2,amandaruiz@example.net,2010-03-31,49616.07
+CUST0401,Bryan Escobar,Female,1944-11-25,160 Leah Via,Rebeccaberg,Oregon,48227,3,christinebrooks@example.com,2007-12-17,83564.4
+CUST0402,Daniel Johnson,Female,1989-06-11,0908 Yu Isle Apt. 508,Michelleborough,Illinois,12864,2,joycepamela@example.org,2021-06-08,43186.75
+CUST0403,Jacqueline Brown,Female,1960-05-03,605 Patterson Run,New Adamfurt,Georgia,30348,5,lesliepruitt@example.org,2009-12-15,38409.4
+CUST0404,Joan Davidson,Female,1997-12-16,5627 Eric Rue,East Joshuamouth,Maryland,96187,2,cdiaz@example.com,2023-06-11,61174.53
+CUST0405,Elizabeth Jones,Female,1955-11-23,30770 Debra Parkway Suite 704,Timothyview,Maine,96490,3,lmason@example.com,2018-10-24,35170.12
+CUST0406,Daniel Hughes,Female,1979-10-01,548 Christopher Drives,Lake Johnchester,Texas,17157,2,richardsonchristopher@example.org,2008-05-22,29787.23
+CUST0407,Meredith Zavala,Female,1937-12-24,67736 Jackson Wells,South Justinbury,South Dakota,42957,1,marshcharles@example.org,2011-04-30,92909.59
+CUST0408,Douglas Bray,Female,1983-01-29,19309 Porter Walks Suite 701,East Aliciachester,Virginia,80483,2,huertawilliam@example.net,2021-03-27,33553.73
+CUST0409,Angela Weiss,Male,1974-12-15,51623 Watson Crest Apt. 682,South Jennifermouth,Vermont,40934,3,fitzgeraldjillian@example.com,2008-01-04,76140.5
+CUST0410,Daniel Brown,Female,1988-09-15,618 Dixon Stream,Lake James,Vermont,59216,2,maria59@example.com,2014-12-20,48138.33
+CUST0411,Richard Huffman,Male,1986-12-24,75123 Jennifer Land Suite 050,Knoxview,North Dakota,85685,3,mphillips@example.net,2015-08-26,78494.15
+CUST0412,Edward Garcia,Male,1989-02-13,631 Medina Plains Suite 491,East Jennifer,Minnesota,83070,5,jeremy99@example.org,2011-08-24,8549.21
+CUST0413,Taylor Winters,Female,1977-06-17,0964 Wells Light,Lopezburgh,Idaho,08628,4,smithjustin@example.com,2005-11-15,58234.85
+CUST0414,Calvin Young,Male,1974-09-01,6546 Gregory View,South Donna,Arizona,05039,5,angelathompson@example.org,2017-11-29,86472.48
+CUST0415,Eugene King,Male,1986-02-17,54629 Angela Rapid Apt. 063,Sabrinaland,Vermont,17067,2,kevingibbs@example.com,2015-09-20,8676.5
+CUST0416,Brooke Hansen,Male,1943-11-16,153 Brooks Points,Jacksontown,Hawaii,95855,2,christopher57@example.com,2023-10-18,93535.71
+CUST0417,Tracy Wiggins,Male,1989-12-19,0758 Carlos Knolls,Butlerhaven,Alaska,83508,4,kathy96@example.net,2022-09-16,91900.5
+CUST0418,Autumn Wagner,Male,2006-06-15,97013 Hanna Lodge,New Christopher,Florida,38740,5,bradley09@example.org,2011-03-05,32839.6
+CUST0419,Melissa Stephens,Female,1969-01-11,3614 Smith Way,Lake Kentmouth,Wisconsin,56795,3,dudleywilliam@example.net,2020-04-17,11639.84
+CUST0420,Steven Anderson,Female,1990-04-04,035 Martinez Mountains Apt. 035,North Laurie,Louisiana,97963,2,hannah42@example.org,2009-05-10,17152.2
+CUST0421,William Lester,Male,1956-08-23,877 Sandra Knolls,Lake Ericaville,Wisconsin,65436,1,carneyrobert@example.org,2018-07-18,21592.09
+CUST0422,Mark Salinas,Female,1954-12-18,2320 Brian Greens Suite 711,Lake Tammy,Arizona,16562,3,justinboyle@example.com,2022-05-31,43359.84
+CUST0423,Shelly Aguilar,Male,1976-08-17,646 Daniel Villages Apt. 550,New Diana,Tennessee,64985,1,michaelwalker@example.org,2017-08-27,21524.86
+CUST0424,Marcus Bernard,Female,1976-02-01,65148 Todd Roads Suite 341,Mathewsview,West Virginia,25497,1,christine90@example.org,2009-03-21,80713.92
+CUST0425,Stephen Monroe,Male,1977-12-14,64250 Norman Via,West Matthew,Oklahoma,32568,5,castrocharles@example.org,2011-02-05,76311.65
+CUST0426,Lisa Williamson,Male,1947-04-21,140 Tanner Extensions,Terryside,Virginia,95701,1,brianlane@example.com,2009-11-06,21152.71
+CUST0427,Sherry Aguirre,Female,1989-11-03,12449 Wilcox Streets,Jennifermouth,Missouri,00895,2,garrettdavid@example.org,2015-12-10,92625.04
+CUST0428,Theresa Thompson,Male,1968-04-03,92020 Linda Ports,Donaldside,Georgia,22083,1,shellywilson@example.net,2015-10-03,85832.17
+CUST0429,Marvin Harrison,Female,1974-03-02,91333 Joshua Mews Apt. 561,West Sabrinaton,Oregon,56089,4,dana98@example.net,2009-09-25,55454.97
+CUST0430,Lauren Vasquez,Male,1937-04-19,57476 Harris Underpass Apt. 559,Lake Stephanie,Michigan,60336,1,caldwellchristina@example.com,2013-09-13,90672.08
+CUST0431,Julie Montgomery,Female,1982-03-13,1430 Adams Forest,Stewarttown,West Virginia,30868,5,qbest@example.net,2006-09-07,86193.21
+CUST0432,Nancy Marks,Female,1974-12-29,469 Anderson Wall Apt. 081,Josechester,Montana,19690,3,johnnynelson@example.net,2012-06-25,55044.65
+CUST0433,John Harris,Female,1971-11-17,13686 Todd Circles,Lake Christopherburgh,Ohio,96075,3,gdalton@example.org,2015-09-03,56992.83
+CUST0434,Robert Carter,Male,1999-11-30,053 Charles Valley Apt. 328,New Lance,North Carolina,23629,3,belindapena@example.net,2021-04-09,76835.55
+CUST0435,Tami Martin,Female,1934-08-05,6984 Douglas Fields,Port Kaylaborough,Utah,93508,5,oconnornoah@example.com,2020-12-15,93585.99
+CUST0436,Michael Brown,Female,1964-06-14,522 Cathy Port Suite 131,Port Deborahborough,Wyoming,66519,2,francis26@example.org,2007-03-23,27185.34
+CUST0437,Benjamin Atkinson,Female,1962-05-21,524 Smith Groves Apt. 238,New Lukemouth,Arizona,47114,3,johnhughes@example.org,2021-03-05,77886.78
+CUST0438,Kevin Rice,Male,1981-02-17,940 Jasmine Divide Suite 097,Dawnshire,Kansas,41185,2,james20@example.net,2011-08-31,8045.81
+CUST0439,Benjamin Lee,Male,1952-04-25,9858 Kathleen Via,North Christian,Georgia,76213,5,cgonzalez@example.com,2024-05-23,65931.01
+CUST0440,Michelle Duncan,Female,1937-01-12,041 Paula Vista Suite 469,North Kristin,South Dakota,25550,1,adamssteven@example.net,2020-12-11,78853.49
+CUST0441,Joann Avila,Female,1987-08-28,41233 Green Ramp Apt. 397,South Benjaminside,Utah,08478,3,gharris@example.net,2009-12-03,57829.96
+CUST0442,Michael Carter,Male,1985-04-23,854 Brittney Crest Apt. 599,Scottberg,Maryland,70550,4,zgross@example.com,2018-02-25,9763.86
+CUST0443,Katherine Riggs,Female,1989-07-14,88813 Watson Avenue Suite 180,West Barrytown,Kentucky,81950,1,brandi96@example.org,2008-05-14,26373.38
+CUST0444,Angela Jones,Male,1945-02-04,60768 Melton Bridge,Anthonyport,Maine,50230,1,gking@example.net,2009-02-06,50746.28
+CUST0445,Matthew Nichols,Female,1956-03-23,5094 Hanna Passage Apt. 626,New Robertview,California,28051,2,kevans@example.org,2013-01-01,88073.44
+CUST0446,Bobby Herrera,Male,1990-04-19,5849 White River,New Whitneyland,Pennsylvania,89407,2,wtaylor@example.net,2008-07-26,3646.97
+CUST0447,Harry Frye,Female,1989-05-15,34159 Jacqueline Locks Apt. 672,Mollystad,New Mexico,49824,1,michaelmorris@example.com,2011-11-15,23247.91
+CUST0448,Kenneth Obrien,Male,2007-03-09,42165 Johnson Neck Apt. 016,East Kellishire,Nebraska,54335,1,madisontorres@example.com,2009-08-28,78868.47
+CUST0449,Caitlyn Higgins,Male,1976-12-09,787 Watson Burgs,Jorgefort,Mississippi,91185,1,zacharymiller@example.com,2011-02-02,6830.15
+CUST0450,Beth Powers,Female,1961-02-19,2908 Richards Greens Apt. 529,Port Ryan,Florida,84607,4,victor04@example.net,2007-06-29,5124.22
+CUST0451,Teresa Cervantes,Female,1960-04-12,827 Ashley Ports Apt. 573,Angelaborough,Indiana,83799,3,kaitlyn88@example.net,2008-02-06,51507.78
+CUST0452,Jeffery Hall,Female,1943-04-09,1897 Salinas Burgs Suite 391,West Charles,Massachusetts,48124,5,gonzalesdouglas@example.com,2012-10-08,90705.2
+CUST0453,Susan Lopez,Female,1945-04-06,043 Deanna Track Apt. 409,Lake Paulshire,Ohio,87845,4,charlesgould@example.net,2013-11-24,95915.33
+CUST0454,Jeffrey Allen,Female,1936-02-04,145 Perry Unions,Watsonstad,Georgia,58769,2,leonard10@example.org,2006-03-16,66570.9
+CUST0455,Johnny Mendez,Female,1982-08-13,791 Carolyn Pass Suite 097,New Angela,Nevada,76340,5,robertblack@example.org,2022-07-07,50399.79
+CUST0456,Daniel Henry,Female,1964-07-11,07057 Jeffrey Burgs Suite 245,Bellfort,Delaware,47911,1,darren35@example.net,2019-12-25,46493.96
+CUST0457,Nancy Roman,Male,1979-05-18,238 Pamela Port,Tabithafurt,Minnesota,32999,4,wmatthews@example.org,2005-05-15,15134.42
+CUST0458,Stephen Ashley,Male,1992-06-03,2582 Sanchez Fields,Port Markland,Illinois,96824,3,richardsonstephen@example.org,2017-07-01,30277.49
+CUST0459,Christopher Henry,Male,1987-01-24,481 Lane Park,Lake Frankport,Vermont,93352,2,christopher99@example.org,2021-07-13,79882.03
+CUST0460,Patrick Saunders,Female,2002-11-12,741 Moss Street Suite 475,Collinsfurt,Montana,61205,1,aaronmata@example.net,2021-02-16,2646.54
+CUST0461,Theresa Powell,Male,2001-11-04,889 Robinson Gardens Apt. 967,East Andrewtown,New Hampshire,41046,5,mathewsrebecca@example.org,2011-11-29,64186.84
+CUST0462,Crystal Hardin,Female,1971-03-18,556 Ashley Freeway,Martineztown,New York,46604,3,suzanne41@example.com,2009-10-15,67366.73
+CUST0463,Margaret Contreras,Male,1964-06-03,51063 Greene Well Apt. 758,North Ashley,Alabama,95530,4,johnsonkristina@example.com,2008-02-14,91048.16
+CUST0464,Kenneth Farrell,Female,1999-10-18,806 Cox Plaza Suite 014,New Peterbury,Massachusetts,44864,1,stephanie07@example.net,2010-01-30,85695.39
+CUST0465,Marc Hutchinson,Female,1989-11-28,91023 Michael Mills Suite 437,Lake Lisa,Tennessee,21160,1,rita76@example.net,2022-01-29,33933.47
+CUST0466,Ashley Cox,Male,1952-05-27,1308 Ortiz Isle Suite 540,West Kimberly,Texas,02987,1,xbyrd@example.com,2011-03-20,64104.15
+CUST0467,Kara Williams,Female,1972-02-15,88088 Patrick Course,Port Dawnmouth,Idaho,39165,3,nicoleshaffer@example.com,2013-10-11,46110.43
+CUST0468,Mary Howard,Female,1953-03-12,3499 Matthew Plaza,Davidfurt,Louisiana,59482,5,klinesherry@example.net,2007-02-05,71147.3
+CUST0469,Michele Johnston,Female,1979-12-04,65815 Kelley Plains Apt. 176,Nicholsport,Kansas,09443,3,cwatson@example.com,2008-10-18,55125.66
+CUST0470,Richard Downs,Female,1955-01-30,8273 Megan Underpass Apt. 516,West Michaelshire,Wisconsin,21510,3,russell78@example.net,2015-06-07,19542.82
+CUST0471,Ana Ochoa,Male,1977-04-16,9003 Johnson Wall Apt. 893,West Jessicaborough,New York,95889,3,rmiller@example.com,2014-09-19,38940.27
+CUST0472,Debra Patton,Female,1943-12-11,4536 Barbara Manor Suite 016,South Andres,North Carolina,21015,3,hollywatson@example.org,2006-04-23,37442.34
+CUST0473,Diane Sweeney,Male,1984-08-03,776 Jerry Hollow Apt. 766,Jacksontown,North Dakota,87916,5,jonathan74@example.net,2020-04-28,90038.03
+CUST0474,David Dominguez,Female,1941-05-07,67595 Taylor Avenue Apt. 970,New Aaron,Alaska,94597,1,josephwood@example.org,2017-12-18,70498.75
+CUST0475,Natalie Horn,Female,1977-01-27,150 Brown Village,New Sandrastad,Ohio,71216,1,taylordeborah@example.net,2009-07-09,59708.27
+CUST0476,Jennifer Jackson,Female,1947-10-19,655 Laura Cove,East Peter,Tennessee,22216,5,rachelglass@example.org,2021-03-05,66689.54
+CUST0477,Alison Baker,Female,1995-01-15,59718 Patterson Isle Apt. 021,North Elizabeth,South Dakota,50702,4,kimberly01@example.net,2014-11-29,65039.6
+CUST0478,Melissa Harris,Female,1994-10-18,7071 Adam Row,Matthewshire,Oklahoma,99655,5,joseph19@example.com,2005-07-24,70538.97
+CUST0479,Ronald Harrison,Male,1944-09-16,0322 Stephanie Lakes Suite 251,Scottstad,West Virginia,32230,5,caitlinholmes@example.org,2023-02-16,75900.69
+CUST0480,Chris Jackson,Female,1973-04-08,67939 Katie Flats,Lake Laura,Kansas,98019,1,james10@example.com,2019-07-16,82914.24
+CUST0481,Brian Rodriguez,Female,1960-07-08,21105 Ford Mount Apt. 056,Colemanburgh,Louisiana,26518,2,rebeccalong@example.com,2024-05-26,89743.48
+CUST0482,James Peterson,Male,1967-05-23,29377 Ramsey Heights Apt. 011,Jasminetown,Montana,76475,3,melissa46@example.net,2005-10-29,90355.02
+CUST0483,Melissa Lopez,Female,1956-09-09,26020 Morgan Extensions Apt. 431,North Melindaborough,Virginia,65418,1,owenchristopher@example.net,2022-07-12,92438.23
+CUST0484,Timothy Holmes,Male,2001-05-15,48420 Myers Locks Suite 205,Vargaschester,Louisiana,12483,5,aburgess@example.net,2015-03-15,31867.25
+CUST0485,Melissa Berger,Male,2003-11-12,0514 Monica Ways Suite 024,Juanmouth,New Jersey,52029,3,joshua11@example.com,2009-09-04,99761.93
+CUST0486,Amy Harvey,Male,1972-03-05,12632 Jeremy Plain,Port Cody,New Hampshire,21101,5,jenniferhernandez@example.org,2024-07-12,55653.17
+CUST0487,Dawn Reed,Female,1966-03-22,32235 Joshua Mission,Smithville,Nebraska,09075,1,bellkatrina@example.net,2012-05-26,55764.84
+CUST0488,Juan Copeland,Male,1965-06-15,678 Krueger Park Apt. 675,New Andrew,Nevada,32083,5,cdunn@example.com,2010-08-16,66591.79
+CUST0489,William Craig,Male,1983-07-17,91632 Joan Meadows Suite 690,Port Lisaborough,New York,74797,2,zhaynes@example.org,2013-03-27,39128.6
+CUST0490,Bradley Calhoun,Male,1999-07-22,318 Caitlin Avenue,South John,West Virginia,28833,4,deborah91@example.org,2006-06-17,3767.5
+CUST0491,Matthew Morris,Female,2006-07-27,885 Thomas Overpass,Port Darryl,Idaho,75485,4,jennifer05@example.net,2022-06-02,13925.33
+CUST0492,Jennifer Hobbs,Female,1995-05-09,388 George Overpass,Wrightburgh,New Hampshire,67307,5,youngterrence@example.org,2006-08-05,1344.54
+CUST0493,James Holmes,Male,1996-09-21,344 Robinson Grove,Port Kristin,Iowa,73539,3,bobby40@example.org,2013-05-18,74636.41
+CUST0494,Nicholas Elliott,Female,2006-07-04,61488 Boyd View,New Alexisland,Tennessee,67780,3,shill@example.org,2025-01-07,8905.38
+CUST0495,Carlos Jones,Female,1956-05-07,4426 Jamie Inlet,Carsonfurt,Hawaii,75244,2,normandave@example.net,2016-03-02,48997.93
+CUST0496,Barbara Gordon,Female,1959-06-15,776 Stephanie Loop Apt. 036,West Mary,Hawaii,98880,1,kingdonald@example.net,2021-06-23,88175.2
+CUST0497,Kayla Porter,Male,1998-09-05,040 Molina Run,Erinfurt,Alaska,58024,3,joshuadavid@example.org,2023-11-04,67109.07
+CUST0498,Andre Thomas,Male,1996-09-10,703 Spencer Fort,Sloanfurt,Utah,39409,1,orobinson@example.net,2024-11-20,68390.91
+CUST0499,Richard Ayers,Male,1948-11-03,491 Ortiz Mews,North Angela,Utah,43722,2,ronald38@example.net,2023-07-11,6076.61
+CUST0500,Samantha Blake,Female,1962-05-30,656 Mclean Lodge Suite 218,New Tannerborough,Kansas,43791,1,omalone@example.org,2019-08-14,79138.56
+CUST0501,Holly Anderson,Female,1939-11-04,84458 Reed Canyon Suite 282,Margaretberg,Florida,05047,1,dmendez@example.org,2017-05-05,4804.01
+CUST0502,Brett Hernandez,Male,1965-11-19,0171 Moore Via,East John,South Dakota,24927,1,laurie95@example.com,2017-01-28,57489.9
+CUST0503,Amanda Cox,Female,2001-05-10,9205 Timothy Stream Apt. 672,New Cindy,West Virginia,33487,5,richardssarah@example.net,2018-05-17,83305.65
+CUST0504,Brandon Hall,Female,1960-03-13,173 Kimberly Courts,Jessicabury,North Carolina,90162,3,cooperluis@example.org,2012-04-30,2895.3
+CUST0505,Taylor Carter,Male,1996-01-26,1300 Abigail Stream,Scottland,Idaho,70322,2,econner@example.net,2011-09-15,13991.76
+CUST0506,Christopher James,Female,1994-02-10,469 Brewer Centers,New Andrewton,Kansas,50027,1,tmccoy@example.com,2021-10-07,81806.01
+CUST0507,Nicholas Hansen,Male,1979-03-12,2988 Lindsey Harbor,Fordshire,Maryland,02235,4,vguzman@example.net,2018-04-20,34262.36
+CUST0508,Samuel Diaz,Male,1970-06-01,882 Campbell Port Suite 681,New Scott,Montana,84098,2,victoria64@example.org,2009-03-22,88153.86
+CUST0509,Cynthia Riley,Female,1945-03-16,83388 Deborah Hollow Apt. 174,Estesstad,Texas,04869,5,colerenee@example.net,2023-02-20,58870.44
+CUST0510,Austin Barnett,Male,1995-06-29,793 Joel Mills Apt. 460,Port Nataliebury,Idaho,49600,5,willismaria@example.org,2019-09-17,14259.38
+CUST0511,Tammie Fuller,Male,1969-07-18,4142 Linda Valley,Lake Devinberg,Illinois,04169,5,audrey16@example.org,2018-06-06,32863.51
+CUST0512,James Newman,Female,2001-07-10,93004 Darren Shore,Martinezfurt,Missouri,72426,5,lmejia@example.net,2005-10-17,45100.86
+CUST0513,Sarah Callahan,Male,1955-02-27,82775 Darrell Vista,Williamsside,North Carolina,51757,5,sophia19@example.com,2018-04-05,97840.71
+CUST0514,Andrew Massey,Female,1997-08-22,71527 Graham Streets Apt. 033,New Randall,Connecticut,15203,2,troy04@example.org,2022-02-02,96579.88
+CUST0515,Russell Vance,Female,1977-01-18,8597 Lindsay Springs Apt. 264,South Michelle,Texas,41678,2,whitney59@example.net,2016-09-21,27648.5
+CUST0516,David Wagner,Male,1940-02-11,165 Schultz Stream,Foxtown,California,76316,3,fullercarl@example.net,2007-11-10,97847.89
+CUST0517,Samantha Thomas,Male,1995-05-24,4222 Baker Brook Suite 080,North Mistyside,New Hampshire,21101,3,ujones@example.com,2022-12-18,85987.89
+CUST0518,Jacob Leonard,Male,1934-08-20,81942 John Walks Apt. 179,Scottshire,Virginia,74488,1,christina09@example.org,2018-02-23,99386.86
+CUST0519,Kara Wu,Male,1945-05-17,168 Brenda Harbor,South Cathychester,Kentucky,64764,1,zacharytapia@example.com,2016-03-22,23876.84
+CUST0520,Erica Sanchez,Female,1939-06-09,451 Turner Port,Port Marystad,North Dakota,62432,1,awilliamson@example.org,2010-08-11,27802.03
+CUST0521,Laura Hendricks,Female,1995-08-12,6103 Coleman Junctions,Jessicafort,Iowa,62841,5,kristen91@example.com,2014-08-23,52091.43
+CUST0522,William Phillips,Female,1967-09-25,2581 Smith Lake Apt. 370,Kathrynbury,Wisconsin,00818,1,heatherbarton@example.net,2007-09-14,49548.64
+CUST0523,Rhonda Davis,Male,1985-11-23,7766 Reid Meadow,Daniellebury,Virginia,27757,2,jessicajones@example.org,2009-02-14,16017.25
+CUST0524,Pamela Torres,Male,1954-08-24,57954 Michael Station Apt. 310,Schneiderbury,Washington,60816,2,joshua31@example.com,2022-03-29,36256.6
+CUST0525,Dorothy Perez,Male,1998-03-24,1131 George Keys,Sheilabury,Rhode Island,48679,3,tbrewer@example.net,2018-11-24,57167.38
+CUST0526,William Erickson,Female,1981-11-26,74094 Kathy Branch,East Jamesport,Indiana,72651,4,dianebowers@example.net,2019-06-27,65234.65
+CUST0527,Emma Huffman,Female,1963-10-01,57221 Richard Inlet,New Chadborough,Mississippi,78922,3,joshua87@example.com,2021-02-12,73430.94
+CUST0528,Melissa Smith,Female,1988-03-25,8024 Lindsey Circle,Loriview,Kansas,62889,2,angelaelliott@example.com,2005-05-16,97959.93
+CUST0529,Maria Ashley,Female,1946-06-26,59486 Ernest Brooks Suite 751,Turnershire,Connecticut,06808,2,butleradrian@example.org,2010-11-12,77035.13
+CUST0530,Tyler Reed,Male,1978-03-15,30056 Campos Manor,New Gary,Oregon,82582,3,william63@example.net,2013-05-25,13752.99
+CUST0531,Laura Howard,Female,1998-06-03,3881 Adams Divide Apt. 760,Port Desireetown,South Dakota,30378,1,iancastillo@example.net,2006-01-19,66158.82
+CUST0532,Derek Allison,Male,1951-03-26,98189 Nichols Skyway,Wendyborough,South Dakota,44660,4,matthewwright@example.com,2006-09-11,99929.32
+CUST0533,Ronald Sharp,Female,1985-09-11,057 Priscilla Shores,Cherryfort,Virginia,66327,5,toni25@example.org,2022-09-25,5585.34
+CUST0534,Tracy Kemp,Male,1948-11-08,577 Reed Path Suite 235,West James,Alabama,97768,3,reginaharris@example.org,2019-10-11,79377.39
+CUST0535,Alfred Johnson,Male,1964-10-28,662 Courtney Flats Apt. 716,Kramershire,Wyoming,13501,5,elizabethnash@example.org,2020-11-09,77934.77
+CUST0536,Angela Wilson,Female,1975-06-27,527 Tammy Ranch Apt. 088,Jacksonland,Virginia,17259,4,vaughnsusan@example.com,2011-06-09,19020.29
+CUST0537,Lisa Townsend,Male,1974-07-08,552 John Canyon,Port Christopher,Alaska,74088,4,morrisian@example.com,2015-11-09,3106.45
+CUST0538,Kaitlyn Pruitt,Male,1935-03-12,714 Derek Extension Suite 141,Kristaberg,New York,36934,3,maria25@example.org,2023-02-27,76680.0
+CUST0539,Diana Clements,Female,1974-02-23,9447 Hooper Lodge Apt. 975,Lake Teresamouth,Maryland,03412,2,traceycampbell@example.net,2010-01-31,99014.34
+CUST0540,Todd Schroeder,Male,1982-10-29,206 Julie Summit Apt. 162,East Saraton,West Virginia,74629,3,justin14@example.com,2025-01-22,29545.15
+CUST0541,Angelica Avery,Female,1941-03-09,0432 Shaw Ports Suite 648,Lake Vincent,Louisiana,05319,5,gordonshawn@example.net,2011-09-18,32063.06
+CUST0542,Sheila Smith,Male,1963-07-14,91937 David Key Suite 964,West Juliefort,Ohio,93571,5,pattonmichele@example.com,2012-12-01,94401.04
+CUST0543,Terry Carney,Female,1942-02-05,660 Scott Estate Suite 123,Gloverport,Indiana,95711,2,derek15@example.net,2007-11-26,76140.27
+CUST0544,Melissa Francis,Male,1974-05-04,99526 Candice Square,Diaztown,Louisiana,61331,5,richardsanchez@example.com,2015-09-20,15735.76
+CUST0545,Julie Cruz,Female,1954-08-26,60127 Palmer Mall,Whiteton,California,51427,3,hshaw@example.com,2023-09-14,65010.12
+CUST0546,Thomas Mendoza,Female,1950-11-06,323 Kristy Parks Suite 059,Angelicachester,Michigan,34575,4,gmason@example.com,2009-03-20,57902.84
+CUST0547,Angela Gill,Female,1995-03-28,27240 Marshall Port,North Jessica,Iowa,29420,1,kgardner@example.com,2007-12-29,31826.61
+CUST0548,Brian Wilson,Male,2004-03-25,127 Dana Isle Suite 281,Poncefurt,Washington,48956,5,kathryncallahan@example.org,2009-02-27,43044.44
+CUST0549,David Pierce,Male,1970-08-10,4290 Shelly Village Suite 245,Ryanton,Colorado,33695,5,jennifergreene@example.org,2018-09-27,57385.81
+CUST0550,Trevor Stephenson,Female,1950-11-18,58970 Richardson Road,North Amy,Idaho,70904,3,marybrown@example.com,2005-05-30,69389.68
+CUST0551,Debra Garcia,Male,1934-06-27,276 Vaughan Ferry Apt. 354,Barkerborough,Indiana,17956,2,danieldavis@example.net,2016-10-26,31450.44
+CUST0552,Walter Perez,Male,1939-01-07,78414 Ashley Shoal,Kristybury,Alaska,99027,5,jennahamilton@example.org,2016-04-21,12117.75
+CUST0553,Paul Arias,Male,1969-11-12,720 Burgess Pines,Millershire,New Mexico,86144,3,mcdanieljohn@example.com,2021-11-13,6972.06
+CUST0554,Jennifer Foster,Female,1968-12-11,73372 Johnson Harbor,Port Heatherstad,Alaska,78310,1,mark56@example.org,2008-08-22,23559.35
+CUST0555,Hannah Barnes,Male,1988-11-15,652 Jeremy Fork Apt. 647,Matthewberg,Oklahoma,46486,2,teresa76@example.org,2011-10-25,76769.94
+CUST0556,Cheyenne Shah,Female,2000-11-08,059 Sullivan Valley Apt. 842,Ashleyport,Alaska,35290,2,mooreroger@example.org,2010-05-18,73320.04
+CUST0557,Samantha Santos,Female,1943-06-05,13888 Matthew Passage Apt. 012,Powellhaven,Maine,25603,1,christinawest@example.org,2010-06-15,5432.43
+CUST0558,Ruth Peterson,Female,1991-01-19,768 Tammy Plains,Port Abigailshire,California,02205,1,crobbins@example.net,2011-02-12,34071.18
+CUST0559,Michael Saunders,Female,1993-08-29,716 Sherry Views Apt. 079,South Amanda,Louisiana,81694,1,aadams@example.org,2022-07-30,31353.29
+CUST0560,Robert King,Female,1995-01-21,781 Joseph Circles,Cassandrafurt,Rhode Island,81145,4,wadetroy@example.org,2009-03-09,30197.96
+CUST0561,Brent Roman,Male,1998-06-03,199 Samantha Village Suite 339,North Tara,Maine,08495,4,suekim@example.com,2009-12-04,39932.35
+CUST0562,Robert Powers,Female,1946-10-10,61334 Alexandria Mission Apt. 340,Lake Sarah,Oregon,53692,1,janewilson@example.com,2022-11-15,73157.39
+CUST0563,Susan Wilson,Male,1982-10-08,0872 Reed Wells Suite 000,Patelville,Washington,84569,4,woodwendy@example.net,2025-03-23,81242.71
+CUST0564,Colleen James,Male,1939-03-23,87142 Morris Plains Suite 097,Brendaland,Missouri,07487,2,sheribartlett@example.com,2012-02-19,97284.76
+CUST0565,Lauren Mejia,Female,1999-09-08,72442 Smith Cliff,Richfurt,Washington,99721,5,kaylee48@example.net,2018-08-01,93657.79
+CUST0566,Kyle Wells,Female,1955-08-11,5226 Brett Ford Apt. 086,West Patricia,West Virginia,86023,1,vgray@example.org,2023-04-11,7717.26
+CUST0567,Alan Page,Male,1975-07-13,0324 Salinas Junction,Port Jessica,Kansas,63315,4,philipwells@example.com,2022-02-23,20641.56
+CUST0568,Daniel Sosa,Male,1941-12-13,8996 Stephens Estates,Carsonville,Pennsylvania,90431,4,robert64@example.org,2019-07-12,70726.92
+CUST0569,Dennis Williams,Male,1999-04-03,3104 Joseph Center,Jenniferport,Mississippi,94643,4,hernandezwhitney@example.com,2020-04-23,54641.03
+CUST0570,Julie Perry,Male,2006-05-14,8094 Coleman Forges,Julieville,Alaska,49847,4,walshlaura@example.org,2015-11-13,80247.21
+CUST0571,Harry Mcintyre,Male,1966-01-02,66376 Conrad Green,Teresafurt,Washington,46012,2,nicole84@example.net,2010-09-18,88152.18
+CUST0572,Clifford Cooley,Male,1957-04-28,1342 David Forges Apt. 027,Samuelton,Virginia,81561,2,leekelly@example.com,2024-12-21,79722.22
+CUST0573,Patricia Martin,Female,1939-03-29,3928 Fowler Shores,North Samanthaport,Washington,06941,1,robert52@example.org,2017-06-25,52330.97
+CUST0574,Jeffrey Riley,Female,1957-05-16,62915 Vanessa Shore Apt. 375,Ryanburgh,Texas,66414,2,wagnerleslie@example.net,2015-10-14,95189.5
+CUST0575,Kylie Barajas,Male,2000-11-01,87292 Mark Locks,Murilloview,New Jersey,97932,2,brian33@example.org,2009-08-19,71004.29
+CUST0576,Marcus Thompson,Male,1980-07-29,4082 Moran Turnpike Apt. 207,South Benjaminfort,Arkansas,22277,5,wlynch@example.com,2010-07-28,31985.03
+CUST0577,James Smith,Female,1999-10-28,4458 Campbell Forge Apt. 803,Lake Rhonda,Maryland,39789,1,louis70@example.org,2014-01-18,18717.16
+CUST0578,Luis Harper,Male,1984-07-31,0585 Kelly Viaduct,Janetfort,North Carolina,72552,5,smithshelia@example.com,2010-04-02,74835.37
+CUST0579,Erin Cabrera,Female,2006-04-23,2553 Browning Wall Apt. 834,Knappview,New York,80339,1,laura07@example.org,2010-01-24,50780.18
+CUST0580,Melissa Johnson,Female,1988-07-20,1749 Kristopher Bypass,North Omar,Missouri,86065,2,watersjeremy@example.net,2024-01-12,41673.76
+CUST0581,Andre Norman,Female,1958-04-02,118 Mark Prairie,West Allen,North Dakota,76949,1,connie64@example.com,2021-07-22,14784.81
+CUST0582,Maria Williams,Female,2006-12-17,2837 Fry Plaza Apt. 295,Stephaniefort,Idaho,19391,2,arthuryoung@example.org,2012-09-17,76141.65
+CUST0583,Christian Bonilla,Male,1970-10-02,00340 Stacy Coves,North Christineborough,Kansas,99081,2,abigailhall@example.com,2010-10-02,69361.95
+CUST0584,Charles Taylor,Male,1998-10-31,7728 Russell Neck Apt. 770,Mitchellland,California,28421,2,qbenson@example.org,2016-06-08,40506.26
+CUST0585,Tonya Miranda,Male,1979-07-10,836 Crystal Common Apt. 996,New Elizabethton,Washington,90715,2,lucasmiller@example.net,2023-10-11,87362.6
+CUST0586,Angela Young,Female,1997-10-09,8390 Lopez Dale Apt. 445,Port Jesus,Arkansas,20898,1,denisehughes@example.net,2006-02-24,97044.43
+CUST0587,Shelley Gonzalez,Female,1989-11-28,651 Erickson Loop,Hendersonville,New York,26770,1,markhorton@example.org,2012-05-28,81437.2
+CUST0588,Gina Charles,Female,1979-12-21,9216 Alexander Locks Suite 530,North Christopher,Maryland,86658,1,jonathan45@example.org,2010-08-19,53852.8
+CUST0589,Marie Hardy,Male,1961-05-18,2896 Smith Mountain Apt. 517,Joycebury,New Hampshire,29543,5,erikasmith@example.com,2020-08-18,30979.31
+CUST0590,Monique Fowler,Female,1947-06-11,644 Jeffrey Lodge Suite 353,Port Jennifer,Wyoming,14426,4,nataliekidd@example.org,2023-04-21,49351.82
+CUST0591,Vincent Macdonald,Male,1969-02-13,668 Pearson Skyway,Amandachester,Louisiana,54286,3,davislori@example.net,2016-05-16,75953.42
+CUST0592,Heather Johnson,Male,1968-05-12,249 Fleming Parkways Apt. 349,Port Lucas,Iowa,88277,3,angelalee@example.com,2024-07-30,35571.73
+CUST0593,Megan David,Female,1971-03-29,94304 Meadows Club Suite 629,Lake John,Missouri,22973,1,ifoster@example.org,2016-08-24,26996.09
+CUST0594,Briana Graham,Female,1995-02-13,49753 Diaz Flat,South Brittany,Mississippi,34072,3,james80@example.net,2023-07-26,89115.51
+CUST0595,Scott Smith,Female,1939-10-23,8528 May Dale Suite 055,Robinsonmouth,South Carolina,71077,2,lindseymejia@example.com,2016-08-18,8885.38
+CUST0596,Carlos Long,Male,1961-01-08,83461 Crystal Mountains Suite 666,Lake Paulland,Rhode Island,37170,1,chelseajohnson@example.org,2024-01-16,6406.21
+CUST0597,Matthew Evans,Male,1965-05-11,433 Ray Haven Suite 743,New Jason,Kentucky,55867,1,barrerameghan@example.org,2007-11-11,64114.97
+CUST0598,Karla Burton,Female,1978-05-30,84605 Hebert Spurs,Victoriafort,Michigan,82446,5,ericamiller@example.org,2016-09-21,26182.97
+CUST0599,Adam Blake,Female,1984-09-26,71834 Brian Freeway,Lake Jessicaside,Texas,35729,1,kayla83@example.net,2011-04-08,19181.25
+CUST0600,Sarah Solomon,Male,1983-01-12,91757 Connie Shoal,Robertside,Alaska,50553,1,donalddavid@example.org,2016-12-10,81675.97
+CUST0601,Sarah Brooks,Female,1947-09-14,58221 Russo Union,Coxview,Alabama,97363,2,cherryashley@example.org,2007-10-06,24873.24
+CUST0602,Nicholas Nelson,Male,2006-11-14,18698 Mccoy Park,Port Stephanie,Utah,19915,2,dgriffith@example.com,2023-09-21,3863.31
+CUST0603,Maria Chandler,Female,1939-05-01,26218 Day Square Apt. 644,Lake Erikabury,Nebraska,45154,1,kiaraware@example.com,2023-10-24,49876.3
+CUST0604,Chad Roberts,Female,1969-09-06,224 Baker Port,Brownbury,New Jersey,17938,2,david22@example.org,2013-08-28,99867.61
+CUST0605,Brenda Coleman,Male,1938-12-17,6987 Schneider Plaza Suite 634,East Holly,Texas,24143,4,fadams@example.org,2016-04-23,5711.59
+CUST0606,Stefanie Pierce,Male,1998-10-13,0730 Callahan Junction Apt. 742,Kevinshire,South Dakota,75529,1,igarcia@example.net,2008-03-13,31018.07
+CUST0607,Jacqueline Garcia,Female,1979-10-20,297 Nathaniel Row Suite 289,Tuckerburgh,Kansas,30414,1,jason15@example.org,2017-02-01,69171.96
+CUST0608,Tracy Small,Female,1988-10-30,77400 Ramos Path,Cabreraport,New York,19563,1,gallagherjoseph@example.net,2021-03-25,18333.88
+CUST0609,Michael Walker,Male,1954-02-25,0989 Williams Center Apt. 464,Bradleytown,Nebraska,05541,1,wilsonmadison@example.org,2025-02-13,27787.53
+CUST0610,Kristopher Boone,Male,1944-07-17,432 Adam Parkways Apt. 077,North Kaylee,Massachusetts,34538,4,williamsernest@example.com,2014-05-06,3261.92
+CUST0611,Elizabeth Miller,Male,1996-06-01,962 Selena Field Suite 797,Port David,Florida,19225,3,haley77@example.com,2005-09-29,17663.58
+CUST0612,Dean Austin,Male,1941-03-27,270 Thomas Row,North Eric,Vermont,02835,3,amy63@example.com,2020-11-24,64415.24
+CUST0613,Sydney Murillo,Male,1988-10-30,2972 Harris Spur,Tiffanyside,Michigan,03697,5,hinestimothy@example.org,2008-11-02,36496.18
+CUST0614,Gregory Thomas,Male,1975-05-30,651 Ferguson Bridge,West Jennifermouth,Ohio,43906,3,patricia69@example.net,2020-05-20,24713.26
+CUST0615,John Richardson,Female,1977-10-23,19667 Harrison Locks,Port Lauraborough,North Carolina,41857,4,wernerjeremy@example.com,2011-09-01,64775.12
+CUST0616,Thomas Thomas,Male,1999-04-05,5050 Jessica Crossroad,West Julieshire,Wyoming,60657,1,gardnertravis@example.org,2012-12-13,81557.34
+CUST0617,Kristin Fowler,Male,1955-09-01,533 Andrew Wells Apt. 760,Georgehaven,North Dakota,33313,2,glennsonia@example.org,2019-05-28,40362.01
+CUST0618,Christine Matthews,Female,1997-09-11,1914 Gregory Ports Suite 300,Smithton,Oregon,13388,3,jasmin50@example.net,2006-05-08,73947.94
+CUST0619,Logan Shepherd,Male,1954-05-28,6486 Jennifer Divide Apt. 847,South Billy,Mississippi,42370,2,mossruth@example.net,2019-07-24,43788.66
+CUST0620,Danny Lozano,Male,1979-12-16,06243 Palmer Plaza,Nathanielport,Utah,33010,5,nicole36@example.org,2023-05-19,28364.3
+CUST0621,Angela Watson,Male,1970-01-14,602 Brandi Throughway Suite 372,Kelleyview,West Virginia,06071,4,johnsonmichael@example.com,2021-10-31,98513.7
+CUST0622,Larry Meza,Male,2006-02-17,9819 Lori Ports,Sandratown,West Virginia,90224,3,carterkimberly@example.net,2014-10-02,90980.71
+CUST0623,Melissa Grant,Female,1949-08-24,286 Cynthia Hills,West Ariel,Maryland,67625,4,victoriacook@example.net,2009-09-02,40124.77
+CUST0624,Heather Davis,Female,1957-09-05,04334 Torres Inlet,South Ryanbury,Illinois,74902,5,nmccarthy@example.org,2006-07-18,9163.26
+CUST0625,John Singh,Female,1994-05-08,15534 Kevin Field,Sabrinabury,New Hampshire,15352,1,bjames@example.org,2023-01-29,66432.87
+CUST0626,William Bird,Female,1946-12-03,08484 Grant Ford,West Jason,Alabama,19246,1,allenflynn@example.org,2023-09-27,21719.13
+CUST0627,Justin Miller,Male,1936-04-02,75099 Reynolds Points,Davidsonshire,North Carolina,30159,4,sharon17@example.com,2016-08-04,81578.66
+CUST0628,Jared Johnson,Male,1962-10-10,36017 Sophia Dam,South Craigfurt,California,09916,3,wonglisa@example.net,2022-07-05,87305.15
+CUST0629,Susan Owens,Male,1992-03-03,36920 Reed Villages,Crystalland,Georgia,43485,2,hintonwilliam@example.org,2008-03-28,48414.36
+CUST0630,Michael Underwood,Female,1957-08-18,363 Brian Row,Joyburgh,Montana,04461,5,caseykathleen@example.net,2020-09-20,9037.26
+CUST0631,Harry Cooper,Male,1964-09-27,1794 Garcia Crest,Wilsonfurt,Hawaii,80812,5,bjackson@example.net,2011-04-10,36338.01
+CUST0632,Molly Bullock,Female,1956-05-26,1420 Sloan Lake Suite 166,Port Juliefort,Alabama,93170,2,hendersonlucas@example.com,2022-06-05,47467.04
+CUST0633,Christopher Long,Male,1960-05-30,5068 Clay Via Apt. 612,Herrerabury,New Jersey,34100,4,justin05@example.com,2025-01-21,4984.82
+CUST0634,Adriana Fields,Male,1984-06-24,118 Gary Passage Apt. 999,Port Paulfort,North Dakota,08343,3,colemanalicia@example.org,2017-11-06,96735.06
+CUST0635,Nicole Kramer,Male,1973-05-19,091 Weaver Streets Suite 527,Forbeschester,New Mexico,69972,3,jdavis@example.org,2012-10-22,87970.2
+CUST0636,Joseph Richardson,Female,1988-04-05,527 Grant Estates,Alexandrashire,Oregon,60658,2,larryestrada@example.com,2020-03-10,31969.53
+CUST0637,Lindsey Merritt,Male,1991-07-26,13055 Pollard Spring,Reynoldschester,Washington,76031,3,jonathan75@example.org,2008-11-29,4969.39
+CUST0638,Alexis Harris,Female,1938-04-12,2936 John Creek,North Kelliville,Pennsylvania,11533,1,youngkelly@example.org,2012-10-02,44446.86
+CUST0639,Elizabeth Williams,Female,1979-03-12,753 Micheal Points Apt. 396,Port Andrew,Tennessee,15833,2,andersonerika@example.com,2017-04-22,61540.53
+CUST0640,Susan Lane,Male,1942-08-19,74991 Walker Fords,North Jeremyfort,Kansas,93454,4,jonesdavid@example.net,2010-05-21,64749.7
+CUST0641,Christopher Montgomery,Male,1940-09-01,5794 Lambert Forge Apt. 251,East Jennifer,West Virginia,27236,5,ohunter@example.org,2011-01-30,11654.34
+CUST0642,Christopher Perez,Male,1938-11-09,099 Adam Club,South Rhondaland,Washington,61728,4,sware@example.org,2015-05-17,62602.43
+CUST0643,Doris Williams,Male,1946-01-15,7679 Howard Oval Apt. 112,North Scott,Oregon,96949,5,smithwilliam@example.com,2010-03-10,69672.77
+CUST0644,Richard Mcbride,Male,1994-01-12,79133 April Club Apt. 318,Triciafort,New York,16404,5,jessicahartman@example.org,2017-02-20,43150.75
+CUST0645,Brandi Thomas,Female,2000-08-30,784 Jorge Trafficway Suite 546,Port Cherylfort,Florida,47575,1,james10@example.net,2015-09-08,79866.94
+CUST0646,Glenn Foster,Female,1997-11-05,1855 Joseph Vista,Gardnerburgh,Indiana,48232,3,francestaylor@example.net,2020-08-01,66857.37
+CUST0647,Paul Moore,Male,1937-12-27,10189 Maria Creek Apt. 999,South Vincent,Missouri,80861,1,nicolecoleman@example.org,2021-08-11,94631.44
+CUST0648,Felicia Lindsey,Male,1970-04-30,6914 Harris Gardens,Lake Seanshire,South Carolina,31894,2,tduncan@example.com,2009-01-02,4384.51
+CUST0649,Brett Strong,Female,1954-09-18,668 James Lodge,Woodburgh,Wyoming,19521,3,hoffmanmatthew@example.com,2014-11-10,67232.53
+CUST0650,Christina Raymond,Male,1958-07-05,80288 Wheeler Cliffs,Schwartzborough,Tennessee,56982,4,christopherjackson@example.org,2008-04-06,80940.75
+CUST0651,Jessica Russell,Female,1981-04-12,9680 Brandy Inlet,Port Kenneth,South Dakota,82642,4,kenneth29@example.net,2005-06-24,4264.58
+CUST0652,Kenneth Johnson,Female,1975-08-02,7344 Leach Crest,Dianaport,New Mexico,83120,2,christopherbrown@example.org,2024-11-26,9394.46
+CUST0653,Kevin Newman,Female,1944-10-07,253 Joseph Meadows Apt. 002,Villanuevaview,Minnesota,43339,3,karen83@example.com,2010-06-16,59266.4
+CUST0654,Stacy Mason,Male,2006-08-10,3136 Woodard Islands,West Wesleyport,Vermont,82393,2,christinathomas@example.net,2017-01-16,19065.83
+CUST0655,Lauren Roberts,Female,1997-06-21,60673 Christine Coves Apt. 569,Ellisfurt,Kentucky,89315,1,chenjohn@example.net,2024-10-28,71530.28
+CUST0656,Jennifer May,Male,1937-01-16,9477 Smith Way Apt. 475,Graytown,West Virginia,40930,5,wherrera@example.org,2025-04-13,74278.95
+CUST0657,Amber Thomas,Male,1980-05-31,916 Andrew Port Suite 780,North Peter,California,23850,5,stephentran@example.org,2013-10-19,12947.63
+CUST0658,Thomas Bailey,Female,1957-12-30,1124 Jodi Common Apt. 804,South Michaelfort,Pennsylvania,67380,1,travispatton@example.com,2007-01-15,19734.3
+CUST0659,Laura Jackson,Male,1996-01-12,083 Ferguson Coves,Heathertown,Alaska,96416,3,randynolan@example.org,2019-12-13,10714.14
+CUST0660,Tammy Hanson,Male,1965-09-10,74135 Walters Port Suite 966,Burtonberg,South Carolina,02508,5,stephensmith@example.net,2019-06-25,17157.89
+CUST0661,Stephanie Ellis,Female,1983-05-10,5206 Ryan Bypass Suite 581,North Benjamin,Washington,22969,1,brittany80@example.net,2016-11-22,81446.11
+CUST0662,Courtney Smith,Female,1938-08-14,0910 Wallace Tunnel,Stephanieview,Hawaii,40667,5,sherrycarpenter@example.com,2006-10-04,52993.15
+CUST0663,Beth Clarke,Male,1973-02-06,31611 Tamara Island,South Michael,Alabama,69648,2,ncallahan@example.org,2007-05-15,99953.88
+CUST0664,Joseph Duffy,Male,1995-03-19,71404 Hester Garden,Suttonburgh,New York,67100,1,hatfieldmegan@example.org,2023-11-09,60633.52
+CUST0665,Nathan Paul,Female,1945-01-02,2720 Berry Meadows Suite 100,Jonesside,Maine,72957,2,amandaperez@example.net,2006-01-18,14961.35
+CUST0666,James Watson,Male,1996-03-20,112 Webster Walk,Geraldtown,Illinois,43502,5,michaelharris@example.net,2006-07-12,99645.09
+CUST0667,Brian Moore,Male,1964-05-13,31257 Russell Glen,East Crystal,Florida,03485,5,susandavis@example.net,2015-12-27,57912.26
+CUST0668,Amanda Bradley,Male,1965-05-10,8162 Smith Islands,New Nataliestad,Iowa,67778,1,bryanwest@example.com,2019-01-06,24121.56
+CUST0669,Hayley Alvarez,Male,2007-01-04,020 Nicole Branch,Avilachester,Nevada,60755,4,timothy79@example.com,2019-04-16,65868.37
+CUST0670,Daniel Martinez,Female,1958-08-09,388 Sarah Wells,West Carl,Maine,49277,1,jhorn@example.net,2009-07-19,81993.0
+CUST0671,Christopher Barajas,Male,2006-09-23,7575 Washington Port Suite 832,East Anthony,New Hampshire,98253,2,smithjoseph@example.net,2009-08-01,4791.58
+CUST0672,Kylie Williams,Male,1999-07-29,133 Christina Points Suite 544,Brandonberg,Vermont,90226,5,maria13@example.com,2025-04-08,84288.22
+CUST0673,Stephanie Sherman,Female,1937-12-15,408 George Knoll Suite 039,Patriciaborough,Vermont,07572,1,samuelmiller@example.org,2018-10-16,62002.1
+CUST0674,Charles Parker,Male,1973-12-15,79130 Wiley Ville Suite 781,Rossmouth,Georgia,33363,4,brittany80@example.com,2013-10-31,20842.66
+CUST0675,Brittany Spencer,Male,1971-06-08,8819 Thornton Isle Apt. 797,Moodymouth,New Hampshire,81611,2,tadkins@example.net,2024-05-07,62916.42
+CUST0676,Brittany Kidd,Male,1953-12-12,004 Craig Heights,South Johnstad,California,82217,5,kylesanders@example.com,2015-12-09,7522.72
+CUST0677,Paul Miller,Male,1948-07-17,745 Morales Parks,Joshuastad,Ohio,11596,2,anthonymartin@example.com,2011-10-19,29523.18
+CUST0678,Michael Decker,Female,1961-06-01,49833 Miller Curve Suite 171,West Richardfort,Arkansas,83035,4,sarahprice@example.net,2019-05-27,51468.92
+CUST0679,Michael Contreras,Female,1952-07-08,52560 Ashley Circles Apt. 343,Williamshaven,Virginia,25938,1,uturner@example.com,2020-06-20,55288.98
+CUST0680,Fernando Diaz,Female,1993-08-10,2754 Smith Mews Apt. 108,Wagnerburgh,Hawaii,44300,2,beth49@example.net,2011-08-09,34223.94
+CUST0681,Jodi Hernandez,Female,1975-12-12,39858 Jason Stravenue Apt. 342,Webbburgh,Montana,57748,4,samantha71@example.net,2024-06-05,96810.13
+CUST0682,Julia Henderson,Female,1966-11-23,57884 Michael Drives,Melanietown,Oregon,05227,2,davisjoseph@example.com,2021-09-04,94007.45
+CUST0683,Mark Lester,Male,1968-10-24,90582 Miller Run Apt. 288,Martinfurt,Mississippi,87459,4,johnsonnathaniel@example.net,2023-02-18,27437.15
+CUST0684,Christopher Martin,Male,1982-07-12,918 Ellis Fort,South Daniel,California,91494,2,yturner@example.org,2011-06-15,12812.24
+CUST0685,Sarah May,Male,2006-05-09,72979 Johnson Center,Smithfurt,Oklahoma,24105,2,lisaball@example.net,2006-09-03,32009.27
+CUST0686,Nicholas Pope,Male,1964-11-06,599 David Spur,West Christopher,Minnesota,21253,1,ronaldmurray@example.net,2022-02-18,5071.08
+CUST0687,Janet Huerta,Female,1963-06-27,9668 Thornton Road Apt. 084,Brianside,Oklahoma,38659,5,melindashepherd@example.net,2007-01-04,30323.83
+CUST0688,Darrell Miller,Male,2006-12-23,00166 Clark Fort Apt. 970,North Carloston,Idaho,71847,2,bdalton@example.net,2011-07-25,93257.47
+CUST0689,Allison Riley,Male,1981-03-28,5103 Anthony Lock,Watsonbury,Mississippi,94957,3,lesliedavis@example.com,2021-02-12,51771.71
+CUST0690,Kyle Gibbs,Male,1996-03-17,285 Marvin Spurs,North Michael,Maine,07722,1,johnsonricky@example.org,2025-03-26,15639.71
+CUST0691,Melissa Miller,Male,1968-08-17,5181 Susan Fork Apt. 789,Timothytown,South Carolina,05270,5,estradahannah@example.org,2015-08-05,98337.11
+CUST0692,Andrew Ortega,Female,1935-09-27,135 Jennifer Path,Grayville,Alaska,93145,4,heather59@example.com,2010-01-14,71914.65
+CUST0693,Lisa Massey,Male,1989-12-22,75746 Walker Point Apt. 280,South Robertport,New York,78510,4,duffyryan@example.org,2015-06-21,29864.94
+CUST0694,Scott Watson,Female,1974-07-25,2749 Paul Turnpike Suite 214,Patriciaberg,Massachusetts,33002,3,lopezcynthia@example.org,2017-07-27,67539.25
+CUST0695,Joseph Hill,Male,1940-09-25,260 Carey Forks,Lake Jason,New Mexico,66782,3,hsolis@example.com,2012-10-09,17147.91
+CUST0696,John Snyder,Female,2005-10-28,765 Cherry Parkway Apt. 469,Port Johnborough,Oklahoma,78460,2,asmith@example.org,2020-10-26,22887.84
+CUST0697,Samantha Stephenson,Male,1986-04-28,94953 Miller Common,Bakerborough,Illinois,60353,5,amanda75@example.com,2013-07-16,84818.11
+CUST0698,Ryan Martin,Male,1942-06-09,67849 Victoria Greens Suite 361,Darrellborough,Colorado,76199,2,wilsonmark@example.com,2024-03-30,8840.79
+CUST0699,James Hendrix,Female,2003-02-08,59906 John Manor Apt. 280,West Ashleestad,Delaware,57880,3,toddchavez@example.org,2008-02-10,89486.01
+CUST0700,Mark Mueller,Female,2005-03-24,975 Erica Via,Grayhaven,Arkansas,68533,1,cgonzalez@example.net,2022-08-30,43182.43
+CUST0701,Alicia Watson,Female,1979-04-23,8671 Susan Courts Apt. 300,Anthonytown,Alaska,06989,4,jennifer91@example.com,2007-04-01,75682.22
+CUST0702,Monica Williams,Male,1980-11-15,5004 Martinez Dale,New Matthew,Missouri,95398,3,tnewton@example.net,2005-10-13,75915.99
+CUST0703,Crystal French,Male,1935-08-28,14338 Matthew Mill Apt. 453,New Amandaton,Mississippi,99174,4,peterssteve@example.com,2022-12-14,41158.68
+CUST0704,Jesse Spears,Male,1972-04-22,283 Heather Street,Chanfurt,Iowa,20122,5,hillandrea@example.net,2025-04-04,13197.91
+CUST0705,Mitchell Lewis,Female,1936-12-07,5176 Theodore Ways,Alecbury,Louisiana,55363,2,hernandezjason@example.org,2010-06-30,96969.98
+CUST0706,Scott Nelson,Female,1940-11-05,54519 Christine Summit Suite 949,Harrisonmouth,South Carolina,37406,4,joann30@example.com,2019-03-28,50519.22
+CUST0707,Tyrone Perry,Male,1965-02-13,408 Smith Tunnel Apt. 849,North Angelaview,Oklahoma,64415,4,robbinspeggy@example.net,2010-07-16,70876.02
+CUST0708,Mark Thomas,Female,1993-01-28,97535 Martinez Prairie Apt. 453,Harrisfort,Vermont,38685,3,justinwilliamson@example.org,2017-07-11,89851.73
+CUST0709,Hannah Johnston,Female,1970-01-27,57224 Morse Villages Suite 419,North Aaron,Maryland,75465,5,karen43@example.net,2014-02-13,35327.0
+CUST0710,Teresa Taylor,Male,1995-09-26,1733 Kenneth Passage,North Brenda,Arkansas,40033,2,christopher79@example.org,2020-05-12,64969.46
+CUST0711,Sarah Branch,Female,1964-06-14,317 James Garden,Rhondastad,Arkansas,08573,5,richardkrueger@example.com,2017-10-08,1877.79
+CUST0712,Sherri Molina,Female,1993-01-05,0075 Clayton Shores,East Brian,Alabama,77550,1,harry12@example.com,2014-12-30,45367.4
+CUST0713,Bonnie Wilson,Female,1997-12-25,99710 Jessica Keys Suite 737,Lake Megan,Ohio,47349,2,tara44@example.net,2015-08-20,88888.56
+CUST0714,Jerry Jones,Female,1959-02-21,8651 Shirley Crescent Apt. 620,Fernandezland,California,14668,2,carrolljohn@example.com,2006-03-13,5036.06
+CUST0715,Cody Cook,Male,1955-05-26,745 Kenneth Locks,East Danielmouth,Mississippi,63400,2,mconway@example.net,2023-01-10,96695.44
+CUST0716,Peter King,Male,1957-11-27,087 Brown Gardens Apt. 815,North Kimberlyview,Kansas,90718,3,curtismatthew@example.com,2019-10-26,22123.27
+CUST0717,Stephanie Harrison,Female,1994-12-16,5282 Petersen Field,South Kathleenfort,Oregon,97570,2,anthonypeter@example.com,2010-06-12,54764.51
+CUST0718,Michael Cortez,Female,1966-01-06,9927 Wilson Loop Suite 260,Smithshire,Maine,33364,2,morgan74@example.net,2006-09-03,33382.07
+CUST0719,Kenneth Browning,Male,1985-08-29,14592 Daniel Shoal Suite 240,Harveybury,Connecticut,47245,1,kara43@example.com,2018-10-06,82991.46
+CUST0720,Krystal Patton,Male,1939-06-16,90717 Shannon Viaduct,South Yesenia,Florida,19424,1,jmartin@example.net,2015-07-22,63716.81
+CUST0721,Amanda Burns,Male,1964-02-10,4650 Andre Freeway Apt. 396,New Amandaton,New Jersey,50715,1,tflores@example.net,2024-01-19,26805.67
+CUST0722,Michael Bauer,Female,1992-06-11,093 Smith Valleys,Emmaside,New York,83383,5,zachary10@example.com,2010-06-13,61894.95
+CUST0723,Wendy Peterson,Female,1966-07-07,973 Samuel Ways Suite 681,Lopezshire,Hawaii,23488,4,benjaminleon@example.net,2023-08-07,88987.7
+CUST0724,Erica Snyder,Female,1940-09-18,868 Cassandra Isle Suite 966,South Mariaberg,New York,31495,5,annwilson@example.org,2021-05-15,37297.52
+CUST0725,Natalie Black,Female,2002-06-09,44908 Luis Ranch Suite 947,Rodneybury,West Virginia,36580,4,tommyjohnson@example.com,2010-02-04,79677.11
+CUST0726,Robert Garza,Female,1989-04-10,4514 Kelly Crescent,Danielmouth,West Virginia,39049,4,ikirby@example.net,2015-01-05,96916.15
+CUST0727,Jacqueline Pace,Female,1968-10-10,56985 Mclaughlin Walks Suite 691,New Stacybury,Michigan,77413,5,moranmelissa@example.com,2011-06-01,28011.7
+CUST0728,Christopher Navarro,Male,1973-08-11,53991 Courtney Greens Suite 957,West Mary,Texas,30250,1,parkergregory@example.net,2006-08-05,18379.36
+CUST0729,Lisa Baker,Male,1939-12-18,89234 Laurie Passage Apt. 171,West Timothy,Ohio,69075,5,kevindavis@example.com,2015-02-19,95792.93
+CUST0730,Lucas Mercado,Male,1956-01-25,469 Joseph Mission,Rachelfort,Michigan,77743,2,zacharybrown@example.net,2012-03-31,85728.98
+CUST0731,Jeremy Wallace,Female,1991-12-02,044 Amanda Lock Suite 998,Shelbybury,Connecticut,18857,3,kellyarnold@example.org,2012-12-12,52194.34
+CUST0732,Billy Morales,Male,1981-12-12,69765 Maureen Ferry,Lake Scott,Indiana,54378,3,fturner@example.com,2020-02-06,22463.25
+CUST0733,Michael Brown,Male,1977-01-12,36651 Jason Vista Apt. 731,Jefferyton,Wisconsin,02062,5,stephanie06@example.org,2020-03-08,82973.88
+CUST0734,Stanley Sanchez,Male,1975-03-26,73539 Martinez Key,North Alejandro,Maine,83777,2,garrettjackson@example.com,2012-09-06,99812.05
+CUST0735,Ethan Evans,Male,1996-08-26,669 Catherine Key,Greeneville,Rhode Island,38317,4,mgregory@example.net,2016-01-19,9279.46
+CUST0736,Marcus Jones,Male,1941-04-08,068 Maxwell Hill Suite 364,Robinsonview,Florida,11597,2,todd28@example.com,2009-03-16,66849.4
+CUST0737,Sabrina Henderson,Female,1943-09-16,3946 Ronald Path Apt. 004,West Cynthiamouth,Florida,74052,1,taylor77@example.net,2020-11-22,80285.92
+CUST0738,Michelle Harris,Male,1974-10-09,8890 Anthony Field,Fernandezberg,Kentucky,90282,5,kriley@example.org,2014-11-18,49691.05
+CUST0739,Scott Brooks,Female,1961-11-14,107 Richard Island,West Martin,Colorado,91267,5,efowler@example.org,2008-12-03,83548.94
+CUST0740,Geoffrey Schmidt,Male,1940-07-13,212 Pace Tunnel Suite 469,Gonzalezland,West Virginia,42584,4,danielsstephanie@example.org,2024-08-24,16022.55
+CUST0741,Ashley Kelly,Female,1949-05-06,5571 Brian Path Suite 462,North Robertton,Mississippi,26770,3,denise88@example.net,2014-07-30,77923.21
+CUST0742,Rebecca Thomas,Female,1960-04-18,162 Ian Hills,Port Jameston,Kentucky,62326,3,michaelsmith@example.com,2011-07-25,87973.04
+CUST0743,John King,Female,1975-03-10,963 Emma Key,Port Davidside,Kentucky,57582,1,michael54@example.com,2017-06-13,21086.18
+CUST0744,Tiffany Cruz,Male,1988-08-07,468 Contreras Gateway,West Catherineville,Maryland,38294,5,mporter@example.com,2019-07-19,33797.38
+CUST0745,Richard Ramsey,Female,1997-06-12,30484 Melanie Stream Apt. 251,Debraville,New Hampshire,56952,1,jason30@example.net,2009-11-21,97707.67
+CUST0746,Alec Carson,Male,1939-11-02,4225 Joseph Squares Suite 160,Port Brooke,Indiana,21730,4,reyesrichard@example.com,2012-09-24,37316.08
+CUST0747,Kimberly Weeks,Female,1980-03-06,4663 Lauren Ports Apt. 356,Clinebury,North Dakota,60038,5,gmiller@example.net,2013-12-25,35632.0
+CUST0748,Sherri Mitchell,Female,1944-01-28,28585 Annette Wells,Lake Davidburgh,Arkansas,55710,3,boltoncharles@example.com,2008-06-15,94940.53
+CUST0749,Phillip Barker,Male,1988-12-14,932 Jordan Coves Apt. 753,Mariamouth,South Carolina,75429,3,katrina13@example.net,2012-11-13,55021.12
+CUST0750,Brandon Miller,Female,1938-01-20,076 Ann Isle,Knighttown,Arizona,72429,3,jhunt@example.net,2021-06-29,76409.15
+CUST0751,Michael Stewart,Male,1958-01-28,256 Hannah Stravenue Apt. 422,Lake Rebecca,Kansas,86919,2,kchristian@example.com,2023-05-06,91925.42
+CUST0752,Ashley Davis,Female,1981-02-03,79419 Jesse Islands,Sharonfort,Hawaii,09804,2,dixonkatherine@example.com,2017-12-29,54912.88
+CUST0753,Nichole Simmons,Male,1977-02-16,156 Williams Circles,North Gregory,Idaho,45813,1,samanthasullivan@example.com,2020-03-01,5803.26
+CUST0754,Phillip Oneill,Male,1999-03-27,62874 Cruz Keys Apt. 664,Raymondside,Minnesota,79480,4,stacy84@example.org,2018-05-23,22143.88
+CUST0755,Lisa Scott,Female,1939-03-26,6462 Nixon Rapids Apt. 186,West Andrewbury,New York,12836,1,levi70@example.org,2007-05-08,99036.48
+CUST0756,Karen Stewart,Female,1993-03-25,78912 Todd Prairie,Thomasmouth,Texas,00562,3,patricia98@example.org,2011-10-07,74760.21
+CUST0757,Robert Flores,Male,1957-06-12,7992 Trevor Square,Lake Justin,Montana,35710,5,courtneychavez@example.net,2019-07-06,61941.01
+CUST0758,Jennifer Bradley,Male,1996-03-10,677 Dustin Wells Suite 258,Reyesberg,Hawaii,95584,1,xstephens@example.com,2010-03-27,86953.11
+CUST0759,Olivia Martin,Male,1993-07-03,381 Lauren Harbors,Charlesborough,Florida,56371,4,stewartgina@example.org,2014-12-17,11307.76
+CUST0760,Derek Brown,Female,1973-09-03,00308 Joseph Manors Suite 884,Jamesport,Vermont,16031,2,catherineharper@example.com,2013-01-03,66871.08
+CUST0761,Erika Sanders,Female,1995-02-19,0676 David Plain,New Crystal,Pennsylvania,16008,3,gardnerpamela@example.org,2016-12-17,81255.28
+CUST0762,John Gallagher,Female,2002-07-22,71439 Christine Inlet Suite 376,Lake Melissaport,New Mexico,17173,5,lori83@example.net,2005-09-01,15225.43
+CUST0763,Tina Shelton,Female,1936-10-08,2509 Davis Camp Suite 913,West Paulaberg,Wyoming,80608,1,tsosa@example.net,2006-10-17,48783.32
+CUST0764,Emily Stark,Male,1956-02-04,7054 Smith Freeway,South David,Pennsylvania,31878,5,davidcochran@example.net,2017-05-18,76450.28
+CUST0765,Virginia Davis,Male,1981-07-04,493 Scott Junctions Suite 874,Amandaside,Texas,47046,2,ebriggs@example.com,2008-07-19,90079.97
+CUST0766,Michael Sandoval,Male,1951-11-04,912 Nelson Rapid Apt. 419,Taraburgh,Massachusetts,92598,2,lharris@example.org,2014-02-24,99340.44
+CUST0767,Melissa Tucker,Female,2003-09-22,58882 John Falls,South Samanthamouth,Georgia,10904,1,cathywells@example.org,2011-05-30,13745.2
+CUST0768,Jared Lawson,Female,1989-07-17,166 Hubbard Stream Suite 102,Port Hannahchester,New Jersey,01412,5,cindy64@example.org,2013-09-10,47889.52
+CUST0769,Laura Brown,Female,1942-05-08,055 Ivan Island Apt. 633,South Luis,Vermont,43961,1,samanthagray@example.com,2016-01-11,57099.45
+CUST0770,Zachary Peters,Male,2005-10-26,6068 Howard Streets,Michaelland,West Virginia,04066,3,travis67@example.com,2006-11-10,81359.85
+CUST0771,Timothy Munoz,Female,2005-11-20,9753 Jackson Fort Apt. 535,South Robertland,New Mexico,82843,3,xbrown@example.net,2016-10-08,94543.27
+CUST0772,Joseph Martinez,Male,1987-01-31,11711 Kelley Forge,Lake Joshua,Georgia,17522,4,jlopez@example.com,2024-04-04,99830.49
+CUST0773,Sara Garza,Male,1979-08-12,472 Scott Port Suite 517,West Patricia,Missouri,54718,1,clarkvictoria@example.com,2022-12-27,92500.28
+CUST0774,Sarah Thomas,Male,1981-07-08,862 Francisco Forks,Lake Glenshire,Massachusetts,75271,3,amanda11@example.com,2021-09-13,88611.29
+CUST0775,Michelle Mendoza,Male,1992-07-08,659 Tanner Port,Murrayside,Massachusetts,17906,4,elizabeth03@example.org,2014-02-01,86845.58
+CUST0776,Wesley Jones,Female,1958-10-26,830 Mccoy Inlet Apt. 923,North Jamesland,Georgia,74899,2,stronglauren@example.net,2010-03-10,29296.95
+CUST0777,Caitlin Johnson,Male,1987-07-08,482 Owens Dale Suite 099,Reedmouth,Vermont,73715,1,nsmith@example.com,2024-11-05,48249.57
+CUST0778,Robert Bean,Male,1952-05-10,703 Johnson Views Suite 848,East Normanborough,North Dakota,96523,1,melissa70@example.com,2024-05-01,1044.8
+CUST0779,Mary Smith,Female,2003-03-10,667 Amanda Road,South Grant,California,32773,1,erinjones@example.com,2011-10-10,84274.21
+CUST0780,Alison Rivera,Male,1935-02-26,93530 Melissa Crest Apt. 828,Garretttown,South Dakota,75062,2,jjohnson@example.org,2017-05-26,44219.03
+CUST0781,Mary Burnett,Male,1997-08-30,3333 Jacob Plains Suite 635,South Brandy,South Dakota,36934,1,nhill@example.com,2012-02-19,28405.09
+CUST0782,Linda Shepard,Female,1962-05-14,346 Cynthia Shores,West Brandon,Minnesota,91736,4,xnewman@example.net,2005-08-04,75911.76
+CUST0783,Maria Salazar,Female,1983-09-02,172 Carter Road,Port Sonya,New York,02735,1,hubermichael@example.com,2011-04-24,34256.94
+CUST0784,Matthew Tucker,Female,1993-01-14,94156 Harris Highway,Connieshire,Illinois,81548,5,austin12@example.net,2024-09-23,83942.08
+CUST0785,Whitney Williams,Male,1945-07-30,65922 Amy Junctions,Andrewbury,New Jersey,51336,5,angelahood@example.org,2025-03-03,88959.38
+CUST0786,Audrey Griffith,Male,1940-12-14,439 Morse Club Apt. 696,West Michelle,Idaho,78724,4,lindseynelson@example.org,2009-07-09,42037.11
+CUST0787,Michael Graves,Female,1961-03-24,5396 Howell Mount,Sheilaville,Pennsylvania,54488,3,madelinemedina@example.org,2021-02-04,71061.78
+CUST0788,Alexander Perez,Female,2006-10-26,395 Alexis Valley,North Robertville,Idaho,12992,5,maria24@example.com,2017-05-21,85572.48
+CUST0789,Emily Miller,Female,1945-06-30,965 Michael Camp,Lake Amberberg,Pennsylvania,90087,1,khanhector@example.net,2024-04-04,3865.13
+CUST0790,James Smith,Male,1985-09-02,9406 Jacob Cove Suite 466,Fordmouth,Louisiana,64077,3,upeters@example.com,2024-12-08,81858.66
+CUST0791,Bailey Fox,Female,1971-08-17,37757 Allen Freeway,Allenfort,Alaska,77813,2,gonzalezmark@example.org,2011-05-04,79511.15
+CUST0792,Jessica Mcneil,Female,1981-07-18,526 Robert Fields Suite 754,Delgadobury,California,00883,1,vharrell@example.org,2023-07-28,55865.5
+CUST0793,Robert Mccarthy,Female,1988-09-24,0061 Tyler Villages Apt. 576,Robertville,Pennsylvania,05049,3,harveycheryl@example.net,2016-03-21,69362.62
+CUST0794,Candace Guerrero,Male,1961-03-19,3625 Marie Wall,Lake Paulaport,Mississippi,92361,5,mleonard@example.net,2025-04-02,12834.06
+CUST0795,Derrick Horton,Male,1996-01-31,39240 Mullen Glens Suite 424,Leonardbury,Florida,13173,5,wdawson@example.com,2016-11-01,99777.37
+CUST0796,Tara Smith,Male,1999-02-05,73378 Eric Centers,West Aliciaside,Ohio,26457,4,briannagonzales@example.com,2019-06-07,58549.59
+CUST0797,Deanna Parker,Male,1975-02-23,316 Brittany Mill,Lake Rachelberg,Nebraska,70534,1,jbridges@example.com,2016-10-29,50807.38
+CUST0798,Micheal Wilson,Female,1964-04-21,0704 Haynes Groves,West Amanda,Oregon,01435,1,uedwards@example.net,2016-07-12,69079.08
+CUST0799,Cody Pena,Male,1981-10-17,9000 Juan Via,Thomasville,Pennsylvania,82883,2,renee59@example.net,2010-08-27,31510.91
+CUST0800,Richard Sanchez,Male,1946-12-08,30181 Ashley Trace Apt. 600,East Grace,California,93782,1,annegarrett@example.com,2022-03-06,99185.98
+CUST0801,Stephanie Hawkins,Female,1981-08-19,0755 Knapp Mill Suite 998,Rogerberg,Illinois,65628,5,singletonbrittany@example.com,2013-01-02,27128.3
+CUST0802,Sheena Ward,Female,1949-01-12,896 Julie Harbor Apt. 015,Lewisberg,Missouri,20112,4,diane60@example.net,2025-02-13,11469.78
+CUST0803,Melissa Holloway,Male,1997-07-06,0400 Cameron Hills,Erikaside,Colorado,85407,4,sallen@example.org,2014-11-24,51915.89
+CUST0804,Teresa Arias,Male,1974-12-28,512 Erica Passage,Lake Jamie,Arkansas,36945,1,danielbyrd@example.org,2021-04-10,94070.54
+CUST0805,Rebekah Martinez,Female,1966-11-21,149 David Vista,Bakerstad,Maryland,12031,4,kristin14@example.net,2021-01-23,33636.52
+CUST0806,Dennis George,Female,1954-01-27,44940 Diana Dam Apt. 919,Danielfurt,Virginia,03792,5,longelizabeth@example.com,2020-01-05,98222.98
+CUST0807,Tyler Jones,Female,2000-08-10,2016 Alex Shoals,Littleton,Michigan,32882,4,hallen@example.org,2005-12-18,55673.97
+CUST0808,Gina Robinson,Female,1977-02-05,2652 Cindy Dale Suite 991,Suttonport,West Virginia,17957,1,neil90@example.org,2016-10-06,3044.89
+CUST0809,Matthew Carter,Female,1976-03-06,89003 Ruiz Extension,Port Jasonbury,New Jersey,63023,2,ana16@example.org,2021-10-09,74387.59
+CUST0810,Tyler Horne,Female,1995-12-04,2256 Webb Spur Suite 749,Lake Jeffreyport,New Mexico,29274,5,kennethbradley@example.net,2022-04-01,25883.67
+CUST0811,Holly Frost,Female,1993-07-27,050 Brandon Mall,Huntchester,Kentucky,37101,4,epeterson@example.net,2011-01-19,12719.51
+CUST0812,Zachary Rogers,Female,1986-08-09,3692 Ortiz Terrace Apt. 844,Lauraland,Nevada,50797,4,vjohnson@example.net,2013-08-10,22153.69
+CUST0813,Michael Ayala,Male,2005-07-23,333 Woodard Square Apt. 369,Dianefurt,New Jersey,79876,1,astewart@example.org,2014-04-28,98840.33
+CUST0814,Timothy Clark,Male,1974-11-25,0612 Cole Extension,Port Felicia,California,51042,4,traceymartin@example.com,2018-10-11,53964.12
+CUST0815,Jill Watkins,Female,1981-09-07,626 Watson Well,Fergusonmouth,Hawaii,42715,1,tinawhite@example.net,2022-01-05,21699.64
+CUST0816,Paul Garza,Female,1993-10-05,52144 Cheryl Lodge Apt. 698,North Bradleyshire,Ohio,93934,1,wilsonsara@example.com,2012-04-10,50974.44
+CUST0817,Scott Jones,Female,1968-05-21,3939 Walker Shoal,Phillipview,Texas,44802,1,shortshawn@example.net,2022-06-01,35149.84
+CUST0818,Brianna Jones,Male,1984-01-31,081 Riley Court,Garymouth,South Dakota,25996,5,kristina53@example.org,2011-08-31,5303.07
+CUST0819,Nathan Smith,Male,1977-12-06,142 Lynn Landing,Johnstonmouth,New Hampshire,67274,2,dchandler@example.com,2007-11-18,66353.01
+CUST0820,Jennifer Jenkins,Female,1988-03-26,3238 Julie Land Suite 006,Kennethton,Rhode Island,45174,5,qhall@example.com,2017-05-10,51582.82
+CUST0821,Katherine White,Female,1989-04-08,27921 Medina Square Apt. 031,South Laura,Virginia,43571,4,williamdaniel@example.org,2015-03-31,84466.95
+CUST0822,Angela Diaz,Male,1990-05-22,16269 Brown Forest,Shannonburgh,Rhode Island,03345,4,paulwhite@example.com,2021-09-06,48781.46
+CUST0823,Amy Cooper,Female,1987-04-12,9145 Tommy Prairie Suite 766,South Danielstad,Delaware,82011,4,justin55@example.com,2007-07-31,90737.17
+CUST0824,Shane Smith,Female,2003-09-28,070 Aaron Crescent,Wrightmouth,Alaska,39272,1,allenbrittany@example.com,2008-07-26,32819.98
+CUST0825,Heather Galvan,Female,1988-01-03,686 Perez Extensions,North Samantha,Iowa,10771,5,mscott@example.com,2005-06-30,23717.5
+CUST0826,Richard Keller,Female,1947-02-10,17231 Regina Squares,Lake Juliestad,Wisconsin,63340,3,thomas91@example.net,2018-07-20,62910.12
+CUST0827,Roy Gibson,Female,2007-01-18,295 David Orchard Suite 130,New Michaelmouth,Minnesota,55688,4,stanleyfoster@example.com,2023-12-03,84674.95
+CUST0828,John Williams,Male,1973-09-19,83251 Thornton Isle Suite 165,Aguilarside,New Hampshire,15670,5,tsmith@example.com,2005-11-23,98575.57
+CUST0829,Melissa Brewer,Female,1946-11-09,451 Eileen Creek,Archerstad,Missouri,96802,5,christopherparsons@example.org,2009-01-15,75173.85
+CUST0830,Zachary Martinez,Male,1935-06-30,54021 Gomez Mill,New Mistymouth,North Carolina,11547,4,manuel79@example.net,2024-03-23,99930.63
+CUST0831,Allison Cooper,Male,1949-08-20,287 Kathryn Courts Suite 015,West Jeffreyborough,Virginia,44666,4,phillip37@example.org,2014-02-05,19003.15
+CUST0832,Heather Kirk,Female,1970-01-03,326 Camacho Greens Apt. 323,Loriburgh,New Hampshire,41820,2,barrywerner@example.net,2019-05-15,83077.38
+CUST0833,Amanda Roman,Female,1959-05-16,70793 Steven Route,Lake Sara,Kentucky,75220,2,amanda01@example.org,2024-06-29,96996.51
+CUST0834,Charles Miller,Female,1972-11-23,75335 Allison Orchard Suite 722,Port Clayton,Arkansas,02802,5,uhill@example.com,2006-11-15,50524.1
+CUST0835,Jamie Wilson,Female,1936-11-23,0808 Walter Island Suite 652,Hernandezmouth,Connecticut,69108,1,melissadiaz@example.org,2014-09-09,1392.14
+CUST0836,Nicholas Sandoval,Male,1978-03-10,775 Robert Shoal,New Monique,Maryland,12584,1,hintonpatrick@example.net,2016-03-24,17577.81
+CUST0837,Edward Carter,Female,1986-02-22,7630 Kathy Lakes Apt. 790,New Matthew,North Carolina,84724,5,yjensen@example.org,2025-01-06,93920.89
+CUST0838,Christopher Garcia,Male,2005-12-05,3421 Bennett Ford,Hardyshire,Kansas,84793,3,nanderson@example.net,2017-01-28,61772.5
+CUST0839,Anthony Moore,Male,1957-03-30,624 Gregory Mountains Apt. 202,Currytown,Connecticut,40041,3,marc94@example.net,2006-03-06,16674.42
+CUST0840,Rachel Graham,Male,2003-05-06,9768 Daniel Wells,East Carlfort,Montana,15416,4,fuentessteven@example.net,2009-03-15,55734.37
+CUST0841,Jesse Parker,Female,1937-05-18,9812 Autumn Ridge Apt. 970,Hannaburgh,Arizona,52706,1,kcox@example.net,2014-02-24,73998.21
+CUST0842,Erica White,Male,1956-06-14,094 Brittany Haven Apt. 473,Michaelhaven,Georgia,65284,2,joshuafrancis@example.net,2023-05-19,62574.82
+CUST0843,Kenneth Perez,Female,1935-05-10,1677 Patrick Mountains,West Danielle,Utah,08768,3,rebeccadavis@example.com,2011-04-11,47002.27
+CUST0844,Randy Dougherty,Male,1972-12-21,18806 Harris Isle Apt. 422,North Mary,Mississippi,72243,3,gsheppard@example.com,2019-02-14,80636.05
+CUST0845,Christina Parker,Male,1993-12-15,003 Jenny Motorway,Lake Jennifer,Ohio,93735,1,tfuller@example.net,2012-12-27,48453.65
+CUST0846,Juan Sheppard,Male,1955-05-14,734 Corey Shore Apt. 735,Rileystad,Kansas,92561,1,kennethhester@example.org,2020-12-28,9556.11
+CUST0847,Christina Heath,Male,1977-08-01,5124 Mia Turnpike Suite 929,Hopkinsland,Utah,69131,1,staylor@example.com,2016-12-14,97697.72
+CUST0848,John Lutz,Male,1943-08-31,5758 Jennifer Ports Apt. 433,Perrymouth,Delaware,86724,3,turnerrussell@example.net,2020-04-16,27206.34
+CUST0849,Heather Wall,Male,2004-12-22,1781 Snyder River Apt. 619,Walshland,Nebraska,92007,5,darellano@example.com,2007-07-16,2038.05
+CUST0850,Teresa Meadows,Male,1989-09-08,018 Koch Vista,Danielsstad,Pennsylvania,82246,5,andrewoneill@example.com,2016-05-12,26829.79
+CUST0851,Danny Mcdaniel,Female,1971-05-07,398 Velazquez Route Suite 217,Lake Christophershire,North Carolina,98069,3,walshcraig@example.com,2011-03-04,16513.84
+CUST0852,Cynthia Phillips,Male,1953-10-15,189 Sarah Road Suite 680,East Davidborough,Kentucky,58042,5,suzannewilkins@example.net,2022-10-14,91628.14
+CUST0853,Victor Osborne,Female,2002-11-26,7772 Tara Pine Suite 064,Richardburgh,Illinois,34149,1,scottbrown@example.net,2009-08-31,86465.61
+CUST0854,John Perez,Male,1975-03-20,907 Jason Knoll Suite 025,Danielbury,California,54202,4,latoyamoreno@example.org,2019-06-24,99837.45
+CUST0855,Jeremy Cox,Male,1980-01-23,6545 Brown Inlet,South Douglastown,Tennessee,24668,3,dustinwilliams@example.com,2020-01-11,23290.31
+CUST0856,Victoria Brown,Male,1979-10-20,6511 Mitchell Burg Suite 356,South Rodney,West Virginia,71782,5,samanthacochran@example.com,2019-12-25,66948.22
+CUST0857,James Cline,Female,1935-04-23,6744 Tammy Key Apt. 611,Garciaburgh,Wisconsin,17172,1,williamspatrick@example.net,2018-04-12,13678.01
+CUST0858,Amanda Smith,Male,1966-05-02,648 Glover Summit Suite 043,Lake Richard,Texas,95648,5,zgarcia@example.org,2012-01-14,38574.46
+CUST0859,Laura Bailey,Female,2004-11-12,98699 William Course Suite 151,Alexanderberg,Kentucky,26089,4,owhite@example.org,2021-08-03,21555.57
+CUST0860,Antonio Harris,Male,1954-05-07,3222 Albert Shoal Suite 981,Morenoside,California,18679,1,martin01@example.org,2020-09-20,99944.97
+CUST0861,Kimberly Stevens,Male,1995-01-25,56649 Perkins Ramp,Jasonhaven,Maryland,81854,4,thomas89@example.com,2007-08-05,98739.51
+CUST0862,Johnny Morales,Male,1956-10-09,6022 Michele Cliffs,New Susanchester,Colorado,36848,3,hallstephanie@example.org,2019-09-27,68483.04
+CUST0863,Kimberly Wilson,Male,1952-12-30,872 Webb Center,Ericbury,Oklahoma,81341,1,ipatrick@example.net,2020-02-02,10761.5
+CUST0864,Daniel Blackburn,Male,1947-06-30,066 James Brooks Apt. 176,Joyceborough,Wisconsin,31324,1,anthonymckinney@example.org,2025-01-04,75020.48
+CUST0865,Melissa Stokes,Male,1973-06-16,5545 Pena Stream,North Austinshire,Montana,75767,2,pattonbrian@example.com,2006-01-08,42250.3
+CUST0866,Sandra Christensen,Male,2003-10-14,53998 Leslie Crossing,Thomasville,Texas,56038,4,coreyrichardson@example.com,2017-11-06,64169.35
+CUST0867,Christopher Yang,Female,1962-09-07,3545 Travis Crescent Suite 038,Lisaside,New Hampshire,21048,1,samuel27@example.net,2019-04-29,53277.52
+CUST0868,Jeremy Jordan,Male,1959-01-20,931 Rodriguez Union,New Jamesland,North Carolina,93314,2,williamsevelyn@example.com,2022-07-09,82797.27
+CUST0869,Michelle Miller,Male,1945-07-15,731 Peters Underpass,New Joseville,New Hampshire,15622,2,kerri69@example.com,2011-06-16,45352.23
+CUST0870,Tammy Williams,Male,1961-09-05,773 Fisher Causeway,Steinton,Virginia,14787,4,williamskrista@example.org,2016-06-25,27595.42
+CUST0871,Jack Ortega,Female,1942-06-16,26570 Robin Well Suite 794,Moralesfurt,Pennsylvania,19345,1,hfreeman@example.org,2020-06-14,96421.22
+CUST0872,Jasmine Padilla,Female,1949-04-10,21579 Ward Circles,Port Angelamouth,Minnesota,16608,1,arnoldgwendolyn@example.org,2024-12-24,62421.33
+CUST0873,Stacie Jennings,Male,1935-01-19,041 Alicia Spring Suite 372,Jamesview,Georgia,23131,4,alejandra48@example.net,2006-04-07,50100.63
+CUST0874,Cindy Smith,Female,1938-03-05,6673 Valerie Springs Suite 856,North Kevin,Indiana,21129,3,melissa86@example.org,2009-06-03,76948.38
+CUST0875,Anthony Davidson,Female,1977-08-13,5609 Amy Oval Apt. 893,Lake Cynthiamouth,Washington,67591,1,wongsara@example.org,2011-08-11,81792.94
+CUST0876,James Leonard,Female,1957-04-01,5843 Jenny Ford,Shermanland,Georgia,07769,1,nkerr@example.net,2007-10-04,82233.74
+CUST0877,Laura Rivera,Male,1960-01-18,41633 King Glen,Morrishaven,Rhode Island,69024,3,brandon35@example.net,2018-11-17,31818.71
+CUST0878,Jennifer Francis,Female,1940-04-06,890 Natasha Course,Carpentertown,Wisconsin,19517,5,abigail20@example.org,2015-05-12,22510.77
+CUST0879,April Gibson,Male,1961-09-30,79992 Houston Harbor Apt. 870,South Anafurt,Kentucky,71374,1,brittneybrooks@example.net,2006-08-21,24499.74
+CUST0880,Thomas Clark,Female,1977-07-10,0878 Cameron Common,Christopherside,Indiana,39704,1,lisa95@example.org,2015-03-01,57062.93
+CUST0881,Robert Brennan,Male,2000-08-12,507 Weaver Canyon Apt. 889,New Jesus,Minnesota,48265,1,elane@example.com,2009-12-07,97107.91
+CUST0882,Courtney Maxwell,Female,1976-11-11,104 Dorsey Forges Suite 840,Lake Shannon,Oregon,45087,4,brittany52@example.com,2020-05-09,40462.94
+CUST0883,Jennifer Stewart,Female,1961-04-01,86617 Curry Villages Apt. 884,Lake Peterland,South Carolina,81247,3,corr@example.net,2014-06-17,96021.87
+CUST0884,Maureen Wagner,Female,1973-11-30,36844 Gould Ways Apt. 009,Andreahaven,North Carolina,30305,4,ashleymathews@example.org,2023-10-09,79063.02
+CUST0885,Joe Smith,Female,1979-02-09,95948 Trujillo Mews Apt. 820,East Deborahport,Hawaii,52261,5,alexander56@example.com,2012-09-11,76189.59
+CUST0886,Paul Taylor,Female,2000-03-22,097 Schultz Rapids Apt. 972,Lake Jenniferview,Montana,78401,5,bmason@example.org,2007-02-26,52331.42
+CUST0887,Richard Nicholson,Female,1956-03-15,2204 Smith Lodge Suite 538,North Brianview,Indiana,89963,3,angie32@example.net,2021-02-16,16978.85
+CUST0888,Adrian Peterson,Female,1952-08-18,7034 Danielle Port Suite 195,South Angelafurt,Delaware,47738,3,amandahill@example.com,2022-03-10,85397.74
+CUST0889,Ricky Jenkins,Male,1986-08-21,646 Scott Circle,Moralesberg,West Virginia,67889,4,rtodd@example.net,2017-02-05,47228.16
+CUST0890,Jaime Mcdaniel,Female,2002-12-03,5880 Melanie Land,North Stephenland,Oklahoma,29263,3,williamvazquez@example.com,2013-09-20,59223.56
+CUST0891,Melissa Curry,Male,1939-04-12,870 Hall Pass Apt. 687,South Leslietown,Mississippi,11178,4,robert25@example.com,2017-09-13,3676.82
+CUST0892,Becky Gillespie,Female,1941-07-15,42294 Amanda Plaza Suite 503,Lake Randy,Ohio,14680,3,kellywilcox@example.net,2019-12-08,9361.4
+CUST0893,Antonio Gibson,Male,1982-02-20,963 Ball Loaf,Hawkinschester,Utah,31615,1,gwilson@example.org,2013-07-24,16993.63
+CUST0894,Tracey Spencer,Male,1957-01-17,8433 Oconnor Wells,West Sean,Iowa,95443,5,johnriggs@example.com,2020-09-02,79955.38
+CUST0895,Meghan Leonard,Male,1955-04-21,037 Gilmore Mountains,Boonehaven,Washington,43319,2,millercarl@example.com,2024-03-23,48384.17
+CUST0896,John Castillo,Male,1994-04-07,7859 Daniel Way,Horneshire,Florida,94299,3,dunlappatrick@example.org,2019-10-03,80310.9
+CUST0897,David Jones,Male,1974-10-18,200 David Tunnel,South Vincent,Vermont,00691,4,chelsea53@example.net,2023-05-13,71555.98
+CUST0898,Kimberly Webb,Male,2003-02-28,16102 Chase Forks Apt. 540,Reynoldsstad,Tennessee,48185,4,fgarcia@example.com,2021-09-04,86603.28
+CUST0899,Kimberly Roberson,Female,1969-01-05,19586 Williamson Track,Juanborough,Florida,64823,1,taylorlogan@example.com,2020-03-07,90919.72
+CUST0900,Amanda Juarez,Female,1995-01-29,71665 Mason Light,Harrismouth,New Jersey,33234,5,jhunt@example.org,2019-04-28,48438.53
+CUST0901,Nicole Mueller,Female,2002-12-07,95848 Theresa Drive Apt. 154,North Christinahaven,South Carolina,24602,5,deborahfernandez@example.com,2008-04-14,43580.55
+CUST0902,Alexander Powell,Male,1968-06-03,086 Laurie Cape Suite 285,Matthewfort,Iowa,64463,1,mason11@example.com,2008-10-08,37801.5
+CUST0903,Jessica Jones,Male,1984-03-04,757 Brian Mills,West Angela,Nevada,89553,4,robertsjohn@example.com,2023-09-02,27726.24
+CUST0904,Maria Smith,Male,1951-05-06,19085 Lee Mountain Suite 508,Lake Tricia,North Carolina,13382,1,barry80@example.com,2015-03-19,15877.97
+CUST0905,Angela Greer,Male,1977-12-15,364 Bryan Road Apt. 852,Jenniferfort,Nevada,27897,3,qgonzalez@example.com,2019-06-17,7898.9
+CUST0906,Theodore Irwin,Male,1979-09-06,9241 Ruben Parks,West Williammouth,Kentucky,02328,3,oramos@example.net,2010-12-27,97111.15
+CUST0907,Sarah Chambers,Female,1945-05-11,06383 Schneider Shoal,Gonzalezborough,Washington,49404,2,melissa41@example.net,2019-07-31,30247.52
+CUST0908,Sharon Ray,Male,2002-10-08,940 Eileen Station,Port Jamesstad,Kansas,21307,3,xwelch@example.org,2016-07-17,78764.61
+CUST0909,Patricia Elliott,Male,1941-07-24,1859 Owen Mission Apt. 070,North Joseph,Ohio,66555,3,nunezmary@example.org,2019-11-28,55228.4
+CUST0910,Michelle Long,Female,1990-10-19,79879 Nathan Groves,Coopertown,Colorado,83606,3,munozveronica@example.net,2007-11-30,22967.47
+CUST0911,Wendy Cook,Male,1981-04-10,5692 Schneider Garden Suite 438,Codyhaven,Connecticut,79735,3,milleralexander@example.net,2009-12-14,96623.1
+CUST0912,James Rodriguez,Male,2006-08-31,7447 Jones Hill,Jacksonchester,Delaware,72544,4,burtonashley@example.net,2005-08-19,82344.99
+CUST0913,Joshua Stephenson,Male,1961-03-01,10378 Molly Square Suite 068,Lake Raventown,Utah,90748,3,walkerpatrick@example.com,2020-02-26,41081.35
+CUST0914,James Mclaughlin,Male,1949-01-26,836 Shannon Motorway,Rhondachester,New Hampshire,59861,4,zperkins@example.net,2024-09-15,58643.58
+CUST0915,Luke Jacobson,Male,1965-01-31,4465 John Haven,New Jamesville,Washington,98800,4,jacobslaura@example.com,2011-11-25,22651.46
+CUST0916,Raymond Garcia,Male,1941-04-21,8270 Woodard Summit Apt. 007,Austinmouth,Maryland,55471,5,andradejoseph@example.net,2020-02-10,78816.6
+CUST0917,Cheryl Smith,Male,1955-03-30,3613 Jones Mill,New Chris,Missouri,43264,5,creese@example.net,2013-12-06,89685.23
+CUST0918,Troy Jackson,Female,1978-03-12,0683 Schneider Rest,Lake Melissahaven,North Dakota,94661,4,kjones@example.org,2018-05-03,46663.4
+CUST0919,Angela Taylor,Male,1940-10-10,658 Perez Loop,East Christina,Kentucky,32460,1,smithashley@example.net,2017-06-21,97641.57
+CUST0920,Anthony Moore,Female,1945-08-25,95611 John View,Jamesbury,New Hampshire,95151,3,denisedavis@example.net,2019-04-26,67495.73
+CUST0921,Matthew Garcia,Male,1951-04-09,072 Jill Alley Apt. 317,East Jamesmouth,Mississippi,26794,4,hardinkyle@example.org,2008-06-11,24871.42
+CUST0922,Lauren Little,Male,1935-11-15,46921 Rick Fields Apt. 243,Kennedyberg,West Virginia,40885,3,ywilliamson@example.net,2015-08-11,93636.51
+CUST0923,David Fisher,Male,1957-06-16,46368 Christopher Point,Lindaberg,Illinois,13834,4,amyschultz@example.com,2010-07-07,64447.64
+CUST0924,Tiffany Mcbride,Male,2004-04-04,7682 Kelly Trail,South Cathyhaven,West Virginia,62318,3,melissamason@example.net,2010-02-05,62446.43
+CUST0925,Amanda Liu,Male,1988-02-20,4848 Richards Squares,New Aaron,Oregon,21023,5,ilewis@example.org,2022-04-10,65506.66
+CUST0926,Kenneth Turner,Male,1968-03-20,7026 James Common Suite 041,Woodwardside,Minnesota,85481,2,daisymorgan@example.org,2010-08-27,73060.27
+CUST0927,David Torres,Male,1976-06-21,29311 Johnson Views,Parkerfurt,Maryland,05643,4,ycarr@example.com,2022-07-24,61960.64
+CUST0928,Howard Klein,Female,1999-03-08,124 Carla Harbor Apt. 052,Chandlerhaven,West Virginia,37675,4,jason13@example.net,2022-07-02,38582.53
+CUST0929,Brandon White,Female,1938-05-23,92215 Bobby Dam Suite 998,Port Janeside,Montana,04607,3,humphreysergio@example.org,2010-01-24,75786.01
+CUST0930,Eduardo Rose,Female,1995-09-12,0952 Paul River,North Kimberlyview,California,54523,2,guzmanfelicia@example.net,2018-09-22,7913.26
+CUST0931,Elizabeth Vaughan,Female,1937-07-11,8357 Amber Circle,North Anthonyfurt,Nevada,85273,3,carolyn08@example.com,2005-12-07,74365.23
+CUST0932,Carrie Leblanc,Female,1971-11-30,69337 Anderson Drive,New Kaylafurt,New Mexico,26872,5,benjaminvega@example.net,2011-10-10,37660.97
+CUST0933,Caitlin Alexander,Female,1987-08-02,92163 Johnson Course Apt. 952,Lake Brianberg,Alabama,67315,5,ahouse@example.com,2019-08-26,58346.43
+CUST0934,Travis Hodges,Female,1962-07-05,7816 Daniel Club Suite 482,East Beverly,Montana,03683,1,lorimendoza@example.org,2020-07-08,96500.67
+CUST0935,Janice Carrillo,Female,1936-07-07,830 Stephanie Ports Suite 357,Brianfort,Nevada,48200,5,zfrazier@example.net,2008-11-20,77035.74
+CUST0936,Ashley Malone,Male,1961-03-22,583 Oliver Inlet Apt. 296,Leemouth,Montana,87602,4,cookalicia@example.org,2010-11-28,16992.56
+CUST0937,Amber Gross,Female,2005-08-02,069 Stephanie Way,Harrisborough,Hawaii,34868,3,joshua97@example.net,2023-12-24,49236.06
+CUST0938,Kayla Rodriguez,Male,1999-01-25,522 Jason Stream,Wilsonfort,Vermont,47475,5,jewing@example.org,2016-02-27,78799.42
+CUST0939,Kristen Young,Male,1994-08-14,479 Kenneth Pass,North Michaelchester,Michigan,78968,1,cantujohn@example.com,2012-05-19,41532.95
+CUST0940,Scott Rodriguez,Male,1941-10-15,87622 Bray Meadows,Meganport,Louisiana,76894,4,ejackson@example.net,2016-01-05,28600.31
+CUST0941,Mark Pierce,Male,1974-09-22,88857 Brianna Common,Port Richard,North Carolina,27366,5,laurabradshaw@example.com,2016-09-26,53656.78
+CUST0942,Christopher Wood,Female,1956-09-28,373 Catherine Lakes,Lake Kathrynland,New Jersey,43756,2,edward43@example.com,2023-01-02,69491.72
+CUST0943,Mary Wells,Female,1982-11-28,57924 Amy Curve Apt. 662,Nicoleland,Minnesota,48423,3,meyerkaren@example.com,2005-04-24,12828.57
+CUST0944,Angela Smith,Female,1976-06-23,6527 Matthew Fork,Jennifermouth,Maryland,22870,3,morr@example.net,2012-11-07,48147.9
+CUST0945,Timothy Young,Female,1997-05-07,45834 Faith Way,Smithland,Wisconsin,41861,2,fosterkirsten@example.org,2014-09-26,41982.41
+CUST0946,Amy Paul,Female,1973-04-04,414 Brian Street Apt. 748,Millerburgh,Texas,70165,3,brianna52@example.com,2010-12-22,17790.37
+CUST0947,Caleb Willis,Male,1975-07-05,5241 Robinson Ferry Apt. 538,New Timothyborough,Virginia,90622,3,william35@example.com,2022-05-26,63700.2
+CUST0948,Courtney Miller,Male,1983-12-14,0429 Grant Keys Apt. 952,South Todd,Wyoming,20052,3,tcase@example.org,2008-11-11,93936.28
+CUST0949,Rhonda Foster,Male,1943-06-05,74759 Willis Villages Apt. 148,East Jenniferland,Colorado,92845,2,hugheserin@example.com,2006-08-15,55964.02
+CUST0950,Jared Sosa,Female,1979-07-09,619 Carter Shore,West Elizabethmouth,Wyoming,19327,2,harpertiffany@example.org,2006-11-19,50959.95
+CUST0951,Sue Roberts,Female,1965-06-03,033 Krista Stravenue Suite 590,East Eric,Alaska,16113,2,brandonarmstrong@example.com,2009-06-08,59004.2
+CUST0952,Carol Perkins,Male,1936-08-02,668 Dodson Route,Hintonville,Maine,34988,5,kevinwilliams@example.com,2021-03-03,60405.73
+CUST0953,Scott Riggs,Male,2002-11-15,4938 Monica Inlet,Edwardsville,Pennsylvania,69022,2,jennacollins@example.net,2024-12-11,42796.07
+CUST0954,Gregory Edwards,Female,1963-04-04,901 Dawn Ridges Suite 400,Annaview,Mississippi,95066,2,jonessamantha@example.com,2021-10-15,50691.25
+CUST0955,William Wilson,Male,1982-11-19,6312 Christine Turnpike Suite 981,Lake Robert,Louisiana,39457,3,kathleenreese@example.net,2008-07-31,56441.59
+CUST0956,Caleb Smith,Female,1963-07-05,697 Paul Street Suite 387,Johnborough,Iowa,89396,3,gtanner@example.org,2007-02-27,53586.41
+CUST0957,Melanie Scott,Male,1963-06-10,33667 Mejia Canyon,Hooverville,Colorado,81925,2,ksilva@example.org,2025-02-24,69598.1
+CUST0958,Ann Jones,Female,2004-11-14,1673 Michael Harbor Apt. 305,Lake Allen,California,45160,5,elizabeth53@example.com,2006-01-23,15429.85
+CUST0959,Larry Davidson,Female,1987-07-18,41360 Brown Branch Apt. 666,West Jamesstad,Texas,12913,4,tylerjimenez@example.net,2020-10-07,37279.17
+CUST0960,Eric Brooks,Male,1951-09-07,20079 Travis Tunnel Suite 029,New Danielport,North Dakota,38679,2,hugheschristine@example.org,2015-10-01,70355.66
+CUST0961,Michael Roberts,Female,1982-10-10,03184 Beverly Club,Mccormickport,Iowa,44103,4,vwalker@example.net,2016-07-24,62763.54
+CUST0962,Jay Myers,Male,1973-02-06,854 Kara Walk,West Rachelborough,North Dakota,89386,3,dfuentes@example.org,2008-05-27,83622.54
+CUST0963,Julia Acosta,Male,1960-12-29,583 Day Drives,West Victor,Missouri,53380,5,qgarcia@example.com,2014-12-03,3161.71
+CUST0964,Jeffrey Waters,Male,2005-03-14,02301 Zavala Locks,Hallchester,Alaska,07981,2,mendezkeith@example.net,2024-01-09,37655.28
+CUST0965,Dillon Greene,Male,1982-03-06,29287 Anna Common Apt. 129,East Tara,Nebraska,74613,3,onavarro@example.net,2022-08-08,53430.06
+CUST0966,Anna Walter,Male,1957-11-03,485 Jason Orchard Suite 225,North Laura,Wisconsin,61057,2,olynch@example.com,2019-01-25,58526.26
+CUST0967,Justin Williams,Female,1970-12-29,1017 Jennifer Tunnel,Dunnmouth,Minnesota,43036,5,christy59@example.org,2023-02-03,59847.69
+CUST0968,Susan Alvarez,Female,2001-07-26,4169 Ruth Camp Apt. 050,Port Marissaport,Minnesota,19763,3,howard21@example.com,2020-07-24,49374.98
+CUST0969,Theodore Howard,Female,2002-10-23,642 Erin Rapid,Boonetown,Nebraska,43308,5,shawn18@example.com,2024-09-29,19178.39
+CUST0970,William Martin,Female,2005-10-30,151 Gentry Mountain,Lake Heidi,Delaware,07106,2,eblack@example.net,2011-01-17,32770.89
+CUST0971,Tyrone Sanchez,Male,1985-09-10,61672 Reynolds Forks Suite 232,South Sarah,New Hampshire,88566,5,kluna@example.net,2024-07-09,80067.26
+CUST0972,Allison Sampson,Male,1998-08-07,61994 David Isle Apt. 730,North Brettchester,California,48753,1,brian92@example.org,2018-07-17,86261.47
+CUST0973,Lance Jones,Female,1975-06-16,1645 Erin Coves,East Emily,Delaware,95285,4,gwendolynhaley@example.org,2007-08-22,73801.05
+CUST0974,Steven Burns,Male,1978-08-22,7173 Kenneth Village Apt. 891,Webstershire,Alabama,04163,3,caroline72@example.com,2006-07-22,1562.9
+CUST0975,Peter White,Male,1938-06-22,49233 Angela Stream Apt. 003,Jessicaberg,Utah,74858,3,janetodonnell@example.com,2011-01-26,38227.38
+CUST0976,Scott Smith,Female,1938-10-29,69261 Jeffrey Run Suite 153,Rossfurt,Montana,13114,4,lauriebrown@example.com,2018-07-03,89930.25
+CUST0977,Isaiah Hernandez,Female,1937-06-27,86587 Carter Stravenue,Lake Catherineland,West Virginia,09967,3,hkim@example.org,2015-09-12,97643.82
+CUST0978,Matthew Barron,Male,2006-06-02,024 Ashley Burg,Deanbury,Iowa,38910,4,steventaylor@example.net,2014-08-12,44558.25
+CUST0979,Susan Acosta,Male,1979-03-03,062 Lauren Bridge Suite 605,Katiebury,North Carolina,83947,1,watkinsfrancisco@example.org,2024-10-03,25646.17
+CUST0980,Christopher White,Female,1952-03-31,55121 Eduardo Cliffs,Sandovalport,Idaho,33852,1,hollandsarah@example.org,2017-06-03,63867.98
+CUST0981,Rodney Rodgers,Female,1989-09-15,26801 David Meadow Suite 357,Tylermouth,Tennessee,84105,4,cooksarah@example.com,2013-05-26,43320.07
+CUST0982,Jason Gutierrez,Female,1958-05-08,7593 Wise Walk Apt. 069,Crawfordhaven,Virginia,31061,2,david41@example.net,2017-10-16,47217.41
+CUST0983,Derrick Coleman,Male,1947-07-03,776 Robert Alley,East Allisonfurt,Pennsylvania,33639,4,john23@example.org,2017-09-20,59061.49
+CUST0984,Julie Moses,Female,1940-04-24,792 Kimberly Highway,West William,Kentucky,46732,4,evansjennifer@example.org,2007-04-21,88797.85
+CUST0985,Luis Washington,Female,1982-10-02,03079 Michaela Island Apt. 048,Donburgh,Vermont,97683,2,jonathantaylor@example.org,2006-10-08,41734.16
+CUST0986,Troy Cox,Male,1973-06-23,7874 Herbert Plaza,New Haroldchester,California,45800,2,nrodriguez@example.com,2009-09-29,99750.65
+CUST0987,Ashlee Hernandez,Female,2004-09-14,9736 Cunningham Loaf Suite 709,Gonzalezview,Minnesota,22650,3,moorecody@example.org,2018-03-19,94425.56
+CUST0988,Christopher Martinez,Male,1966-12-12,92942 Amanda Green Apt. 880,Dorseyview,South Dakota,21642,2,holtchristopher@example.com,2016-09-29,64688.45
+CUST0989,Alejandro Hines,Male,1998-03-22,1664 Lucas Run,Davisstad,Utah,56650,5,meyerslaura@example.org,2016-05-18,82102.22
+CUST0990,Kristen Smith,Male,1969-02-03,1800 John Crest,Port Jacob,Oklahoma,86324,4,aaronrangel@example.com,2009-08-11,44930.05
+CUST0991,Vanessa Bass,Female,1949-11-16,407 Chad Inlet,West Jessica,Nebraska,05563,5,mrodriguez@example.net,2015-11-28,2347.78
+CUST0992,Robin Blair,Male,1943-01-03,992 Lane Walks,Angelamouth,North Carolina,66486,5,cuevaselijah@example.org,2010-04-14,59220.78
+CUST0993,Sonya Smith,Female,1959-06-24,74453 Yang Cliff Apt. 414,Johnville,Oregon,95635,5,padillatroy@example.com,2012-04-09,30190.07
+CUST0994,Lisa Cannon,Male,1974-10-13,715 Justin Crest Suite 218,Sheribury,Kentucky,47898,1,erica01@example.com,2019-03-03,82877.51
+CUST0995,Mark Kim,Male,1970-06-13,56032 Bradley Camp Apt. 967,North Lisa,North Carolina,90366,3,ericalopez@example.net,2005-08-02,48155.51
+CUST0996,Anna Watson,Male,1965-08-20,23032 Samantha Motorway Suite 520,South Devinton,Maryland,71685,2,poolesheila@example.net,2007-07-16,76212.75
+CUST0997,Steven Smith,Female,2004-10-05,1106 Tyler Walk,Burnsmouth,Utah,60992,5,carolyn57@example.org,2017-07-26,21961.4
+CUST0998,Julie Alexander,Female,1970-10-17,8223 Donna Keys,Brooksville,Ohio,70527,3,nicholas77@example.com,2008-07-28,80329.65
+CUST0999,Taylor Green,Male,1970-12-21,5297 Torres Place Suite 081,Mannmouth,New Jersey,39562,3,christopherdavis@example.org,2006-03-24,33274.96
+CUST1000,Kristy Cisneros,Female,1993-01-26,61027 Kathy Views,North Erica,Michigan,79912,4,suzanne26@example.org,2011-03-11,57789.37
