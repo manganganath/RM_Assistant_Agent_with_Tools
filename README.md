@@ -80,7 +80,7 @@ It interprets RM queries, decides which tools to call, orchestrates their execut
 ---
 
 **Diagram:**
-![Agent-Tools Relationship](agent_tools_relationship.png)
+![Agent-Tools Relationship](https://github.com/manganganath/RM_Assistant_Agent_with_Tools/blob/main/_image/architecture.png?raw=true)
 
 ---
 
