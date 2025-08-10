@@ -37,7 +37,7 @@ AI agent for Relationship Managers (RMs) built on the Databricks Data Intelligen
 ## Architecture Overview
 
 At the core of the system is the **Orchestrator Agent**, powered by the **Llama-3.3-70B-Instruct** model (It can be any LLM with function calling capability). It interprets RM queries, decides which tools to call, orchestrates their execution, and synthesizes the final response.
-
+![Agent-Tools Relationship](https://raw.githubusercontent.com/manganganath/RM_Assistant_Agent_with_Tools/refs/heads/main/_image/architecture.png)
 
 ### Components
 
